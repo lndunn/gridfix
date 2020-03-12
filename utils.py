@@ -1,9 +1,15 @@
 import numpy as np
 from scipy import special
+import pandas as pd
 
-def calc_likelihood(p, x, y, link):
+from matplotlib import pyplot as plt
+
+def calc_likelihood(params, x, y, link, fleet_size):
     logL = 0
-    lam = link.failure_rate(p, x)
+    p = link.failure_prob(params, x)
+    lam = fleet_size * p
+    assert not any(pd.isnull(lam))
+    assert not any(lam==0)
     logL = -1*lam + y*np.log(lam) - np.log(special.factorial(y))
     return sum(logL)
 

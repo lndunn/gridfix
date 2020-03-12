@@ -1,0 +1,1052 @@
+﻿Utility Name,Date,Time,Latitude,Longitude,Material,Land use,Size,Suppression,Agency,Facility,,Voltage,Equipment,Type,Outage,Date,Time,Event,Failure,Contact
+PG&E,6/10/14,15:14,40.20599,-122.25333,Vegetation,Rural,< 0.25 Acres,Fire Agency,Red Bluff FD,101545144,,12000,Conductor,Overhead,Yes,6/10/14,15:14,Contact From Object,N.A.,Other
+PG&E,6/12/14,6:30,38.04375,-122.74624,Vegetation,Rural,10 - 99 Acres,Fire Agency,Cal Fire et al,102230371,AT&T,12000,Conductor,Overhead,Yes,6/12/14,6:30,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,6/13/14,9:19,36.93348,-121.388549,Vegetation,Rural,< 0.25 Acres,Fire Agency,Hollister FD,101703071,AT&T,21000,Conductor,Overhead,Yes,6/13/14,9:19,Contact From Object,N.A.,Vehicle
+PG&E,6/14/14,8:47,37.419005,-122.18077,Vegetation,Rural,< 3 meters,Unknown,,100275552,AT&T,12000,Conductor,Overhead,Yes,6/14/14,8:47,Contact From Object,N.A.,Animal
+PG&E,6/14/14,11:01,37.130915,-121.091918,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL Fire,Pole 000/013,None,70000,Conductor,Overhead,Yes,6/14/14,11:01,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,6/15/14,9:47,37.130774,-121.97141,Vegetation,Rural,< 0.25 Acres,Fire Agency,,"23633 Schulties Rd, Los Gatos",,12000,Conductor,Overhead,Yes,6/15/14,9:47,Contact From Object,N.A.,Vegetation
+PG&E,6/15/14,17:28,37.970771,-121.984981,Vegetation,Urban,< 3 meters,Self Extinguished,,"4239 Teakwood Ct, Concord",,0 - 750,Conductor,Overhead,Yes,6/15/14,17:28,Wire-Wire Contact,N.A.,N.A.
+PG&E,6/15/14,20:55,39.88786,-122.197369,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,101500605,,12000,Conductor,Overhead,Yes,6/15/14,20:55,Contact From Object,N.A.,Vehicle
+PG&E,6/16/14,15:37,38.16817,-120.607469,Vegetation,Rural,< 0.25 Acres,Fire Agency,,101280871,AT&T,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,6/17/14,13:49,38.666794,-122.596397,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire,102247824,,12000,Conductor,Overhead,Yes,6/17/14,13:49,Contact From Object,N.A.,Vehicle
+PG&E,6/17/14,14:50,40.96058,-124.043959,Vegetation,Rural,< 0.25 Acres,Unknown,,100979528,AT&T,0 - 750,Conductor,Overhead,Yes,6/17/14,14:50,Wire-Wire Contact,N.A.,N.A.
+PG&E,6/17/14,16:47,34.68609,-120.432732,Vegetation,Rural,< 3 meters,Self Extinguished,,101894765,,12000,Conductor,Overhead,Yes,6/17/14,16:47,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,6/17/14,21:24,38.41804,-121.140461,Vegetation,Rural,10 - 99 Acres,Unknown,,Twr. 052/320,None,115000,Conductor,Overhead,Yes,6/17/14,21:24,Contact From Object,N.A.,Animal
+PG&E,6/18/14,10:01,37.801098,-121.202156,Vegetation,Urban,.26 - 9.99 Acres,Fire Agency,Manteca FD,102085311,Verizon,17000,Conductor,Overhead,Yes,6/18/14,10:01,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,6/18/14,18:29,37.317509,-120.504905,Vegetation,Urban,< 0.25 Acres,Fire Agency,Cal Fire,101162090,AT&T,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,6/19/14,16:32,37.93146,-121.2999,Vegetation,Urban,< 0.25 Acres,Unknown,,102133758,AT&T,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,6/19/14,18:54,38.780199,-121.500724,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,101297449,AT&T,12000,Conductor,Overhead,Yes,6/19/14,18:54,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,6/20/14,9:47,34.865099,-120.320672,Vegetation,Rural,< 0.25 Acres,Unknown,,101862409,,12000,Conductor,Overhead,Yes,6/20/14,9:47,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,6/20/14,12:00,39.666337,-122.196881,Vegetation,Rural,< 0.25 Acres,Unknown,,100422609,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,6/20/14,14:15,40.78023,-121.50287,Vegetation,Rural,< 0.25 Acres,Fire Agency,,101520035,Frontier,12000,Conductor,Overhead,Yes,6/20/14,14:15,Contact From Object,N.A.,Vegetation
+PG&E,6/21/14,6:49,38.3753,-122.5494,Vegetation,Rural,< 0.25 Acres,Fire Agency,,"3111 WARM SPRINGS RD, GLEN ELLEN",,12000,Conductor,Overhead,Yes,6/21/14,6:49,Contact From Object,N.A.,Vegetation
+PG&E,6/21/14,14:36,38.36444,-122.262649,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire,102286053,AT&T,12000,Conductor,Overhead,Yes,6/21/14,14:36,Contact From Object,N.A.,Vehicle
+PG&E,6/22/14,8:19,34.894389,-120.424459,Vegetation,Urban,< 3 meters,Unknown,,101864052,Verizon,12000,Conductor,Overhead,Yes,6/22/14,8:19,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/23/14,6:04,37.5046,-120.00742,Vegetation,Rural,< 0.25 Acres,Unknown,,Pole 007/019,None,70000,Conductor,Overhead,Yes,6/23/14,6:04,Contact From Object,N.A.,Animal
+PG&E,6/23/14,17:45,39.064024,-121.022486,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,BET: MTR# 1007517420 & FUCO 7495,,12000,Conductor,Overhead,Yes,6/23/14,17:45,Contact From Object,N.A.,Vegetation
+PG&E,6/24/14,7:11,36.74954,-121.65706,Vegetation,Rural,< 0.25 Acres,Fire Agency,Salinas FD,101712215,AT&T,12000,Conductor,Overhead,Yes,6/24/14,7:11,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/24/14,7:48,37.9037,-121.679162,Other,Urban,< 3 meters,Fire Agency,Contra Costa FD,100485898,AT&T,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/24/14,14:31,39.78568,-121.90659,Vegetation,Rural,10 - 99 Acres,Fire Agency,Cal Fire,Mtr 36P580,None,12000,Conductor,Overhead,Yes,6/24/14,14:31,Contact From Object,N.A.,Animal
+PG&E,6/24/14,16:56,37.974014,-121.346462,Vegetation,Urban,< 0.25 Acres,Unknown,,103190493,,12000,Conductor,Overhead,Yes,6/24/14,16:56,Contact From Object,N.A.,Vegetation
+PG&E,6/24/14,17:12,38.110973,-122.564512,Vegetation,Urban,.26 - 9.99 Acres,Fire Agency,Novato Fire Department,102223842,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,6/25/14,1:36,36.89085,-121.71746,Vegetation,Rural,< 0.25 Acres,Unknown,,101697469,AT&T,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Balloons
+PG&E,6/25/14,8:51,34.88304,-120.277619,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,LD SIDE MTR 1008835806,,12000,Conductor,Overhead,Yes,6/25/14,8:51,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/25/14,8:53,39.01101,-120.89606,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,Main Line N/O buck to 20340 Spring Garden # 1004520726,,12000,Conductor,Overhead,Yes,6/25/14,8:53,Contact From Object,N.A.,Vegetation
+PG&E,6/25/14,21:47,37.997663,-121.769186,Vegetation,Rural,< 0.25 Acres,Unknown,,100455766,,21000,Conductor,Overhead,Yes,6/25/14,21:47,Contact From Object,N.A.,Animal
+PG&E,6/26/14,0:15,36.80025,-119.793779,Vegetation,Urban,< 0.25 Acres,Fire Agency,Fresno Fire Dept,100854012,AT&T,12000,Conductor,Overhead,Yes,6/26/14,0:15,Contact From Object,N.A.,Animal
+PG&E,6/28/14,23:04,37.899207,-121.860878,Vegetation,Rural,< 0.25 Acres,Unknown,,100483886,,21000,Transformer,Overhead,Yes,6/28/14,23:04,Contact From Object,N.A.,Animal
+PG&E,6/29/14,7:59,38.7794,-121.505549,Vegetation,Rural,< 0.25 Acres,Fire Agency,,101297918,AT&T,0 - 750,Transformer,Overhead,Yes,6/29/14,7:59,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,6/29/14,8:23,39.09198,-121.54307,Vegetation,Urban,< 0.25 Acres,Unknown,,SB 15745  ARBOGA RD 500' S/O FURNEAUX RD 2 SP EAST,,12000,Conductor,Overhead,Yes,6/29/14,8:23,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/29/14,19:53,38.5208,-123.06067,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,3600 E. AUTSTIN CREEK RD,,12000,Conductor,Overhead,Yes,6/29/14,19:53,Contact From Object,N.A.,Vegetation
+PG&E,6/30/14,14:08,38.44918,-122.87277,Vegetation,Rural,< 0.25 Acres,Unknown,,102022582,AT&T,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,6/30/14,18:25,39.144927,-122.131882,Vegetation,Rural,< 0.25 Acres,Unknown,,101629033,,12000,Conductor,Overhead,Yes,6/30/14,18:25,Contact From Object,N.A.,Animal
+PG&E,6/30/14,20:02,36.80802,-119.910139,Vegetation,Urban,< 0.25 Acres,Unknown,,100625545,AT&T,21000,Conductor,Overhead,Yes,6/30/14,20:02,Contact From Object,N.A.,Animal
+PG&E,7/1/14,3:46,37.900473,-121.260258,Vegetation,Rural,< 0.25 Acres,Unknown,,2 POLES EAST OF C3412,,12000,Conductor,Overhead,Yes,7/1/14,3:46,Contact From Object,N.A.,Vehicle
+PG&E,7/1/14,6:43,38.00623,-122.64303,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,West Marin Fire,102258915,AT&T,12000,Conductor,Overhead,Yes,7/1/14,6:43,Contact From Object,N.A.,Vegetation
+PG&E,7/1/14,9:45,37.42669,-119.88095,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,101065832,,21000,Conductor,Overhead,Yes,7/1/14,9:45,Contact From Object,N.A.,Animal
+PG&E,7/1/14,14:36,38.86487,-121.70255,Vegetation,Rural,< 0.25 Acres,Fire Agency,Yolo FD,101593404,Verizon,12000,Conductor,Overhead,Yes,7/1/14,14:36,Contact From Object,N.A.,Vehicle
+PG&E,7/1/14,18:43,37.085422,-121.760738,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,"6770 Croy Rd, Morgan Hill",,0 - 750,Conductor,Overhead,Yes,7/1/14,18:43,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,7/2/14,13:17,38.254571,-122.050928,Vegetation,Urban,< 0.25 Acres,Fire Agency,,101556512,AT&T,12000,Conductor,Overhead,Yes,7/2/14,13:17,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/2/14,14:29,40.47366,-122.47373,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,101481261,TDS HAPPY VALL,12000,Conductor,Overhead,Yes,7/2/14,14:29,Vandalism/Theft,N.A.,N.A.
+PG&E,7/2/14,17:17,35.053351,-119.40879,Vegetation,Rural,< 0.25 Acres,Fire Agency,,Mtr. 1004492840,,0 - 750,Transformer,Overhead,Yes,7/2/14,17:17,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,7/3/14,11:37,37.334884,-120.851017,Vegetation,Rural,< 0.25 Acres,Unknown,,101207072,AT&T,12000,Conductor,Overhead,Yes,7/3/14,11:37,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/3/14,19:22,39.491453,-121.538469,Vegetation,Rural,< 0.25 Acres,Unknown,,100369965,,12000,Other,Subsurface,Yes,7/3/14,19:22,Equipment/ Facility Failure,Other,N.A.
+PG&E,7/3/14,20:28,40.658384,-122.321476,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,T1192,,12000,Other,Padmounted,Yes,7/3/14,20:28,Equipment/ Facility Failure,Other,N.A.
+PG&E,7/4/14,1:40,39.333723,-121.139138,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,100001697,,12000,Transformer,Overhead,Yes,7/4/14,1:40,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,7/4/14,6:52,37.184019,-121.741604,Vegetation,Rural,< 3 meters,Unknown,,Sw 73367,,21000,Other,Overhead,Yes,7/4/14,6:52,Unknown,N.A.,N.A.
+PG&E,7/5/14,3:30,35.45955,-120.72915,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,101934121,,12000,Conductor,Overhead,Yes,7/5/14,3:30,Contact From Object,N.A.,Vegetation
+PG&E,7/5/14,5:33,37.249352,-121.012645,Other,Rural,< 3 meters,Fire Agency,,101219229,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/5/14,10:09,39.778538,-121.590038,Vegetation,Rural,< 0.25 Acres,Fire Agency,Butte County FD,100399511,,12000,Transformer,Overhead,Yes,7/5/14,10:09,Contact From Object,N.A.,Animal
+PG&E,7/5/14,23:17,39.81977,-121.626222,Vegetation,Rural,< 0.25 Acres,Fire Agency,,100355517,,12000,Conductor,Overhead,Yes,7/5/14,23:17,Contact From Object,N.A.,Vegetation
+PG&E,7/6/14,17:00,37.94691,-122.093609,Vegetation,Rural,< 0.25 Acres,Fire Agency,Contra Costa FD,100460181,AT&T,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,7/6/14,19:19,38.7489,-123.28498,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,6 SPANS FROM EOL TWD FUCO 4605,,12000,Conductor,Overhead,Yes,7/6/14,19:19,Contact From Object,N.A.,Vegetation
+PG&E,7/7/14,20:43,36.84939,-119.879986,Vegetation,Urban,< 0.25 Acres,Fire Agency,,NE of D9200,,21000,Conductor,Overhead,Yes,7/7/14,20:43,Contact From Object,N.A.,Other
+PG&E,7/7/14,23:49,37.032664,-120.310476,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,101090847,AT&T,12000,Conductor,Overhead,Yes,7/7/14,23:49,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/8/14,11:07,37.905357,-121.21985,Vegetation,Rural,< 0.25 Acres,Unknown,,102131509,,12000,Capacitor Bank,Overhead,Yes,7/8/14,11:07,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,7/8/14,11:41,36.701613,-121.576813,Vegetation,Rural,< 0.25 Acres,Unknown,,101722884,AT&T,12000,Conductor,Overhead,Yes,7/8/14,11:41,Contact From Object,N.A.,Vegetation
+PG&E,7/8/14,12:34,36.3905,-121.61475,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,5 SPANS BEYOND FU-9383,,12000,Conductor,Overhead,Yes,7/8/14,12:34,Contact From Object,N.A.,Vegetation
+PG&E,7/8/14,22:39,39.0437,-120.59052,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,22640 PLUMTREE RD,,12000,Conductor,Overhead,Yes,7/8/14,22:39,Contact From Object,N.A.,Vegetation
+PG&E,7/9/14,14:42,38.605789,-120.711755,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,"6851 Mount Aukum Rd, Somerset",,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,7/10/14,14:37,39.23185,-123.13989,Vegetation,Rural,< 0.25 Acres,Unknown,,MTR 1009774604,,12000,Conductor,Overhead,Yes,7/10/14,14:37,Contact From Object,N.A.,Vegetation
+PG&E,7/11/14,1:42,39.212134,-121.297765,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,Pole 000/006,,60000,Conductor,Overhead,Yes,7/11/14,1:42,Contact From Object,N.A.,Animal
+PG&E,7/11/14,14:07,36.94562,-121.766841,Vegetation,Urban,< 0.25 Acres,Fire Agency,Cal Fire,101709439,,21000,Conductor,Overhead,Yes,7/11/14,14:07,Contact From Object,N.A.,Balloons
+PG&E,7/11/14,15:15,38.9108,-122.009979,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,101651518,,12000,Transformer,Overhead,Yes,7/11/14,15:15,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,7/11/14,21:56,37.89526,-121.85704,Vegetation,Rural,< 0.25 Acres,Fire Agency,Contra Costa FD,102347574,AT&T,21000,Conductor,Overhead,Yes,7/11/14,21:56,Contact From Object,N.A.,Vehicle
+PG&E,7/12/14,16:25,36.535902,-121.417331,Vegetation,Rural,< 0.25 Acres,Fire Agency,,Mtr. 1006729371,,12000,Conductor,Overhead,Yes,7/12/14,16:25,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,7/12/14,19:52,40.777947,-121.99967,Vegetation,Rural,< 0.25 Acres,Fire Agency,,6 SPANS E/OF MTR 5000068877,,12000,Conductor,Overhead,Yes,7/12/14,19:52,Contact From Object,N.A.,Vegetation
+PG&E,7/13/14,18:42,38.97557,-123.68068,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,43712 CRISPIN RD,,12000,Conductor,Overhead,Yes,7/13/14,18:42,Contact From Object,N.A.,Vegetation
+PG&E,7/14/14,9:36,37.983222,-122.069611,Vegetation,Urban,< 0.25 Acres,Customer,,100460487,AT&T,21000,Conductor,Overhead,Yes,7/14/14,9:36,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/14/14,16:41,37.536178,-122.294979,Vegetation,Urban,< 0.25 Acres,Unknown,,100271153,AT&T,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Balloons
+PG&E,7/15/14,9:00,38.4189,-120.5195,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,101244892,,12000,Conductor,Overhead,Yes,7/15/14,9:00,Contact From Object,N.A.,Vegetation
+PG&E,7/15/14,16:32,38.255766,-122.048734,Vegetation,Urban,< 0.25 Acres,Fire Agency,,"1244 Grant St, Fairfield",,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,7/16/14,1:29,38.736277,-121.43654,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,100102912,,12000,Unknown,Overhead,Yes,7/16/14,1:29,Unknown,N.A.,N.A.
+PG&E,7/17/14,13:56,35.2421,-119.105,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,1 POLE E/OF NORIEGA AND HEATH,,21000,Conductor,Overhead,Yes,7/17/14,13:56,Contact From Object,N.A.,Vegetation
+PG&E,7/17/14,15:14,39.810434,-122.32999,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,1 POLE W/OF MTR #1008817785,,12000,Conductor,Overhead,Yes,7/17/14,15:14,Contact From Object,N.A.,Animal
+PG&E,7/17/14,17:24,37.374826,-122.082469,Vegetation,Urban,< 3 meters,Unknown,,3P N/O 1715,,12000,Conductor,Overhead,Yes,7/17/14,17:24,Contact From Object,N.A.,Vegetation
+PG&E,7/20/14,3:07,37.452284,-122.252411,Other,Urban,Structure Only,Fire Agency,Redwood City FD,"1045 Silver Hill Rd, Redwood City",,12000,Conductor,Overhead,Yes,7/20/14,3:07,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/20/14,12:23,37.676078,-119.796926,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,NPS,Twr. 038/224,,70000,Conductor,Overhead,Yes,7/20/14,12:23,Contact From Object,N.A.,Other
+PG&E,7/20/14,12:44,38.393139,-121.59374,Vegetation,Rural,< 0.25 Acres,Unknown,,101652420,,21000,Conductor,Overhead,Yes,7/20/14,12:44,Contact From Object,N.A.,Animal
+PG&E,7/21/14,9:57,37.59289,-121.341672,Vegetation,Rural,< 0.25 Acres,Fire Agency,,"3401 Gaffery Rd, Vernalis",,12000,Conductor,Overhead,Yes,7/21/14,9:57,Contact From Object,N.A.,Animal
+PG&E,7/22/14,14:53,37.06858,-121.66955,Vegetation,Rural,< 0.25 Acres,Unknown,,100607514,Verizon,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,7/22/14,20:09,37.951628,-120.459719,Vegetation,Rural,< 0.25 Acres,Unknown,,101012452,,0 - 750,Conductor,Overhead,Yes,7/22/14,20:09,Equipment/ Facility Failure,Other,N.A.
+PG&E,7/23/14,12:16,35.290998,-120.659317,Other,Urban,Structure Only,Fire Agency,San Luis Obispo FD,103351214,,12000,Conductor,Overhead,Yes,7/23/14,12:16,Contact From Object,N.A.,Vehicle
+PG&E,7/24/14,1:04,37.081274,-122.142584,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire,1 SP SS OF MTR 1008516620,,12000,Conductor,Overhead,Yes,7/24/14,1:04,Contact From Object,N.A.,Vegetation
+PG&E,7/24/14,10:59,40.024003,-122.09559,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,101537326,AT&T,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,7/24/14,11:56,38.39147,-122.93053,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,2 SPANS LOAD SIDE OF 1691,,12000,Conductor,Overhead,Yes,7/24/14,11:56,Contact From Object,N.A.,Vegetation
+PG&E,7/24/14,15:26,37.446539,-122.271934,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,Pole 000/019,AT&T,60000,Conductor,Overhead,Yes,7/24/14,15:26,Contact From Object,N.A.,Vegetation
+PG&E,7/24/14,15:51,39.836831,-121.703894,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,4 & 5 POLES S/OF LR 2028,,12000,Conductor,Overhead,Yes,7/24/14,15:51,Contact From Object,N.A.,Vegetation
+PG&E,7/24/14,19:28,39.045003,-121.172794,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,"16243 Tierra Rd, Grass Valley",,12000,Conductor,Overhead,Yes,7/24/14,19:28,Contact From Object,N.A.,Vegetation
+PG&E,7/25/14,12:16,39.649153,-121.871357,Vegetation,Rural,< 3 meters,Unknown,,100356542,,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,7/26/14,5:02,39.26145,-121.57459,Vegetation,Rural,< 0.25 Acres,Self Extinguished,,Twr. 001/110,,115000,Other,Overhead,Yes,7/26/14,5:02,Unknown,N.A.,N.A.
+PG&E,7/26/14,15:26,37.66551,-119.84165,Vegetation,Rural,1000 - 4999 Acres,Fire Agency,NPS,101084253,,12000,Conductor,Overhead,Yes,7/26/14,15:26,Contact From Object,N.A.,Vegetation
+PG&E,7/27/14,4:17,37.792576,-120.775014,Other,Rural,Structure Only,Fire Agency,Oakdale FD,102334307,,17000,Conductor,Overhead,Yes,7/27/14,4:17,Contact From Object,N.A.,Vehicle
+PG&E,7/27/14,6:54,35.60047,-121.11548,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,MAIN LINE LOAD SIDE FUSE TAP 5027,,12000,Conductor,Overhead,Yes,7/27/14,6:54,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/27/14,16:30,35.572014,-121.057898,Vegetation,Rural,< 0.25 Acres,Fire Agency,,Pole 014/099,,70000,Conductor,Overhead,Yes,7/27/14,16:30,Equipment/ Facility Failure,Other,N.A.
+PG&E,7/27/14,17:40,37.44818,-119.909498,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,101087619,,21000,Conductor,Overhead,Yes,7/27/14,17:40,Other,N.A.,N.A.
+PG&E,7/28/14,0:46,37.314452,-121.015839,Other,Urban,Structure Only,Fire Agency,,101229360,AT&T,12000,Conductor,Overhead,Yes,7/28/14,0:46,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,7/28/14,16:00,37.68553,-121.731329,Vegetation,Urban,< 3 meters,Unknown,,"967 Lynn St, Liverfmore",,12000,Conductor,Overhead,Yes,7/28/14,16:00,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/28/14,19:05,39.66819,-123.64417,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,MM 11.25,,12000,Conductor,Overhead,Yes,7/28/14,19:05,Contact From Object,N.A.,Vegetation
+PG&E,7/30/14,4:36,36.876504,-121.664597,Vegetation,Rural,< 0.25 Acres,Unknown,,101699196,AT&T,21000,Conductor,Overhead,Yes,7/30/14,4:36,Contact From Object,N.A.,Animal
+PG&E,7/30/14,10:42,39.328624,-121.383645,Vegetation,Rural,< 0.25 Acres,Unknown,,101292419,,12000,Conductor,Overhead,Yes,7/30/14,10:42,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/30/14,17:35,38.648293,-120.693086,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,101403817,AT&T,21000,Unknown,Overhead,Yes,7/30/14,17:35,Equipment/ Facility Failure,Voltage Regulator,N.A.
+PG&E,7/31/14,12:41,37.87822,-122.463394,Vegetation,Urban,< 0.25 Acres,Fire Agency,Tiburon,102295755,,12000,Conductor,Overhead,Yes,7/31/14,12:41,Contact From Object,N.A.,Vehicle
+PG&E,7/31/14,15:00,39.04242,-122.92059,Vegetation,Urban,< 0.25 Acres,Fire Agency,Lakeport Fire Dept.,102164900,AT&T,0 - 750,Conductor,Overhead,Yes,7/31/14,15:00,Contact From Object,N.A.,Vegetation
+PG&E,7/31/14,22:08,38.53428,-120.05708,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,4 SPANS SOUTH OF LR-2404,,12000,Conductor,Overhead,Yes,7/31/14,22:08,Contact From Object,N.A.,Vegetation
+PG&E,8/1/14,16:17,39.62532,-121.45238,Vegetation,Rural,< 0.25 Acres,Unknown,,709 Encina Grande Road,,0 - 750,Other,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,8/2/14,0:04,37.606314,-122.389831,Vegetation,Urban,< 0.25 Acres,Unknown,,Twr. 000/002,,115000,Conductor,Overhead,Yes,8/2/14,0:04,Contact From Object,N.A.,Balloons
+PG&E,8/2/14,10:38,36.61184,-119.30568,Vegetation,Rural,< 0.25 Acres,Unknown,,100710225,,12000,Fuse,Overhead,Yes,8/2/14,10:38,Contact From Object,N.A.,Animal
+PG&E,8/3/14,16:11,39.644375,-121.788033,Vegetation,Rural,< 0.25 Acres,Unknown,,MTR 1007460127,,12000,Conductor,Overhead,Yes,8/3/14,16:11,Contact From Object,N.A.,Vegetation
+PG&E,8/4/14,4:18,37.10626,-121.636669,Vegetation,Urban,< 0.25 Acres,Fire Agency,Cal Fire,100606026,Verizon,21000,Conductor,Overhead,No,,,Contact From Object,N.A.,Vehicle
+PG&E,8/5/14,0:08,38.78046,-121.489369,Vegetation,Rural,< 0.25 Acres,Fire Agency,,101297005,,12000,Conductor,Overhead,Yes,8/5/14,0:08,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,8/5/14,2:57,38.57043,-121.10227,Vegetation,Rural,< 0.25 Acres,Unknown,,7150 MEARS DR #A AUBURN,,12000,Conductor,Overhead,Yes,8/5/14,2:57,Contact From Object,N.A.,Vegetation
+PG&E,8/5/14,12:03,39.215499,-121.302929,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,Str. 010/122,,60000,Conductor,Overhead,Yes,8/5/14,12:03,Contact From Object,N.A.,Animal
+PG&E,8/5/14,14:50,37.34197,-121.63199,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,MTR 1009312709,,0 - 750,Transformer,Overhead,Yes,8/5/14,14:50,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,8/5/14,16:13,37.56341,-119.9395,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,MTR 1006385335,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,8/5/14,17:12,36.91876,-119.67667,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,100725159,,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,8/5/14,21:41,38.00311,-122.32705,Vegetation,Urban,< 0.25 Acres,Fire Agency,Contra Costa FD,101426924,,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,8/8/14,18:17,40.00112,-122.226079,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,101530848,,12000,Conductor,Overhead,Yes,8/8/14,18:17,Contact From Object,N.A.,Vehicle
+PG&E,8/9/14,2:53,38.3011,-122.89633,Vegetation,Rural,< 0.25 Acres,Unknown,,"2 SPANS SOURCE SIDE OF 30501 SHORLINE HWY, FALLON",,12000,Conductor,Overhead,Yes,8/9/14,2:53,Contact From Object,N.A.,Vegetation
+PG&E,8/9/14,15:36,36.685177,-119.04496,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,MTR#1005057583,,12000,Conductor,Overhead,Yes,8/9/14,15:36,Contact From Object,N.A.,Vegetation
+PG&E,8/11/14,9:23,37.91184,-120.34889,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,2 SPAN LOADSIDE FCO 20835,,17000,Conductor,Overhead,Yes,8/11/14,9:23,Contact From Object,N.A.,Vegetation
+PG&E,8/11/14,14:35,39.672523,-121.498317,Vegetation,Rural,< 0.25 Acres,Unknown,,Twr 022/146,,230000,Other,Overhead,Yes,8/11/14,14:35,Contact From Object,N.A.,Other
+PG&E,8/12/14,8:58,36.74057,-121.76764,Vegetation,Rural,< 3 meters,Unknown,,"S/S MONTE RD 4 SPANS S/O NASHUA RD, CASTROVILLE",,21000,Other,Overhead,Yes,8/12/14,8:58,Equipment/ Facility Failure,Other,N.A.
+PG&E,8/12/14,9:42,39.26324,-121.597489,Other,Rural,Structure Only,Unknown,,101287419,,12000,Conductor,Overhead,Yes,8/12/14,9:42,Contact From Object,N.A.,Vehicle
+PG&E,8/12/14,15:38,38.77711,-120.26575,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,WEST SIDE OF SW 6161,,21000,Conductor,Overhead,Yes,8/12/14,15:38,Contact From Object,N.A.,Vegetation
+PG&E,8/14/14,10:46,38.012395,-120.586052,Vegetation,Rural,< 3 meters,Unknown,,101272971,AT&T,17000,Conductor,Overhead,Yes,8/14/14,10:46,Contact From Object,N.A.,Vegetation
+PG&E,8/14/14,14:57,38.50991,-122.83713,Vegetation,Rural,< 0.25 Acres,Fire Agency,,102028597,AT&T,0 - 750,Conductor,Overhead,Yes,8/14/14,14:57,Wire-Wire Contact,N.A.,N.A.
+PG&E,8/15/14,11:01,40.5840531,-122.4446948,Vegetation,Rural,< 0.25 Acres,Fire Agency,Redding Fire Dept,101473764,AT&T,12000,Conductor,Overhead,Yes,8/15/14,11:01,Contact From Object,N.A.,Vegetation
+PG&E,8/16/14,7:30,39.29385,-121.6378,Vegetation,Rural,< 0.25 Acres,Unknown,,mtr # 1007536106,,12000,Conductor,Overhead,Yes,8/16/14,7:30,Contact From Object,N.A.,Vegetation
+PG&E,8/17/14,7:27,37.32202,-119.634469,Vegetation,Rural,< 0.25 Acres,Unknown,,RISER 10393,,12000,Conductor,Overhead,Yes,8/17/14,7:27,Contact From Object,N.A.,Animal
+PG&E,8/17/14,17:33,35.05785,-118.917488,Other,Rural,Structure Only,Unknown,,100175838,,12000,Conductor,Overhead,Yes,8/17/14,17:33,Contact From Object,N.A.,Vehicle
+PG&E,8/19/14,3:06,37.63258,-122.452629,Other,Urban,Structure Only,Fire Agency,,100316145,AT&T,12000,Conductor,Overhead,Yes,8/19/14,3:06,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/19/14,21:05,37.816508,-120.132182,Vegetation,Rural,< 3 meters,Fire Agency,Groveland Fire,"23111 ELMORE RD, GROVELAND",,17000,Conductor,Overhead,Yes,8/19/14,21:05,Contact From Object,N.A.,Vegetation
+PG&E,8/20/14,14:22,38.83054,-121.201419,Vegetation,Urban,< 0.25 Acres,Fire Agency,,100051560,AT&T,12000,Conductor,Overhead,Yes,8/20/14,14:22,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,8/20/14,16:07,40.193799,-123.767755,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,103316088,,12000,Conductor,Overhead,Yes,8/20/14,16:07,Contact From Object,N.A.,Vegetation
+PG&E,8/21/14,0:00,37.39646,-121.071581,Vegetation,Rural,< 0.25 Acres,Unknown,,"Eastin Rd, south of Hwy 33, Crows Landing",,12000,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,8/23/14,8:36,37.98626,-120.391829,Vegetation,Urban,< 0.25 Acres,Fire Agency,Cal Fire,101049418,AT&T,17000,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,8/24/14,11:08,37.9417917,-121.318265,Vegetation,Urban,< 0.25 Acres,Fire Agency,Stockton FD,102109203,AT&T,12000,Conductor,Overhead,Yes,8/24/14,11:08,Contact From Object,N.A.,Animal
+PG&E,8/27/14,6:51,38.36031,-122.01778,Vegetation,Urban,< 0.25 Acres,Unknown,,"foothill w/o auburn, Vacaville",,12000,Conductor,Overhead,Yes,8/27/14,6:51,Contact From Object,N.A.,Vehicle
+PG&E,8/27/14,15:19,38.59295,-122.91833,Vegetation,Rural,< 0.25 Acres,Unknown,,3103 MILL CREEK RD,,12000,Conductor,Overhead,Yes,8/27/14,15:19,Contact From Object,N.A.,Vegetation
+PG&E,8/28/14,0:00,40.388624,-122.406849,Vegetation,Rural,< 3 meters,Unknown,,"Gas Point Rd and Happy Valley Rd, Cottonwood",AT&T,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/28/14,13:51,36.2607363,-119.85733,Vegetation,Rural,< 0.25 Acres,Fire Agency,,Pole 003/003,,70000,Conductor,Overhead,Yes,8/28/14,13:51,Contact From Object,N.A.,Animal
+PG&E,8/29/14,19:21,37.78713,-120.763649,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,1 SP N/of 6567,,17000,Conductor,Overhead,Yes,8/29/14,19:21,Contact From Object,N.A.,Vehicle
+PG&E,8/30/14,12:08,39.76109,-121.859309,Vegetation,Urban,< 0.25 Acres,Fire Agency,,100349953,AT&T,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,8/30/14,15:40,37.6381467,-121.333415,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,102052361,AT&T,12000,Fuse,Overhead,Yes,8/30/14,15:40,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,8/30/14,18:34,37.35511,-121.79787,Vegetation,Rural,< 3 meters,Unknown,,100575446,AT&T,0 - 750,Conductor,Overhead,No,,,Wire-Wire Contact,N.A.,N.A.
+PG&E,8/31/14,2:12,38.41937,-122.94964,Vegetation,Rural,< 0.25 Acres,Unknown,,"2520 SteppsRd, Sebastopol",,12000,Conductor,Overhead,Yes,8/31/14,2:12,Contact From Object,N.A.,Vegetation
+PG&E,9/1/14,15:58,37.05996,-122.16629,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,At FUCO 2541,,12000,Conductor,Overhead,Yes,9/1/14,15:58,Contact From Object,N.A.,Vegetation
+PG&E,9/2/14,3:49,37.494625,-122.142408,Vegetation,Urban,< 0.25 Acres,Self Extinguished,,Pole 000/003,,115000,Other,Overhead,Yes,9/2/14,3:49,Contamination,N.A.,N.A.
+PG&E,9/3/14,7:05,38.302235,-120.94743,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,Fuse 8885,,12000,Transformer,Overhead,Yes,9/3/14,7:05,Unknown,N.A.,N.A.
+PG&E,9/3/14,13:21,37.904096,-122.229655,Vegetation,Rural,< 0.25 Acres,Fire Agency,Orinda FD,"10/N/OF Sw 8455, EAST OF WILDCAT CANYON",,12000,Conductor,Overhead,Yes,9/3/14,13:21,Contact From Object,N.A.,Vegetation
+PG&E,9/4/14,0:34,39.1451,-122.08177,Vegetation,Rural,< 0.25 Acres,Fire Agency,,5 POLES E/O MTR 1007307850,,12000,Conductor,Overhead,Yes,9/4/14,0:34,Contact From Object,N.A.,Vehicle
+PG&E,9/6/14,16:42,37.87082,-121.3803367,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Tracy FD,102064435,,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,9/7/14,6:33,36.59074,-119.521159,Vegetation,Rural,< 0.25 Acres,Fire Agency,Tulare County FD,100876971,AT&T,12000,Conductor,Overhead,Yes,9/7/14,6:33,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,9/9/14,9:54,39.15306,-121.07706,Vegetation,Rural,< 0.25 Acres,Unknown,,100066768,AT&T,12000,Other,Overhead,Yes,9/9/14,9:54,Contact From Object,N.A.,Animal
+PG&E,9/10/14,0:00,39.18496,-121.68869,Vegetation,Rural,< 0.25 Acres,Unknown,,"North Township Rd, Sutter",,0 - 750,Other,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,9/11/14,11:39,38.53831,-121.06509,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,"1001 BONNIE LN, AUBURN CA",,12000,Conductor,Overhead,Yes,9/11/14,11:39,Contact From Object,N.A.,Vegetation
+PG&E,9/12/14,5:20,38.028151,-121.175164,Vegetation,Rural,< 0.25 Acres,Unknown,,102127295,AT&T,12000,Conductor,Overhead,Yes,9/12/14,5:20,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,9/13/14,17:25,37.536187,-120.490003,Vegetation,Rural,< 0.25 Acres,Fire Agency,Merced FD,"376 Keyes Rd, Merced",,0 - 750,Conductor,Overhead,Yes,9/13/14,17:25,Contact From Object,N.A.,Vegetation
+PG&E,9/14/14,14:47,37.69849,-120.18707,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,Mtr 1006736074,,21000,Conductor,Overhead,Yes,9/14/14,14:47,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,9/15/14,19:22,37.24515,-122.009609,Vegetation,Urban,< 3 meters,Fire Agency,,15200 FRUITVALE AVE,,12000,Conductor,Overhead,Yes,9/15/14,19:22,Contact From Object,N.A.,Vegetation
+PG&E,9/16/14,12:56,38.451818,-122.372941,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,102254607,AT&T,21000,Unknown,Overhead,Yes,9/16/14,12:56,Contact From Object,N.A.,Vehicle
+PG&E,9/17/14,8:36,36.83119,-121.55824,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,101720674,,21000,Conductor,Overhead,Yes,9/17/14,8:36,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,9/17/14,11:49,39.75753,-122.2202,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,,100367963,AT&T,12000,Conductor,Overhead,Yes,9/17/14,11:49,Contact From Object,N.A.,Vehicle
+PG&E,9/17/14,14:47,37.23045,-121.905839,Vegetation,Urban,< 0.25 Acres,Fire Agency,,100547281,AT&T,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,9/18/14,13:00,39.552099,-121.90853,Vegetation,Rural,300 - 999 Acres,Fire Agency,Cal Fire,12th pole s/of Fuse 1619,None,12000,Conductor,Overhead,Yes,9/18/14,13:00,Equipment/ Facility Failure,Pole,N.A.
+PG&E,9/19/14,8:44,39.262,-121.37707,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,1w/17927,,12000,Conductor,Overhead,Yes,9/19/14,8:44,Contact From Object,N.A.,Animal
+PG&E,9/20/14,0:00,38.563118,-121.527487,Vegetation,Urban,< 0.25 Acres,Fire Agency,West Sacramento FD,"Jefferson Blvd and Stone Blvd, West Sacramento",,0 - 750,Lightning Arrestor,Overhead,No,,,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,9/20/14,7:02,37.45523,-122.25113,Vegetation,Urban,< 0.25 Acres,Unknown,,100300898,AT&T,12000,Conductor,Overhead,Yes,9/20/14,7:02,Contact From Object,N.A.,Vegetation
+PG&E,9/21/14,4:54,39.6883933,-121.8541433,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire,100438591,,12000,Conductor,Overhead,Yes,9/21/14,4:54,Contact From Object,N.A.,Vegetation
+PG&E,9/23/14,10:05,39.110385,-121.333828,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Beale AFB,Pole 007/138,,60000,Conductor,Overhead,Yes,9/23/14,10:05,Contact From Object,N.A.,Animal
+PG&E,9/23/14,10:53,38.81503,-120.90241,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,6871 marshall rd   lotus,,21000,Conductor,Overhead,Yes,9/23/14,10:53,Contact From Object,N.A.,Vegetation
+PG&E,9/25/14,2:58,37.38869,-121.99719,Vegetation,Urban,< 0.25 Acres,Fire Agency,,100549375,AT&T,12000,Conductor,Overhead,Yes,9/25/14,2:58,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,9/25/14,20:27,35.4405,-118.8611,Vegetation,Rural,< 0.25 Acres,Unknown,,Riser 823277,,12000,Conductor,Overhead,Yes,9/25/14,20:27,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/27/14,14:03,37.00031,-121.56574,Vegetation,Urban,< 0.25 Acres,Unknown,,"Monteerey Rd x Las Animas Ave, Gilroy",,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Balloons
+PG&E,9/27/14,17:54,40.377357,-122.338589,Vegetation,Rural,< 3 meters,Unknown,,MTR# 1009679394,,12000,Conductor,Overhead,Yes,9/27/14,17:54,Contact From Object,N.A.,Vegetation
+PG&E,9/29/14,14:26,36.79953,-121.769279,Vegetation,Rural,< 0.25 Acres,Fire Agency,Monterey County FD,2 POLES SS 0F 5877,,12000,Conductor,Overhead,Yes,9/29/14,14:26,Contact From Object,N.A.,Vehicle
+PG&E,9/30/14,11:41,37.0764483,-120.19655,Vegetation,Rural,< 0.25 Acres,Customer,,"22491 Fairmead Blvd, Chowchilla",,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,9/30/14,14:08,37.53027,-122.32278,Vegetation,Urban,< 3 meters,Unknown,,100265805,AT&T,12000,Conductor,Overhead,Yes,9/30/14,14:08,Contact From Object,N.A.,Vegetation
+PG&E,10/1/14,12:02,37.92481,-121.20843,Vegetation,Rural,< 3 meters,Fire Agency,Stockton FD,"5252 E. Mariposa Rd, Stockton",,0 - 750,Other,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,10/1/14,12:18,39.726058,-121.86048,Vegetation,Urban,< 0.25 Acres,Fire Agency,Cal Fire,"1920 WEBB AVE, Chico",,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,10/1/14,13:24,37.550504,-122.305083,Vegetation,Urban,< 0.25 Acres,Fire Agency,,"2030 So. Delaware, San Mateo",,12000,Conductor,Overhead,Yes,10/1/14,13:24,Contact From Object,N.A.,Vehicle
+PG&E,10/1/14,15:04,35.6316,-119.256805,Vegetation,Rural,< 0.25 Acres,Unknown,,"Service pole at SW SW 26 26 25, Wasco",,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,10/4/14,16:09,37.945094,-121.967615,Vegetation,Urban,< 3 meters,Fire Agency,Contra Costa FD,100468587,AT&T,0 - 750,Conductor,Overhead,No,,,Wire-Wire Contact,N.A.,N.A.
+PG&E,10/4/14,17:00,39.9606967,-122.148385,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,"SS/ ORANGEWOOD RD; 800' E/O PIEMONT RD, RICHFIELD",,0 - 750,Conductor,Overhead,Yes,10/4/14,17:00,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,10/5/14,10:12,37.680239,-122.470664,Vegetation,Urban,< 0.25 Acres,Fire Agency,Daly City FD,Capactitor C821,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,10/5/14,22:32,37.122485,-121.999436,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,100519255,Verizon,21000,Conductor,Overhead,Yes,10/5/14,22:32,Contact From Object,N.A.,Vegetation
+PG&E,10/6/14,8:53,38.89258,-122.73766,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,2 SPANS PAST FUSES 2309,,12000,Conductor,Overhead,Yes,10/6/14,8:53,Contact From Object,N.A.,Vegetation
+PG&E,10/7/14,11:35,35.072023,-120.590516,Vegetation,Rural,< 0.25 Acres,Fire Agency,SLO FD,at Fuse 8047,,12000,Conductor,Subsurface,Yes,10/7/14,11:35,Contact From Object,N.A.,Other
+PG&E,10/8/14,14:21,34.645516,-120.411833,Vegetation,Rural,< 3 meters,Fire Agency,Santa Barbara FD,MTR #1008628785,,12000,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,10/9/14,8:25,37.9589417,-121.3342867,Other,Urban,Structure Only,Fire Agency,Stockton FD,2711 Pixie Dr,,12000,Conductor,Overhead,Yes,10/9/14,8:25,Equipment/ Facility Failure,Pole,N.A.
+PG&E,10/9/14,19:10,38.46195,-123.04183,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,101955217,AT&T,12000,Conductor,Overhead,Yes,10/9/14,19:10,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/10/14,14:41,38.1721017,-122.6282,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,969 SAN ANTONIO RD.,,12000,Conductor,Overhead,Yes,10/10/14,14:41,Contact From Object,N.A.,Vegetation
+PG&E,10/11/14,10:19,39.57652,-121.30538,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Butte FD,100373776,AT&T,12000,Conductor,Overhead,Yes,10/11/14,10:19,Contact From Object,N.A.,Animal
+PG&E,10/12/14,10:59,38.591725,-121.5387,Vegetation,Rural,Structure Only,Fire Agency,,1535 HOBSON AVE,,0 - 750,Conductor,Overhead,Yes,10/12/14,10:59,Wire-Wire Contact,N.A.,N.A.
+PG&E,10/12/14,12:02,38.5902667,-121.5349117,Vegetation,Rural,< 0.25 Acres,Fire Agency,West Sacramento FD,101608435,AT&T,0 - 750,Conductor,Overhead,Yes,10/12/14,12:02,Contact From Object,N.A.,Vegetation
+PG&E,10/12/14,16:53,38.2865483,-122.4804667,Vegetation,Rural,< 0.25 Acres,Fire Agency,Sonoma FD,APPROX  5 SPAN LOAD SIDE 3635,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,10/13/14,9:19,38.183805,-121.854605,Vegetation,Rural,< 0.25 Acres,Fire Agency,,3 POLES E/OF 10313,,21000,Conductor,Overhead,Yes,10/13/14,9:19,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,10/14/14,7:33,36.2506133,-119.86158,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Kings County FD,MURPHY RANCH RD E/O AVENAL CUTOFF RD,,12000,Conductor,Overhead,Yes,10/14/14,7:33,Vandalism/Theft,N.A.,N.A.
+PG&E,10/14/14,11:04,37.901341,-121.76466,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Contra Costa FD,3/P/S/0 C/O 13559,,21000,Transformer,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/14/14,14:32,39.589825,-122.193854,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,100425132,,21000,Conductor,Overhead,Yes,10/14/14,14:32,Contact From Object,N.A.,Vegetation
+PG&E,10/16/14,16:25,39.054162,-121.423553,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,WHEATLAND FIRE,101303519,AT&T,12000,Conductor,Overhead,Yes,10/16/14,16:25,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/17/14,13:41,40.016344,-122.225214,Vegetation,Rural,< 0.25 Acres,Unknown,,Pole BA 28/299,AT&T,60000,Conductor,Overhead,Yes,10/17/14,13:41,Contact From Object,N.A.,Animal
+PG&E,10/20/14,1:23,38.0271917,-121.941965,Vegetation,Urban,< 3 meters,Fire Agency,CONTRA COSTA,100450134,AT&T,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,10/20/14,13:30,38.7825333,-122.6926283,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,3 SPANS SOURCESIDE OF MTR#1008647890,,12000,Conductor,Overhead,Yes,10/20/14,13:30,Contact From Object,N.A.,Vegetation
+PG&E,10/21/14,2:54,37.396428,-121.839597,Vegetation,Rural,< 3 meters,Fire Agency,SJFIR,3 SP W/O 2089,,12000,Conductor,Overhead,Yes,10/21/14,2:54,Contact From Object,N.A.,Vegetation
+PG&E,10/22/14,16:45,38.379158,-120.50073,Vegetation,Rural,< 0.25 Acres,Fire Agency,West Point Fire,101251221,,0 - 750,Conductor,Overhead,No,,,Wire-Wire Contact,N.A.,N.A.
+PG&E,10/22/14,20:51,39.006774,-120.74372,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,Sw 49,None,60000,Switch,Overhead,Yes,10/22/14,20:51,Equipment/ Facility Failure,Switch,N.A.
+PG&E,10/23/14,12:45,35.42182,-119.02789,Vegetation,Urban,< 3 meters,Fire Agency,KERN COUNTY FD,100143992,AT&T,12000,Conductor,Overhead,Yes,10/23/14,12:45,Contact From Object,N.A.,Vegetation
+PG&E,10/25/14,3:04,40.29567,-123.8269867,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire,2374 ELK CRK MTR#1008024164,,12000,Conductor,Overhead,Yes,10/25/14,3:04,Contact From Object,N.A.,Vegetation
+PG&E,10/25/14,10:52,38.37812,-120.5116,Vegetation,Rural,< 3 meters,Fire Agency,West Point Fire,101249034,,0 - 750,Unknown,Overhead,No,,,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,10/25/14,14:35,37.0557667,-121.0560933,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal Fire,1 POLE N/OF MTR #1009070700.,,12000,Conductor,Overhead,Yes,10/25/14,14:35,Equipment/ Facility Failure,Other,N.A.
+PG&E,10/25/14,14:45,36.55751,-121.927949,Vegetation,Urban,< 3 meters,Fire Agency,city fire dept,101739963,AT&T,0 - 750,Conductor,Overhead,Yes,10/25/14,14:45,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,10/26/14,22:24,34.53516,-120.296617,Vegetation,Rural,< 3 meters,Fire Agency,Santa Barbara CO,@ MTR #1008719129,,12000,Conductor,Overhead,Yes,10/26/14,22:24,Contact From Object,N.A.,Vegetation
+PG&E,10/27/14,6:34,34.8659867,-120.3783817,Vegetation,Rural,< 3 meters,Fire Agency,Santa Barbara CO,101872138,Verizon,12000,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/28/14,12:01,38.81685,-122.56607,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire,102208452,AT&T,12000,Conductor,Overhead,Yes,10/28/14,12:01,Contact From Object,N.A.,Vegetation
+PG&E,10/28/14,16:34,38.21425,-122.2577167,Vegetation,Rural,< 0.25 Acres,Fire Agency,American Cyn Fire / CAL Fire,102290370,AT&T,12000,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,10/29/14,13:22,39.480295,-122.24927,Vegetation,Rural,< 3 meters,Fire Agency,WILLOWS FIRE DEPT,RISER POLE LOAD SIDE OF STEP UP BANK 62006,,21000,Lightning Arrestor,Overhead,Yes,10/29/14,13:22,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,11/1/14,9:10,37.185932,-122.001203,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire/ Santa Clara County Fire,100551454,Verizon,12000,Conductor,Overhead,Yes,11/1/14,9:10,Contact From Object,N.A.,Vegetation
+PG&E,11/1/14,20:52,41.134383,-124.15211,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,100980319,,12000,Conductor,Overhead,Yes,11/1/14,20:52,Contact From Object,N.A.,Vegetation
+PG&E,11/5/14,8:34,38.444471,-122.249299,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire,102291451,AT&T,12000,Conductor,Overhead,Yes,11/5/14,8:34,Contact From Object,N.A.,Vegetation
+PG&E,11/6/14,10:42,36.98111,-120.026498,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,15882 WATSON RD MADERA,,12000,Conductor,Overhead,Yes,11/6/14,10:42,Equipment/ Facility Failure,Pole,N.A.
+PG&E,11/6/14,14:56,37.056745,-120.814975,Vegetation,Rural,< 3 meters,Self Extinguished,,101201387,AT&T,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,11/7/14,6:12,35.31695,-120.679609,Vegetation,Urban,< 3 meters,Fire Agency,Cal Fire,FUSE 11065,,12000,Conductor,Overhead,Yes,11/7/14,6:12,Wire-Wire Contact,N.A.,N.A.
+PG&E,11/8/14,15:02,38.182087,-122.669294,Vegetation,Rural,< 3 meters,Customer,,5450 RED HILL RD,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,11/9/14,6:34,37.941918,-122.375504,Vegetation,Rural,< 3 meters,Fire Agency,RICHMOND PD,101443361,AT&T,12000,Conductor,Overhead,Yes,11/9/14,6:34,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,11/14/14,12:37,37.65105,-122.45408,Vegetation,Urban,< 3 meters,Fire Agency,PACIFICA FD,ON #4 LINE SIDE OF 11949 & 6053,,12000,Conductor,Overhead,Yes,11/14/14,12:37,Contact From Object,N.A.,Vehicle
+PG&E,11/16/14,5:29,37.5305067,-122.5165317,Vegetation,Rural,< 3 meters,Fire Agency,Cal Fire,2166 Vallemar  Moss beach,,12000,Conductor,Overhead,Yes,11/16/14,5:29,Contact From Object,N.A.,Vegetation
+PG&E,11/16/14,17:55,37.511832,-121.971801,Vegetation,Urban,< 0.25 Acres,Fire Agency,FREMONT FIRE DEPT,IRO 42979 EVERGLADES PARK DR,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Other
+PG&E,11/17/14,17:15,38.04444,-122.86065,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,marin county fire,1 SPAN LD SIDE OF FUCO 6803,,12000,Conductor,Overhead,Yes,11/17/14,17:15,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,11/18/14,14:16,37.035305,-122.086565,Vegetation,Rural,< 0.25 Acres,Fire Agency,Felton Fire Dept.,101798988,,21000,Conductor,Overhead,Yes,11/18/14,14:16,Contact From Object,N.A.,Vegetation
+PG&E,11/22/14,6:29,36.747234,-119.785909,Vegetation,Urban,< 3 meters,Fire Agency,FRESNO CITY FIRE,MTR# 1008712302,,12000,Conductor,Overhead,Yes,11/22/14,6:29,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,11/23/14,5:45,40.162759,-122.238156,Vegetation,Urban,< 3 meters,Self Extinguished,,MTR #1008299414,,12000,Conductor,Overhead,Yes,11/23/14,5:45,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,11/24/14,15:29,37.44018,-121.918797,Vegetation,Urban,< 0.25 Acres,Fire Agency,Milpitas Fire Department,back yard of 599 Redwood ave,,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,11/28/14,1:17,37.989241,-122.314608,Vegetation,Urban,< 0.25 Acres,Fire Agency,,101425748,AT&T,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,11/29/14,14:21,36.72783,-119.701219,Other,Urban,Structure Only,Fire Agency,,100814277,AT&T,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,12/8/14,9:51,36.83748,-119.78998,Vegetation,Urban,< 3 meters,Self Extinguished,,101780312,,21000,Conductor,Overhead,Yes,12/8/14,9:51,Contact From Object,N.A.,Animal
+PG&E,12/8/14,18:33,37.463067,-122.260094,Vegetation,Urban,< 0.25 Acres,Fire Agency,REDWOOD CITY FD,100300013,AT&T,12000,Conductor,Overhead,Yes,12/8/14,18:33,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,12/12/14,4:07,36.63785,-121.81246,Vegetation,Rural,< 3 meters,Utility: PG&E,,101762582,AT&T,12000,Conductor,Overhead,Yes,12/12/14,4:07,Contact From Object,N.A.,Vegetation
+PG&E,12/12/14,22:15,37.391795,-122.2670467,Vegetation,Rural,< 3 meters,Unknown,,IFO 75 RANCH RD WOODSIDE,,12000,Conductor,Overhead,Yes,12/12/14,22:15,Contact From Object,N.A.,Vegetation
+PG&E,12/14/14,4:52,38.42005,-120.823689,Other,Rural,Structure Only,Fire Agency,Sutter creek fire,101238361,AT&T,12000,Conductor,Overhead,Yes,12/14/14,4:52,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,12/19/14,13:50,37.460979,-122.176861,Vegetation,Urban,< 3 meters,Fire Agency,MENLO PARK,100298576,AT&T,12000,Conductor,Overhead,Yes,12/19/14,13:50,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,12/25/14,10:50,36.383716,-121.8663,Vegetation,Rural,< 3 meters,Fire Agency,Mid Valley FD ?,101669474,AT&T,12000,Conductor,Overhead,Yes,12/25/14,10:50,Contact From Object,N.A.,Vegetation
+PG&E,12/29/14,11:58,38.16613,-122.253609,Other,Urban,Structure Only,Fire Agency,VALLEJO FD,1740 BROADWAY,,12000,Conductor,Overhead,Yes,12/29/14,11:58,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,12/30/14,9:00,38.40586,-120.515324,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal Fire,674 SMITTY LN,,12000,Conductor,Overhead,Yes,12/30/14,9:00,Contact From Object,N.A.,Vegetation
+PG&E,12/30/14,15:53,38.016516,-122.13662,Other,Urban,Structure Only,Fire Agency,MARTINEZ FIRE,100444078,,21000,Conductor,Overhead,Yes,12/30/14,15:53,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,01/08/15,15:18,37.36631,-121.88317,Other,Rural,< 0.25 Acres,Fire Agency,SJFD,100566657,None,12000,Conductor,Subsurface,Yes,1/8/15,15:18,Contact From Object,N.A.,Vehicle
+PG&E,01/10/15,13:07,38.08903,-122.20869,Vegetation,Urban,< 0.25 Acres,Utility: PG&E,,102217759,,12000,Conductor,Overhead,Yes,1/10/15,13:07,Contact From Object,N.A.,Animal
+PG&E,01/16/15,7:07,38.77533,-122.70044,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,102167494,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,01/26/15,3:51,37.05394,-122.15867,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,,,12000,Conductor,Overhead,Yes,1/26/15,3:51,Contact From Object,N.A.,Vegetation
+PG&E,02/06/15,6:01,38.60589,-121.02213,Vegetation,Rural,< 3 meters,Fire Agency,,"6661 Ryan Ranch Road, El Dorado Hills",,21000,Conductor,Overhead,Yes,2/6/15,6:01,Contact From Object,N.A.,Vegetation
+PG&E,02/06/15,14:08,36.40321,-121.91088,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,loadside of 40283,,12000,Conductor,Overhead,Yes,2/6/15,14:08,Contact From Object,N.A.,Vegetation
+PG&E,02/07/15,15:13,38.08712,-122.54963,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,NOVATO FIRE DEPARTMENT,103598139,,12000,Conductor,Overhead,Yes,2/7/15,15:13,Equipment/ Facility Failure,Pole,N.A.
+PG&E,02/07/15,18:38,40.46741,-123.65446,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"mile marker 36.61, hwy 36, bridgeville",,12000,Conductor,Overhead,Yes,2/7/15,18:38,Contact From Object,N.A.,Vegetation
+PG&E,02/13/15,16:01,35.36284,-118.96615,Vegetation,Urban,< 0.25 Acres,Fire Agency,Bakersfield FD,"512 Wilma Street, Bakersfield",,0 - 750,Conductor,Overhead,Yes,2/13/15,16:01,Contact From Object,N.A.,Vegetation
+PG&E,02/16/15,11:08,37.35996,-120.85233,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101206051,,12000,Conductor,Overhead,Yes,2/16/15,11:08,Contact From Object,N.A.,Vehicle
+PG&E,02/17/15,16:46,39.76284,-121.58268,Vegetation,Urban,< 3 meters,Fire Agency,butte county,100324934,Pacific Bell,12000,Conductor,Overhead,Yes,2/17/15,16:46,Contact From Object,N.A.,Vegetation
+PG&E,02/22/15,14:20,38.816,-122.18318,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Capay,101592201,,21000,Conductor,Overhead,Yes,2/22/15,14:20,Contact From Object,N.A.,Vehicle
+PG&E,02/23/15,2:05,39.30273,-121.01749,Vegetation,Rural,< 3 meters,Fire Agency,NEVADA CITY FIRE,100086316,,12000,Conductor,Overhead,Yes,2/23/15,2:05,Contact From Object,N.A.,Vegetation
+PG&E,02/23/15,13:25,38.50455,-122.74081,Vegetation,Rural,< 0.25 Acres,Fire Agency,RINCON VALLEY,BEHIND 4870 CARRIAGE LN SANTA ROSA,,12000,Conductor,Overhead,Yes,2/23/15,13:25,Contact From Object,N.A.,Vegetation
+PG&E,02/25/15,2:34,36.75618,-119.78001,Vegetation,Urban,< 3 meters,Fire Agency,CITY OF FRESNO,100869017,Pacific Bell,12000,Fuse,Overhead,Yes,2/25/15,2:34,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,02/25/15,16:42,34.8921,-120.50397,Vegetation,Rural,< 3 meters,Customer,,,,0 - 750,Conductor,Overhead,Yes,2/25/15,16:42,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,03/04/15,18:44,38.99945,-122.75451,Vegetation,Rural,< 0.25 Acres,Fire Agency,Kelseyville FD,102156367,Pacific Bell,12000,Conductor,Overhead,Yes,3/4/15,18:44,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,03/07/15,13:35,38.70909,-122.64837,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"14417 western mine rd, Middletown",,12000,Conductor,Overhead,Yes,3/7/15,13:35,Contact From Object,N.A.,Vegetation
+PG&E,03/09/15,9:36,38.73283,-120.75239,Building,Urban,Structure Only,Unknown,,101399208,Pacific Bell,12000,Conductor,Overhead,Yes,3/9/15,9:36,Contact From Object,N.A.,Animal
+PG&E,03/14/15,2:30,38.90381,-122.7579,Vegetation,Rural,< 0.25 Acres,Unknown,,"9210 Wildcat Road, Kelseyville",,12000,Conductor,Overhead,Yes,3/14/15,2:30,Contact From Object,N.A.,Vegetation
+PG&E,03/14/15,14:17,38.82525,-121.13632,Vegetation,Rural,< 3 meters,Fire Agency,LOOMIS FIRE,100051369,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Balloons
+PG&E,03/14/15,22:09,36.89154,-121.71191,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,103525395,,21000,Conductor,Overhead,Yes,3/14/15,22:09,Contact From Object,N.A.,Vegetation
+PG&E,03/15/15,3:26,35.36933,-118.92804,Vegetation,Urban,< 0.25 Acres,Fire Agency,KERN COUNTY FIRE DEPT,100216241,Pacific Bell,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,03/15/15,3:38,36.93396,-119.78022,Vegetation,Rural,< 3 meters,Unknown,,101121519,None,21000,Conductor,Overhead,Yes,3/15/15,3:38,Equipment/ Facility Failure,Pole,N.A.
+PG&E,03/15/15,22:47,38.33457,-120.53253,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,103106530,,12000,Conductor,Overhead,Yes,3/15/15,22:47,Contact From Object,N.A.,Vehicle
+PG&E,03/19/15,20:11,37.84163,-122.12176,Vegetation,Urban,< 3 meters,Fire Agency,moraga fire,100498544,Pacific Bell,12000,Conductor,Overhead,Yes,3/19/15,20:11,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,03/21/15,10:46,40.16448,-122.28939,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,101546309,Pacific Bell,12000,Conductor,Overhead,Yes,3/21/15,10:46,Contact From Object,N.A.,Vehicle
+PG&E,03/21/15,11:03,36.56658,-121.51428,Vegetation,Rural,< 0.25 Acres,Fire Agency,Monterey Regonal,101758338,Pacific Bell,12000,Conductor,Overhead,Yes,3/21/15,11:03,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,03/31/15,13:33,37.11247,-120.94326,Vegetation,Rural,< 3 meters,Fire Agency,COUNTY FIRE,101199839,,0 - 750,Conductor,Overhead,Yes,3/31/15,13:33,Contact From Object,N.A.,Animal
+PG&E,04/02/15,9:44,39.67722,-121.49198,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100338726,,12000,Conductor,Overhead,Yes,4/2/15,9:44,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,04/04/15,16:49,38.88245,-122.59135,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"20748 Jerusalem Grade Road, Middletown",,12000,Other,Overhead,Yes,4/4/15,16:49,Equipment/ Facility Failure,Other,N.A.
+PG&E,04/11/15,17:16,40.54619,-122.23427,Vegetation,Rural,< 0.25 Acres,Unknown,,101491414,,12000,Conductor,Overhead,Yes,4/11/15,17:16,Contact From Object,N.A.,Vegetation
+PG&E,04/12/15,12:35,40.18609,-122.21385,Vegetation,Rural,< 0.25 Acres,Fire Agency,NOT SURE 2ND ON SITE (1ST LXMX),101544984,,12000,Conductor,Overhead,Yes,4/12/15,12:35,Contact From Object,N.A.,Vegetation
+PG&E,04/14/15,11:09,38.02151,-121.60999,Vegetation,Rural,< 3 meters,Fire Agency,EAST CONTRA COSTA,100505773,Pacific Bell,0 - 750,Conductor,Overhead,Yes,4/14/15,11:09,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,04/14/15,12:35,38.17891,-121.69384,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,AIRPORT RD BTW 2CD & 3RD P/S/O CHURCH RD,,21000,Conductor,Overhead,Yes,4/14/15,12:35,Contact From Object,N.A.,Animal
+PG&E,04/15/15,12:35,39.11523,-121.5711,Vegetation,Urban,< 3 meters,Unknown,,101319105,Pacific Bell,0 - 750,Conductor,Overhead,Yes,4/15/15,12:35,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,04/16/15,17:35,38.20541,-122.14755,Vegetation,Rural,< 3 meters,Fire Agency,FAIRFIELD FD,SB 17513,,12000,Conductor,Overhead,Yes,4/16/15,17:35,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,04/17/15,14:34,37.00413,-119.72927,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,MADERA COUNTY,101118401,,21000,Conductor,Overhead,Yes,4/17/15,14:34,Other,N.A.,N.A.
+PG&E,04/18/15,3:07,38.68576,-121.00839,Vegetation,Urban,< 3 meters,Fire Agency,carmeron park F.D.,around t-7464,,21000,Conductor,Overhead,Yes,4/18/15,3:07,Contact From Object,N.A.,Vehicle
+PG&E,04/19/15,9:18,36.57637,-119.66898,Vegetation,Rural,< 0.25 Acres,Self Extinguished,,100826688,Pacific Bell,12000,Conductor,Overhead,Yes,4/19/15,9:18,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,04/19/15,13:01,37.1571,-120.4145,Vegetation,Rural,< 0.25 Acres,Unknown,,101013878,,12000,Conductor,Overhead,Yes,4/19/15,13:01,Contact From Object,N.A.,Animal
+PG&E,04/20/15,18:18,36.97431,-120.01758,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,MFD,101211344,Pacific Bell,12000,Conductor,Overhead,Yes,4/20/15,18:18,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,04/21/15,17:01,34.93126,-120.44048,Vegetation,Urban,< 3 meters,Self Extinguished,,101919414,Verizon,12000,Conductor,Overhead,Yes,4/21/15,17:01,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,04/24/15,6:06,38.05007,-121.49664,Vegetation,Rural,< 3 meters,Fire Agency,unknown,levee rd s/o herman and helans resort,,21000,Conductor,Overhead,Yes,4/24/15,6:06,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,04/24/15,17:47,37.55864,-121.91962,Vegetation,Rural,< 0.25 Acres,Fire Agency,Alameda County,Base of C/O pole 9435,,12000,Unknown,Overhead,Yes,4/24/15,17:47,Unknown,N.A.,N.A.
+PG&E,04/26/15,16:50,34.85467,-120.52399,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Santa Barbara County Fire Dept,2 poles load side 7455,None,12000,Conductor,Overhead,Yes,4/26/15,16:50,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,04/27/15,12:54,35.48709,-120.67561,Vegetation,Rural,< 3 meters,Unknown,,103310601,,21000,Conductor,Overhead,Yes,4/27/15,12:54,Contact From Object,N.A.,Balloons
+PG&E,04/28/15,13:57,36.75043,-119.74831,Vegetation,Urban,< 3 meters,Fire Agency,FRESNO CITY FIRE,100842188,,12000,Conductor,Overhead,Yes,4/28/15,13:57,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,04/28/15,14:20,39.79716,-121.89074,Vegetation,Rural,< 3 meters,Unknown,,100435592,Pacific Bell,12000,Conductor,Overhead,Yes,4/28/15,14:20,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,04/30/15,0:26,37.24014,-122.2472,Vegetation,Rural,< 0.25 Acres,Unknown,,1145 VERDE R,,12000,Conductor,Overhead,Yes,4/30/15,0:26,Contact From Object,N.A.,Vegetation
+PG&E,05/02/15,16:51,37.32843,-119.64296,Vegetation,Rural,< 0.25 Acres,Fire Agency,MADERA COUNTY,103768995,,12000,Conductor,Overhead,Yes,5/2/15,16:51,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,05/02/15,17:30,38.20382,-121.26438,Vegetation,Rural,< 0.25 Acres,Unknown,,103765745,Pacific Bell,12000,Conductor,Overhead,Yes,5/2/15,17:30,Contact From Object,N.A.,Other
+PG&E,05/06/15,17:17,37.42727,-119.88028,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,BOOSTER 8179 INDIAN PEEK N/O MIWUK,None,21000,Other,Overhead,Yes,5/6/15,17:17,Equipment/ Facility Failure,Other,N.A.
+PG&E,05/06/15,23:10,39.8104,-122.32918,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,BLACK BUTTE,,12000,Lightning Arrestor,Overhead,Yes,5/6/15,23:10,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,05/07/15,8:06,39.23799,-121.58751,Vegetation,Rural,< 0.25 Acres,Unknown,,101331086,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,05/08/15,5:55,38.77553,-121.50642,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,fire dept,mtr # 03650R,,0 - 750,Fuse,Overhead,Yes,5/8/15,5:55,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,05/09/15,13:10,39.23429,-121.24683,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,100000103,None,21000,Conductor,Overhead,Yes,5/9/15,13:10,Equipment/ Facility Failure,Pole,N.A.
+PG&E,05/09/15,21:37,39.28477,-121.02192,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,100004095,Pacific Bell,12000,Fuse,Overhead,Yes,5/9/15,21:37,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,05/10/15,15:03,37.66494,-122.43218,Vegetation,Urban,< 0.25 Acres,Fire Agency,San Mateo FD,100282481,Pacific Bell,12000,Conductor,Overhead,Yes,5/10/15,15:03,Contact From Object,N.A.,Balloons
+PG&E,05/10/15,16:07,37.78316,-120.79332,Vegetation,Rural,< 0.25 Acres,Fire Agency,Oakdale,9956 Dillwood rd.,,17000,Conductor,Overhead,Yes,5/10/15,16:07,Contact From Object,N.A.,Balloons
+PG&E,05/11/15,7:19,38.12335,-121.37083,Vegetation,Rural,10 - 99 Acres,Fire Agency,woodbridge fd,102075242,Pacific Bell,21000,Conductor,Overhead,Yes,5/11/15,7:19,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,05/11/15,16:07,35.92534,-120.86691,Vegetation,Rural,< 3 meters,Unknown,,LR 7064 JUMP,,12000,Conductor,Overhead,Yes,5/11/15,16:07,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,05/11/15,16:18,39.28045,-123.20674,Vegetation,Rural,< 0.25 Acres,Fire Agency,REDWOOD VALLEY FIRE,"9502 EAST RD., REDWOOD VALLEY",,0 - 750,Conductor,Overhead,Yes,5/11/15,16:18,Contact From Object,N.A.,Vegetation
+PG&E,05/12/15,23:57,39.18514,-121.68041,Vegetation,Rural,< 3 meters,Fire Agency,YUBA CITY,101303383,Pacific Bell,0 - 750,Transformer,Overhead,Yes,5/12/15,23:57,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,05/13/15,21:57,37.49422,-122.36803,Vegetation,Rural,< 3 meters,Fire Agency,sm county cal fire,103492873,,12000,Conductor,Overhead,Yes,5/13/15,21:57,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,05/14/15,11:03,37.05514,-120.31699,Vegetation,Rural,< 0.25 Acres,Self Extinguished,,S/O 10696 AVE. 19 1/2,,12000,Conductor,Overhead,Yes,5/14/15,11:03,Contact From Object,N.A.,Vehicle
+PG&E,05/17/15,23:41,39.43172,-121.72594,Vegetation,Rural,< 0.25 Acres,Self Extinguished,,100414389,Pacific Bell,12000,Conductor,Overhead,Yes,5/17/15,23:41,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,05/19/15,13:31,37.92734,-122.08633,Vegetation,Urban,< 3 meters,Fire Agency,CONTRA COSTA   FIRE,100476269,Pacific Bell,21000,Switch,Overhead,Yes,5/19/15,13:31,Equipment/ Facility Failure,Switch,N.A.
+PG&E,05/21/15,6:02,36.21518,-121.16459,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,3 pole structure east side 101 south of central,,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,05/21/15,9:23,38.59964,-122.99354,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,4 SPANS LOAD SIDE 2993,,12000,Conductor,Overhead,Yes,5/21/15,9:23,Contact From Object,N.A.,Vegetation
+PG&E,05/24/15,10:59,36.2013,-121.16116,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,king city fire department,101734774,Pacific Bell,12000,Conductor,Overhead,Yes,5/24/15,10:59,Contact From Object,N.A.,Animal
+PG&E,05/25/15,2:42,38.70269,-121.90008,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,Str. 029/177,,115000,Unknown,Overhead,Yes,5/25/15,2:42,Unknown,N.A.,N.A.
+PG&E,05/26/15,5:44,36.1661,-120.25348,Vegetation,Rural,< 0.25 Acres,Fire Agency,FRESNO COUNTY FIRE DEPT.,OFF PHELPS 2 MILES E/O CALAVERAS,,0 - 750,Conductor,Overhead,No,,,Other,N.A.,N.A.
+PG&E,05/27/15,1:02,36.59864,-119.42185,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Reedley Fire /dept,"Open field by Riser 7465, Zumwalt Ave S/O Manning Ave, Reedley",Verizon,12000,Conductor,Overhead,Yes,5/27/15,1:02,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,05/27/15,21:44,39.16901,-120.9612,Vegetation,Rural,< 0.25 Acres,Fire Agency,PEARDALE F.D.,100077687,,12000,Conductor,Overhead,Yes,5/27/15,21:44,Contact From Object,N.A.,Vegetation
+PG&E,05/28/15,17:09,40.39421,-122.28906,Vegetation,Urban,< 0.25 Acres,Unknown,,101492440,Pacific Bell,0 - 750,Transformer,Overhead,Yes,5/28/15,17:09,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,05/29/15,11:31,36.96398,-121.53348,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100616133,,21000,Conductor,Overhead,Yes,5/29/15,11:31,Contact From Object,N.A.,Vehicle
+PG&E,05/30/15,9:06,39.47426,-121.6981,Vegetation,Rural,< 0.25 Acres,Unknown,,,,12000,Conductor,Overhead,Yes,5/30/15,9:06,Contact From Object,N.A.,Other
+PG&E,05/30/15,11:04,36.90227,-119.7737,Vegetation,Rural,.26 - 9.99 Acres,Self Extinguished,,100643725,,12000,Conductor,Overhead,Yes,5/30/15,11:04,Contact From Object,N.A.,Vehicle
+PG&E,05/30/15,12:52,38.73713,-120.81221,Vegetation,Urban,< 3 meters,Fire Agency,el dorado co fire district,across from 2669 hwy 49,,12000,Fuse,Overhead,Yes,5/30/15,12:52,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,05/30/15,17:35,38.72537,-120.83257,Vegetation,Rural,< 3 meters,Fire Agency,el dorado co fire,"100 placerville dr behind maint shop, Placerville",,12000,Conductor,Overhead,Yes,5/30/15,17:35,Contact From Object,N.A.,Animal
+PG&E,05/31/15,0:23,37.29658,-120.46825,Vegetation,Urban,< 3 meters,Fire Agency,HAD LEFT SCENE BEFORE ARRIVAL,101157239,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,05/31/15,7:07,38.78237,-121.48018,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Pleasnt Grove Fire Dept  Station #,"3700 Sankey Rd, Pleasant Grove",,12000,Unknown,Overhead,Yes,5/31/15,7:07,Unknown,N.A.,N.A.
+PG&E,05/31/15,9:27,37.97745,-121.32671,Vegetation,Urban,< 0.25 Acres,Customer,,102057703,Pacific Bell,12000,Conductor,Overhead,No,,,Contact From Object,N.A.,Balloons
+PG&E,05/31/15,11:31,37.27325,-120.47098,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101152842,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,05/31/15,11:55,37.72185,-120.79311,Vegetation,Rural,< 3 meters,Customer,NONE,102340604,None,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/03/15,9:33,39.68957,-121.62161,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,,,12000,Conductor,Overhead,Yes,6/3/15,9:33,Contact From Object,N.A.,Vegetation
+PG&E,06/03/15,13:44,38.62701,-121.07659,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,103035299,,21000,Conductor,Overhead,Yes,6/3/15,13:44,Contact From Object,N.A.,Vehicle
+PG&E,06/03/15,17:09,35.36123,-119.00622,Vegetation,Urban,< 0.25 Acres,Fire Agency,KCFD AND BCFD,100150055,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/04/15,13:17,39.26939,-123.78411,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,,,12000,Conductor,Overhead,Yes,6/4/15,13:17,Contact From Object,N.A.,Vehicle
+PG&E,06/04/15,15:44,39.46837,-121.56128,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,powerhouse hill rd 2spans e on ophir rd,,12000,Conductor,Overhead,Yes,6/4/15,15:44,Contact From Object,N.A.,Vehicle
+PG&E,06/04/15,16:38,38.58801,-121.51709,Vegetation,Urban,< 3 meters,Fire Agency,west sacramento FD,101565849,Pacific Bell,12000,Unknown,Overhead,Yes,6/4/15,16:38,Unknown,N.A.,N.A.
+PG&E,06/04/15,20:00,38.6916,-120.86058,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101412760,Pacific Bell,12000,Conductor,Overhead,Yes,6/4/15,20:00,Contact From Object,N.A.,Vegetation
+PG&E,06/05/15,1:25,38.34607,-122.39979,Vegetation,Rural,< 0.25 Acres,Fire Agency,,4870 REDWOOD,,21000,Conductor,Overhead,Yes,6/5/15,1:25,Contact From Object,N.A.,Vegetation
+PG&E,06/05/15,9:58,40.10703,-123.71422,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,100986799,,12000,Conductor,Overhead,Yes,6/5/15,9:58,Equipment/ Facility Failure,Other,N.A.
+PG&E,06/05/15,14:40,37.95777,-120.45191,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101012484,,17000,Conductor,Overhead,Yes,6/5/15,14:40,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/05/15,15:15,36.77591,-119.77027,Vegetation,Urban,< 0.25 Acres,Fire Agency,CITY OF FRESNO,100857009,Pacific Bell,0 - 750,Transformer,Overhead,Yes,6/5/15,15:15,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,06/05/15,22:13,38.7729,-121.46992,Vegetation,Rural,< 3 meters,Fire Agency,WATER,100064053,,12000,Capacitor Bank,Overhead,Yes,6/5/15,22:13,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,06/06/15,11:24,39.80295,-121.90643,Vegetation,Rural,< 3 meters,Unknown,,100433862,Pacific Bell,12000,Conductor,Overhead,Yes,6/6/15,11:24,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/06/15,12:00,36.98282,-120.03324,Vegetation,Rural,< 0.25 Acres,Unknown,,101015092,,12000,Lightning Arrestor,Overhead,Yes,6/6/15,12:00,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,06/06/15,15:38,39.04089,-123.40189,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,11480 ANDERSON VALLEY WAY @ BRIDGE,,12000,Conductor,Overhead,Yes,6/6/15,15:38,Contact From Object,N.A.,Vegetation
+PG&E,06/06/15,21:17,38.00575,-121.23822,Vegetation,Rural,< 0.25 Acres,Fire Agency,COUNTY FIRE,102135759,Pacific Bell,12000,Conductor,Overhead,Yes,6/6/15,21:17,Contact From Object,N.A.,Balloons
+PG&E,06/07/15,5:05,36.6906,-119.7488,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,FRESNO FIRE,103339346,,12000,Conductor,Overhead,Yes,6/7/15,5:05,Equipment/ Facility Failure,Other,N.A.
+PG&E,06/07/15,14:53,36.3216,-121.28363,Vegetation,Rural,< 0.25 Acres,Fire Agency,monterey county,peach and thorne greenfield,Pacific Bell,12000,Unknown,Overhead,Yes,6/7/15,14:53,Unknown,N.A.,N.A.
+PG&E,06/07/15,17:48,38.21794,-121.97524,Vegetation,Rural,100 - 299 Acres,Fire Agency,Suisun fire protection district.,c/o's 278361,,21000,Conductor,Overhead,Yes,6/7/15,17:48,Vandalism/Theft,N.A.,N.A.
+PG&E,06/08/15,14:18,38.17956,-120.95899,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,102048579,Pacific Bell,12000,Conductor,Overhead,Yes,6/8/15,14:18,Contact From Object,N.A.,Vehicle
+PG&E,06/08/15,16:12,38.11554,-122.55622,Vegetation,Rural,< 3 meters,Fire Agency,novato fire,front yard 9 equestrian ct,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,06/08/15,16:15,39.82356,-123.60931,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,2 spans loadside 1741,,12000,Conductor,Overhead,Yes,6/8/15,16:15,Contact From Object,N.A.,Vegetation
+PG&E,06/08/15,17:38,37.9582,-121.94406,Vegetation,Urban,< 3 meters,Unknown,,T7325,,0 - 750,Conductor,Overhead,Yes,6/8/15,17:38,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,06/08/15,18:32,37.9404,-122.07949,Vegetation,Urban,< 3 meters,Fire Agency,CONTRA COSTA   FIRE,100462348,Pacific Bell,0 - 750,Fuse,Overhead,Yes,6/8/15,18:32,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,06/09/15,1:19,40.54242,-122.23906,Vegetation,Rural,< 3 meters,Customer,,101490096,Frontier,12000,Transformer,Overhead,Yes,6/9/15,1:19,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,06/09/15,11:51,36.48868,-119.58237,Building,Rural,Structure Only,Fire Agency,tulare county fire,4390 ave 352,,12000,Conductor,Overhead,Yes,6/9/15,11:51,Equipment/ Facility Failure,Pole,N.A.
+PG&E,06/09/15,13:10,38.11758,-121.15094,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,WATERLOO MORADA FIRE DISTRICT,102076487,,21000,Conductor,Overhead,Yes,6/9/15,13:10,Contact From Object,N.A.,Vehicle
+PG&E,06/09/15,15:24,38.3651,-122.2541,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,load side 2987,Yes,21000,Conductor,Overhead,Yes,6/9/15,15:24,Contact From Object,N.A.,Vegetation
+PG&E,06/09/15,16:20,38.38222,-122.43156,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,102269716,Pacific Bell,21000,Unknown,Overhead,Yes,6/9/15,16:20,Unknown,N.A.,N.A.
+PG&E,06/09/15,21:21,38.9394,-121.2467,Vegetation,Rural,< 3 meters,Unknown,,100035304,Pacific Bell,12000,Conductor,Overhead,Yes,6/9/15,21:21,Contact From Object,N.A.,Vegetation
+PG&E,06/10/15,12:00,39.13763,-121.63145,Vegetation,Urban,< 0.25 Acres,Fire Agency,YUBA CITY,101320887,,12000,Conductor,Overhead,Yes,6/10/15,12:00,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/10/15,17:02,36.9671,-120.03052,Vegetation,Rural,< 3 meters,Unknown,,101216691,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,06/10/15,21:43,37.63812,-121.89433,Vegetation,Rural,< 3 meters,Fire Agency,PLEASANTON FIRE DEPT,100927124,Pacific Bell,12000,Conductor,Overhead,Yes,6/10/15,21:43,Contact From Object,N.A.,Vegetation
+PG&E,06/11/15,18:32,38.82212,-121.30605,Vegetation,Urban,< 0.25 Acres,Fire Agency,CITY OF ROCKLIN/ CAL FIRE,103661493,,21000,Switch,Overhead,Yes,6/11/15,18:32,Equipment/ Facility Failure,Switch,N.A.
+PG&E,06/12/15,9:04,39.39398,-122.22991,Vegetation,Rural,< 0.25 Acres,Fire Agency,WILLOWS FIRE DEPT.,100326792,,21000,Conductor,Overhead,Yes,6/12/15,9:04,Contact From Object,N.A.,Other
+PG&E,06/12/15,9:24,37.07609,-120.20027,Vegetation,Rural,< 3 meters,Self Extinguished,,103204949,,0 - 750,Conductor,Overhead,Yes,6/12/15,9:24,Unknown,N.A.,N.A.
+PG&E,06/12/15,10:48,38.42732,-122.85903,Vegetation,Rural,< 0.25 Acres,Fire Agency,GRATON FIRE DEP.,102023459,Pacific Bell,12000,Conductor,Overhead,Yes,6/12/15,10:48,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/12/15,13:07,40.40775,-122.41037,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,ACROSS STREET FROM 4139 OLD HAPPY VALLEY  RD,,12000,Lightning Arrestor,Overhead,No,,,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,06/12/15,16:01,37.92517,-122.07817,Vegetation,Urban,< 3 meters,Fire Agency,WALNUT CREEK  FIRE,100478251,Pacific Bell,0 - 750,Transformer,Overhead,Yes,6/12/15,16:01,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,06/12/15,23:32,39.23077,-121.15594,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,10903 PROSPECTOR RD  ROUGH AND READY,Pacific Bell,21000,Conductor,Overhead,Yes,6/12/15,23:32,Contact From Object,N.A.,Vegetation
+PG&E,06/13/15,12:50,35.27221,-118.91221,Vegetation,Rural,< 3 meters,Fire Agency,Kern Co Fire Dept,103779942,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,06/14/15,12:19,39.74316,-121.84249,Vegetation,Urban,< 3 meters,Fire Agency,CHICO FIRE DEPT,100426666,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Wire-Wire Contact,N.A.,N.A.
+PG&E,06/14/15,13:50,36.93633,-119.8703,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,"12915 mesa, madera",,21000,Conductor,Overhead,Yes,6/14/15,13:50,Contact From Object,N.A.,Animal
+PG&E,06/15/15,15:35,37.18518,-121.7595,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,San Jose city,100618215,Pacific Bell,21000,Conductor,Overhead,Yes,6/15/15,15:35,Contact From Object,N.A.,Balloons
+PG&E,06/16/15,10:40,38.00621,-122.10918,Vegetation,Urban,.26 - 9.99 Acres,Unknown,,Twr 008/058,,115000,Conductor,Overhead,Yes,6/16/15,10:40,Contact From Object,N.A.,Other
+PG&E,06/16/15,11:27,39.03816,-122.92637,Vegetation,Rural,< 0.25 Acres,Fire Agency,LAKEPORT FIRE,102165174,Pacific Bell,0 - 750,Conductor,Overhead,Yes,6/16/15,11:27,Contact From Object,N.A.,Vegetation
+PG&E,06/17/15,10:32,37.76881,-120.90776,Vegetation,Rural,< 3 meters,Fire Agency,Escalon fire dept.,,,17000,Conductor,Overhead,Yes,6/17/15,10:32,Contact From Object,N.A.,Vehicle
+PG&E,06/17/15,15:49,37.35161,-120.64202,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,8503 LONGVIEW ATWATER,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/17/15,18:35,35.33024,-119.01164,Vegetation,Urban,< 3 meters,Fire Agency,BCFD,100155778,Pacific Bell,21000,Conductor,Overhead,Yes,6/17/15,18:35,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/19/15,12:14,34.83564,-120.38433,Vegetation,Rural,10 - 99 Acres,Fire Agency,SANTA BARBRA COUNTY FIRE DEPT,103015189,,12000,Conductor,Overhead,Yes,6/19/15,12:14,Contact From Object,N.A.,Animal
+PG&E,06/19/15,20:09,39.15973,-121.48652,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101308410,Pacific Bell,0 - 750,Conductor,Overhead,Yes,6/19/15,20:09,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,06/20/15,1:28,36.2548,-119.64349,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,,,12000,Conductor,Overhead,Yes,6/20/15,1:28,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/21/15,1:32,39.00797,-121.344,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,100021218,,12000,Conductor,Overhead,Yes,6/21/15,1:32,Contact From Object,N.A.,Balloons
+PG&E,06/21/15,3:17,39.09559,-121.54211,Vegetation,Rural,10 - 99 Acres,Fire Agency,Wheatland fire dept,Transmission Sw 159 on the Pease - Rio-Oso 115kv line,,115000,Transformer,Overhead,Yes,6/21/15,3:17,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,06/21/15,12:07,36.72248,-121.76673,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,NORTH COUNTY FIRE DEPARTMENT #1428,,None,21000,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/21/15,12:10,37.9273,-122.31824,Vegetation,Urban,< 0.25 Acres,Fire Agency,RICHMOND,KEY BLVD.,,4000,Conductor,Overhead,Yes,6/21/15,12:10,Contact From Object,N.A.,Balloons
+PG&E,06/21/15,12:31,38.83173,-121.16423,Vegetation,Rural,< 3 meters,Fire Agency,penryn fire dept,100050933,Pacific Bell,0 - 750,Transformer,Overhead,No,,,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,06/21/15,12:46,38.00167,-121.29768,Vegetation,Urban,< 0.25 Acres,Fire Agency,STOCKTON F.D,102138737,,12000,Conductor,Overhead,Yes,6/21/15,12:46,Contact From Object,N.A.,Balloons
+PG&E,06/21/15,13:31,37.37504,-119.61162,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,103204866,,0 - 750,Conductor,Overhead,No,,,Wire-Wire Contact,N.A.,N.A.
+PG&E,06/22/15,11:58,39.17373,-121.06674,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,SENTINAL WY,,12000,Conductor,Overhead,Yes,6/22/15,11:58,Contact From Object,N.A.,Vegetation
+PG&E,06/22/15,18:56,36.98705,-121.53811,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Gilroy city fire,,,21000,Conductor,Overhead,Yes,6/22/15,18:56,Equipment/ Facility Failure,Pole,N.A.
+PG&E,06/23/15,15:23,39.05512,-121.56103,Vegetation,Rural,< 0.25 Acres,Fire Agency,LINDA FIRE DEPT,102354046,,12000,Conductor,Overhead,Yes,6/23/15,15:23,Contact From Object,N.A.,Balloons
+PG&E,06/23/15,19:06,37.94531,-120.8237,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,102344528,,17000,Conductor,Overhead,Yes,6/23/15,19:06,Contact From Object,N.A.,Animal
+PG&E,06/23/15,20:34,38.90862,-121.52493,Vegetation,Rural,< 0.25 Acres,Fire Agency,EAST NICOLAUS F.D.,101300582,Pacific Bell,12000,Conductor,Overhead,Yes,6/23/15,20:34,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,06/23/15,20:57,39.04393,-123.15362,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,102192356,,12000,Conductor,Overhead,Yes,6/23/15,20:57,Contact From Object,N.A.,Animal
+PG&E,06/24/15,19:05,39.99207,-123.92584,Vegetation,Rural,< 3 meters,Customer,,4 spans load side 8207,,12000,Conductor,Overhead,Yes,6/24/15,19:05,Contact From Object,N.A.,Vegetation
+PG&E,06/25/15,8:43,39.64722,-121.60793,Vegetation,Rural,< 0.25 Acres,Customer,,100398087,Pacific Bell,12000,Conductor,Overhead,Yes,6/25/15,8:43,Contact From Object,N.A.,Vehicle
+PG&E,06/25/15,11:22,37.9302,-120.97067,Vegetation,Rural,< 0.25 Acres,Fire Agency,Farmington Fire Department,103223594,None,0 - 750,Conductor,Overhead,Yes,6/25/15,11:22,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,06/25/15,18:05,37.90916,-122.05716,Vegetation,Urban,< 0.25 Acres,Fire Agency,Walnut Creek  FIRE,511  LAWRENCE  W C,,21000,Conductor,Overhead,Yes,6/25/15,18:05,Contact From Object,N.A.,Vegetation
+PG&E,06/25/15,18:29,36.36389,-119.85912,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,COUNTY FIRE,"East of 22403 Fremont Ave, Lemoore",None,12000,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,06/25/15,19:44,38.67065,-121.96861,Vegetation,Rural,< 0.25 Acres,Unknown,,R2226,,21000,Other,Overhead,Yes,6/25/15,19:44,Equipment/ Facility Failure,Voltage Regulator,N.A.
+PG&E,06/26/15,2:51,35.15838,-120.6763,Vegetation,Urban,< 3 meters,Fire Agency,CAL FIRE,101929266,Pacific Bell,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,06/26/15,17:20,37.93556,-122.01447,Vegetation,Urban,< 3 meters,Fire Agency,wc  fire,100481136,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,06/27/15,12:48,37.94739,-120.4274,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101034512,Pacific Bell,17000,Conductor,Overhead,Yes,6/27/15,12:48,Contact From Object,N.A.,Vegetation
+PG&E,06/27/15,18:51,37.99113,-120.43802,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,MORMON CREEK 100' FROM S/OF HWY 49,,17000,Conductor,Overhead,Yes,6/27/15,18:51,Contact From Object,N.A.,Vegetation
+PG&E,06/27/15,21:15,39.26986,-121.04032,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,16151 INDAIN FLAT RD,,12000,Conductor,Overhead,Yes,6/27/15,21:15,Contact From Object,N.A.,Vegetation
+PG&E,06/27/15,22:28,38.11944,-120.62179,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,101281699,Pacific Bell,17000,Conductor,Overhead,Yes,6/27/15,22:28,Contact From Object,N.A.,Vegetation
+PG&E,06/28/15,2:50,35.49102,-120.73098,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,13505 Santa Lucia Rd. Atascadero,,12000,Conductor,Overhead,Yes,6/28/15,2:50,Contact From Object,N.A.,Vegetation
+PG&E,06/28/15,2:54,38.97041,-123.14366,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,HOPLAND FIRE,MTR # 100971,,12000,Conductor,Overhead,Yes,6/28/15,2:54,Contact From Object,N.A.,Animal
+PG&E,06/28/15,14:39,38.26841,-122.42959,Vegetation,Rural,< 0.25 Acres,Unknown,,102005422,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,06/28/15,14:47,38.22141,-122.24268,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,102278099,Pacific Bell,12000,Conductor,Overhead,Yes,6/28/15,14:47,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/28/15,17:15,35.5527,-120.7314,Vegetation,Rural,< 0.25 Acres,Fire Agency,tempelton fire,347 puffin,,21000,Conductor,Overhead,Yes,6/28/15,17:15,Contact From Object,N.A.,Vegetation
+PG&E,06/28/15,20:40,37.93764,-120.60907,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,101282825,,17000,Conductor,Overhead,Yes,6/28/15,20:40,Contact From Object,N.A.,Vehicle
+PG&E,06/28/15,21:07,39.74048,-121.49737,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"DEADWOOD RD, JARBO GAP",,12000,Conductor,Overhead,Yes,6/28/15,21:07,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,06/29/15,1:06,35.35164,-119.03234,Vegetation,Urban,< 0.25 Acres,Fire Agency,Bakersfield FD,100145659,Pacific Bell,12000,Conductor,Overhead,Yes,6/29/15,1:06,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,06/29/15,6:26,37.56461,-122.39297,Vegetation,Rural,< 3 meters,Fire Agency,burlingame fire,100311342,Pacific Bell,4000,Conductor,Overhead,Yes,6/29/15,6:26,Contact From Object,N.A.,Vegetation
+PG&E,06/29/15,7:43,36.93431,-119.93889,Vegetation,Rural,< 0.25 Acres,Self Extinguished,,rd 33 1/2 n/o ave 12 at 5451,,12000,Conductor,Overhead,Yes,6/29/15,7:43,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/29/15,18:45,39.11714,-121.57248,Vegetation,Urban,< 3 meters,Fire Agency,OLIVEHURST FIRE,101319193,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vehicle
+PG&E,06/30/15,0:05,35.40119,-120.62223,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,santa margarita rch  SS c/o 6631,,12000,Conductor,Overhead,Yes,6/30/15,0:05,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,06/30/15,5:40,35.20864,-119.00801,Vegetation,Rural,< 3 meters,Fire Agency,KC Fire,100127938,Pacific Bell,12000,Conductor,Overhead,Yes,6/30/15,5:40,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,06/30/15,17:54,37.73402,-121.93813,Vegetation,Urban,< 3 meters,Fire Agency,SRFD,100901822,Pacific Bell,21000,Transformer,Overhead,Yes,6/30/15,17:54,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,06/30/15,18:18,36.21991,-121.75343,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,loadside of 88973,unknown,12000,Conductor,Overhead,Yes,6/30/15,18:18,Contact From Object,N.A.,Vegetation
+PG&E,07/01/15,9:17,38.57154,-122.54428,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,,,12000,Conductor,Overhead,Yes,7/1/15,9:17,Contact From Object,N.A.,Vegetation
+PG&E,07/01/15,12:57,39.41463,-121.37899,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,,,12000,Conductor,Overhead,Yes,7/1/15,12:57,Contact From Object,N.A.,Balloons
+PG&E,07/02/15,12:59,37.01684,-120.63577,Vegetation,Rural,< 0.25 Acres,Unknown,,,,12000,Conductor,Overhead,Yes,7/2/15,12:59,Contact From Object,N.A.,Vegetation
+PG&E,07/02/15,14:06,38.79257,-121.50153,Vegetation,Rural,< 0.25 Acres,Fire Agency,unknown,101299516,None,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,07/02/15,22:52,37.85606,-120.94458,Vegetation,Rural,< 0.25 Acres,Fire Agency,OAKDALE F.D.,W/SIDE VALLEY HOME RD @ LAMBUTH RD OAKDALE,Pacific Bell,17000,Conductor,Overhead,Yes,7/2/15,22:52,Contamination,N.A.,N.A.
+PG&E,07/03/15,3:23,35.6785,-120.9567,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,1 soan 1 conducter 1 span loade side transformer formtr 1008493290,,21000,Conductor,Overhead,Yes,7/3/15,3:23,Contact From Object,N.A.,Vegetation
+PG&E,07/03/15,12:12,35.386,-120.85705,Vegetation,Urban,< 0.25 Acres,Fire Agency,Morro Bay city,101848318,,12000,Conductor,Overhead,Yes,7/3/15,12:12,Contact From Object,N.A.,Balloons
+PG&E,07/03/15,19:21,36.53499,-119.50036,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,"County, CDF",40952 Road 32 Kingsburg,,12000,Conductor,Overhead,Yes,7/3/15,19:21,Contact From Object,N.A.,Vegetation
+PG&E,07/04/15,1:14,38.9566,-121.04336,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100037226,,12000,Other,Overhead,Yes,7/4/15,1:14,Equipment/ Facility Failure,Other,N.A.
+PG&E,07/04/15,7:37,36.8314,-119.89259,Vegetation,Urban,< 0.25 Acres,Unknown,,103291813,,115000,Conductor,Overhead,Yes,7/4/15,7:37,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,07/04/15,14:14,37.8892,-121.61349,Vegetation,Rural,< 3 meters,Fire Agency,FIRE DEPARTMENT,15001 HWY 4 2W/O DISCOVERY BAY,None,21000,Conductor,Overhead,Yes,7/4/15,14:14,Contact From Object,N.A.,Animal
+PG&E,07/05/15,9:42,35.5323,-120.73706,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,,,0 - 750,Conductor,Overhead,No,,,Wire-Wire Contact,N.A.,N.A.
+PG&E,07/05/15,21:21,38.65237,-120.62782,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,one span east of c/o 1055,,21000,Conductor,Overhead,Yes,7/5/15,21:21,Contact From Object,N.A.,Vegetation
+PG&E,07/07/15,3:02,36.02176,-120.19985,Vegetation,Rural,< 0.25 Acres,Fire Agency,FRESNO CAL FIRE,1 POLE E/O 9716F OFF SUTTER AVE,,21000,Conductor,Overhead,Yes,7/7/15,3:02,Contact From Object,N.A.,Animal
+PG&E,07/07/15,5:52,36.75931,-121.29536,Vegetation,Rural,< 0.25 Acres,Fire Agency,Hollister City,.25 Mile south of Bolado Park on Airline Hwy,,21000,Conductor,Overhead,Yes,7/7/15,5:52,Contact From Object,N.A.,Vehicle
+PG&E,07/07/15,10:42,39.11377,-121.0655,Vegetation,Rural,< 0.25 Acres,Unknown,,,,12000,Conductor,Overhead,Yes,7/7/15,10:42,Contact From Object,N.A.,Vegetation
+PG&E,07/07/15,15:27,35.15496,-120.5442,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,303corraltos cyn rd,Pacific Bell,12000,Conductor,Overhead,Yes,7/7/15,15:27,Contact From Object,N.A.,Vegetation
+PG&E,07/07/15,22:02,37.00333,-121.56442,Vegetation,Urban,< 0.25 Acres,Self Extinguished,,100614011,Verizon,21000,Conductor,Overhead,Yes,7/7/15,22:02,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,07/08/15,11:23,39.22397,-121.0635,Vegetation,Urban,< 0.25 Acres,Fire Agency,CAL FIRE,100094468,Pacific Bell,12000,Conductor,Overhead,Yes,7/8/15,11:23,Contact From Object,N.A.,Vegetation
+PG&E,07/11/15,8:57,38.21878,-122.23333,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,mid span from 5267,,12000,Conductor,Overhead,Yes,7/11/15,8:57,Equipment/ Facility Failure,Guy/Span Wire,N.A.
+PG&E,07/11/15,15:38,38.18389,-121.88356,Vegetation,Rural,< 0.25 Acres,Fire Agency,unknown,FUSE C/O 10313 LITTLE HONKER BAY RD & 20 SPANS E/O 10313,,21000,Conductor,Overhead,Yes,7/11/15,15:38,Equipment/ Facility Failure,Other,N.A.
+PG&E,07/12/15,1:32,39.95203,-122.23034,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101528676,None,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,07/12/15,15:27,35.25623,-120.6839,Vegetation,Urban,< 3 meters,Customer,,101936544,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,07/12/15,17:04,37.4713,-122.42559,Vegetation,Rural,< 0.25 Acres,Fire Agency,COUNTY FIRE,1 s w c509,,12000,Conductor,Overhead,Yes,7/12/15,17:04,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,07/12/15,19:47,39.5118,-122.19838,Vegetation,Rural,< 3 meters,Fire Agency,WILLOWS FIRE DEPT.,100403587,,0 - 750,Conductor,Overhead,Yes,7/12/15,19:47,Contact From Object,N.A.,Balloons
+PG&E,07/13/15,14:16,37.26548,-121.98035,Vegetation,Urban,< 3 meters,Fire Agency,campbell,100523574,Pacific Bell,12000,Capacitor Bank,Overhead,Yes,7/13/15,14:16,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,07/13/15,17:04,37.96803,-122.35911,Vegetation,Rural,< 0.25 Acres,Fire Agency,RICHMOND FIRE DEPT & CCC FIRE FEPT,101435021,Pacific Bell,12000,Conductor,Overhead,Yes,7/13/15,17:04,Contact From Object,N.A.,Balloons
+PG&E,07/14/15,12:37,39.02696,-122.13531,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,arbuckle fire demp,Pole 010/189 - SAND CREEK RD CORTINA SCHOOL RD,,60000,Conductor,Overhead,Yes,7/14/15,12:37,Contact From Object,N.A.,Animal
+PG&E,07/14/15,17:25,37.36308,-122.02102,Vegetation,Urban,< 3 meters,Fire Agency,fd,100530398,Pacific Bell,12000,Conductor,Overhead,Yes,7/14/15,17:25,Contact From Object,N.A.,Animal
+PG&E,07/14/15,20:38,38.24395,-122.54054,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101997187,Pacific Bell,12000,Conductor,Overhead,Yes,7/14/15,20:38,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,07/15/15,9:00,36.99698,-121.73812,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,101795728,,21000,Conductor,Overhead,Yes,7/15/15,9:00,Contact From Object,N.A.,Vegetation
+PG&E,07/15/15,19:14,36.89846,-121.69053,Vegetation,Rural,< 0.25 Acres,Fire Agency,city,101710538,,21000,Conductor,Overhead,Yes,7/15/15,19:14,Contact From Object,N.A.,Vehicle
+PG&E,07/16/15,19:11,37.19894,-119.77123,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,20334 ROAD 400,,12000,Conductor,Overhead,Yes,7/16/15,19:11,Contact From Object,N.A.,Animal
+PG&E,07/16/15,19:27,37.7619,-120.82127,Vegetation,Urban,< 3 meters,Self Extinguished,,102333491,Pacific Bell,0 - 750,Conductor,Overhead,Yes,7/16/15,19:27,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,07/17/15,0:20,36.96718,-119.64365,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100651276,,0 - 750,Conductor,Overhead,Yes,7/17/15,0:20,Wire-Wire Contact,N.A.,N.A.
+PG&E,07/17/15,0:53,34.8682,-120.323,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,SANTA BARBRA COUNTY FIRE DEPT,EAST OF SISQUOC SUB,,12000,Conductor,Overhead,Yes,7/17/15,0:53,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,07/17/15,17:18,38.55961,-121.64346,Vegetation,Rural,< 3 meters,Unknown,,in mid span between 2 poles. @ 46735 co. rd. 32B davis,,12000,Conductor,Overhead,Yes,7/17/15,17:18,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,07/18/15,17:00,38.83826,-123.62968,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,off HWY 1  PA,,12000,Conductor,Overhead,Yes,7/18/15,17:00,Contact From Object,N.A.,Vegetation
+PG&E,07/18/15,18:59,39.71199,-123.32836,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,,,12000,Conductor,Overhead,Yes,7/18/15,18:59,Contact From Object,N.A.,Vegetation
+PG&E,07/19/15,9:44,35.21499,-120.61437,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,101930875,,12000,Conductor,Overhead,Yes,7/19/15,9:44,Contact From Object,N.A.,Other
+PG&E,07/19/15,19:36,38.65629,-121.79353,Vegetation,Urban,< 3 meters,Fire Agency,WOODLAND FIRE DEPT.,BASE OF TRANSMISSION / DISTRIBUITION POLE = 1/P/S/O FUSES # 8973,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,07/20/15,15:15,37.76203,-120.86537,Vegetation,Urban,< 0.25 Acres,Fire Agency,OAKDALE CITY FIRE,,,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,07/21/15,8:44,39.11813,-123.20113,Vegetation,Rural,< 0.25 Acres,Fire Agency,UKIAH FIRE,102178810,Pacific Bell,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,07/21/15,10:46,37.18055,-121.06247,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,e/o dmc s/o cottenwood,,12000,Conductor,Overhead,Yes,7/21/15,10:46,Contact From Object,N.A.,Animal
+PG&E,07/22/15,11:03,38.12063,-122.24813,Vegetation,Urban,< 3 meters,Fire Agency,VALLEJO FD,102308149,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,07/22/15,14:21,38.79354,-120.71402,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,s\ 3204 stope dr,,12000,Conductor,Overhead,Yes,7/22/15,14:21,Contact From Object,N.A.,Vegetation
+PG&E,07/23/15,13:14,36.23983,-119.77674,Vegetation,Rural,< 0.25 Acres,Fire Agency,KINGS COUNTY,103242492,YES,12000,Conductor,Overhead,Yes,7/23/15,13:14,Contact From Object,N.A.,Vehicle
+PG&E,07/23/15,20:04,38.00746,-121.84819,Vegetation,Rural,< 0.25 Acres,Unknown,,Tower 006/081,,60000,Unknown,Overhead,Yes,7/23/15,20:04,Unknown,N.A.,N.A.
+PG&E,07/24/15,4:10,38.45227,-121.71819,Vegetation,Rural,< 0.25 Acres,Fire Agency,Dixon fire dept,101575623,Pacific Bell,12000,Conductor,Overhead,Yes,7/24/15,4:10,Contact From Object,N.A.,Animal
+PG&E,07/24/15,14:30,36.69127,-119.03117,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,46970 DUNLAP RD,YES,0 - 750,Transformer,Overhead,Yes,7/24/15,14:30,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,07/25/15,14:52,38.92645,-121.29455,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,wise rd west of gladding lincoln,None,12000,Conductor,Overhead,Yes,7/25/15,14:52,Equipment/ Facility Failure,Other,N.A.
+PG&E,07/25/15,19:34,39.78477,-121.86082,Vegetation,Urban,< 0.25 Acres,Fire Agency,CAL FIRE,"3668  hicks lane, Chico",,12000,Conductor,Overhead,Yes,7/25/15,19:34,Contact From Object,N.A.,Animal
+PG&E,07/26/15,12:25,39.15861,-121.06344,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,15499 ALLISON RANCH RD,,12000,Conductor,Overhead,Yes,7/26/15,12:25,Contact From Object,N.A.,Vegetation
+PG&E,07/27/15,9:41,37.65653,-121.75705,Vegetation,Rural,< 0.25 Acres,Fire Agency,LPFD,100926006,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,07/27/15,13:07,37.7673,-121.41998,Vegetation,Rural,< 0.25 Acres,Fire Agency,TRACY  FIRE DEPT,AT C258; S/S ARBOR W/ MACARTHUR,None,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,07/27/15,15:33,38.41829,-122.71671,Building,Urban,.26 - 9.99 Acres,Fire Agency,,"2180 Corby Ave, Santa Rosa",None,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,07/27/15,15:57,39.07114,-121.47278,Vegetation,Rural,< 0.25 Acres,Fire Agency,Wheatland fire dept,101324044,,12000,Other,Overhead,Yes,7/27/15,15:57,Equipment/ Facility Failure,Other,N.A.
+PG&E,07/28/15,12:15,40.90857,-124.07159,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100973761,Pacific Bell,12000,Lightning Arrestor,Overhead,Yes,7/28/15,12:15,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,07/28/15,12:19,37.76431,-121.34425,Vegetation,Rural,< 3 meters,Fire Agency,tracy fire dept,w/ berry ave on canal blvd,Pacific Bell,12000,Conductor,Overhead,Yes,7/28/15,12:19,Contact From Object,N.A.,Vehicle
+PG&E,07/28/15,12:32,37.94288,-120.94398,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,"Waverly Road and HWY 4, Farmington",,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,07/29/15,13:30,38.55494,-122.83032,Vegetation,Urban,< 3 meters,Unknown,,"1031 Starr View Drive, Windsor",,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Other
+PG&E,07/29/15,23:34,37.36622,-121.84381,Vegetation,Urban,< 3 meters,Fire Agency,SJFD,IRO 751 FLEMING AVE IN FIELD NEAR DRY CREEK BED,,12000,Conductor,Overhead,Yes,7/29/15,23:34,Contact From Object,N.A.,Vegetation
+PG&E,07/30/15,14:26,38.34592,-122.31054,Vegetation,Urban,< 0.25 Acres,Unknown,unknown,In ditch at base of pole. 12 by 60,Pacific Bell,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,07/30/15,14:55,38.44481,-121.82692,Building,Urban,Structure Only,Fire Agency,dixon fire dept,103309947,,12000,Transformer,Overhead,Yes,7/30/15,14:55,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,07/30/15,15:19,39.23214,-121.05674,Vegetation,Urban,.26 - 9.99 Acres,Fire Agency,GRASS VALLEY FIRE DEPT,"BEHIND 272 HUGHES RD, GRASS VALLEY",,12000,Conductor,Overhead,Yes,7/30/15,15:19,Contact From Object,N.A.,Vegetation
+PG&E,07/30/15,17:38,40.52027,-122.23259,Vegetation,Rural,< 0.25 Acres,Fire Agency,,MTR 10061916,,12000,Conductor,Overhead,Yes,7/30/15,17:38,Contact From Object,N.A.,Vegetation
+PG&E,07/30/15,17:56,37.90209,-120.47386,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,101019808,,17000,Conductor,Overhead,Yes,7/30/15,17:56,Contact From Object,N.A.,Other
+PG&E,07/30/15,19:11,37.81024,-120.12872,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,,,17000,Conductor,Overhead,Yes,7/30/15,19:11,Contact From Object,N.A.,Vegetation
+PG&E,07/31/15,15:57,36.79744,-119.81889,Vegetation,Urban,< 3 meters,Fire Agency,fresno fire dept,100856564,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,07/31/15,19:36,35.39864,-118.98998,Vegetation,Urban,< 0.25 Acres,Fire Agency,CITY OF BAKERSFIELD,100164905,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,07/31/15,22:45,38.38045,-120.56283,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,ACROSS FROM 1958 QUAIL LN   WEST POINT,None,12000,Conductor,Overhead,Yes,7/31/15,22:45,Contact From Object,N.A.,Vegetation
+PG&E,08/01/15,7:15,36.40289,-121.90944,Vegetation,Rural,< 0.25 Acres,Fire Agency,fire com,3spans loadside of 40283,,12000,Conductor,Overhead,Yes,8/1/15,7:15,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,08/01/15,14:30,34.95239,-120.29522,Vegetation,Rural,10 - 99 Acres,Unknown,,101868639,,12000,Conductor,Overhead,Yes,8/1/15,14:30,Contact From Object,N.A.,Animal
+PG&E,08/02/15,8:08,37.53385,-120.32769,Vegetation,Rural,< 0.25 Acres,Unknown,,Pole 013/002,,70000,Conductor,Overhead,Yes,8/2/15,8:08,Contact From Object,N.A.,Animal
+PG&E,08/02/15,13:48,37.87996,-122.52679,Vegetation,Urban,< 0.25 Acres,Fire Agency,mill valley FD,102276049,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,08/02/15,16:24,37.63172,-120.15471,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101076992,,21000,Conductor,Overhead,Yes,8/2/15,16:24,Unknown,N.A.,N.A.
+PG&E,08/03/15,0:07,40.5056,-122.34702,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,COTTONWOOD FIRE DEPT,101503428,Pacific Bell,12000,Conductor,Overhead,Yes,8/3/15,0:07,Contact From Object,N.A.,Vegetation
+PG&E,08/03/15,17:53,39.3361,-121.18939,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,Pole 000/008,,60000,Conductor,Overhead,Yes,8/3/15,17:53,Contact From Object,N.A.,Animal
+PG&E,08/04/15,16:05,40.08216,-121.15383,Vegetation,Rural,< 0.25 Acres,Fire Agency,USFS,100441220,None,0 - 750,Fuse,Overhead,Yes,8/4/15,16:05,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,08/04/15,17:57,37.58791,-120.22898,Vegetation,Rural,< 0.25 Acres,Unknown,,Str. 007/019,,70000,Conductor,Overhead,Yes,8/4/15,17:57,Contact From Object,N.A.,Animal
+PG&E,08/05/15,15:13,37.31997,-120.50507,Vegetation,Urban,< 0.25 Acres,Fire Agency,CAL FIRE,101162540,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,08/06/15,12:10,38.22687,-121.02613,Vegetation,Rural,< 0.25 Acres,Fire Agency,city of ione fire dept,103194904,Verizon,21000,Conductor,Overhead,Yes,8/6/15,12:10,Contact From Object,N.A.,Animal
+PG&E,08/06/15,16:18,39.27542,-122.0758,Vegetation,Rural,< 0.25 Acres,Unknown,,6 POLES E/LR 3036,,12000,Conductor,Overhead,Yes,8/6/15,16:18,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,08/07/15,6:24,37.50238,-122.10573,Vegetation,Rural,< 0.25 Acres,Unknown,,,,12000,Conductor,Overhead,Yes,8/7/15,6:24,Contact From Object,N.A.,Vegetation
+PG&E,08/07/15,6:32,37.84005,-122.18234,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100498058,Pacific Bell,12000,Conductor,Overhead,Yes,8/7/15,6:32,Contact From Object,N.A.,Vegetation
+PG&E,08/07/15,16:59,39.89175,-122.16936,Vegetation,Rural,10 - 99 Acres,Fire Agency,EVERY BODY,101500955,Pacific Bell,12000,Conductor,Overhead,Yes,8/7/15,16:59,Contact From Object,N.A.,Vehicle
+PG&E,08/08/15,7:42,39.20066,-121.21365,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,100076217,Pacific Bell,0 - 750,Transformer,Overhead,No,,,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,08/08/15,16:03,41.28443,-124.07568,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,PARKS SERVICE,100978185,Verizon,12000,Conductor,Overhead,Yes,8/8/15,16:03,Contact From Object,N.A.,Vehicle
+PG&E,08/10/15,11:30,37.94464,-121.96981,Vegetation,Urban,< 0.25 Acres,Fire Agency,CONTRA COSTA   FIRE,1 pole west of c/o 7069,None,21000,Conductor,Overhead,Yes,8/10/15,11:30,Contact From Object,N.A.,Other
+PG&E,08/10/15,12:41,36.88775,-121.81578,Vegetation,Rural,< 3 meters,Self Extinguished,,,None,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,08/10/15,21:58,38.52958,-120.81642,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,101235918,,0 - 750,Conductor,Overhead,Yes,8/10/15,21:58,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,08/11/15,4:26,36.12892,-121.01473,Vegetation,Rural,< 0.25 Acres,Fire Agency,unknown,101728045,,12000,Conductor,Overhead,Yes,8/11/15,4:26,Contact From Object,N.A.,Vehicle
+PG&E,08/12/15,17:38,40.21534,-123.86814,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,1 SP LD SD METER 1007960761,,12000,Conductor,Overhead,Yes,8/12/15,17:38,Contact From Object,N.A.,Vegetation
+PG&E,08/13/15,3:46,37.20721,-119.7343,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,44365 SAVAGE RD COARSEGOLD,,21000,Conductor,Overhead,Yes,8/13/15,3:46,Contact From Object,N.A.,Animal
+PG&E,08/13/15,3:57,38.77573,-121.85849,Vegetation,Rural,< 3 meters,Fire Agency,DON'T KNOW - COUNTY? THEY WERE GONE,LINE & BUCK PG&E POLE AT FUSES 79079.,None,12000,Conductor,Overhead,Yes,8/13/15,3:57,Contact From Object,N.A.,Vehicle
+PG&E,08/13/15,23:55,37.40768,-121.85385,Vegetation,Urban,< 0.25 Acres,Fire Agency,MILPITAS FD,100558502,Pacific Bell,12000,Fuse,Overhead,Yes,8/13/15,23:55,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,08/14/15,10:22,39.82885,-122.08507,Vegetation,Rural,< 0.25 Acres,Fire Agency,ORLAND FD(FIRE DEPT),4 TH AVE N/O 1/4 MI. CLARK RD,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,08/14/15,15:09,40.98287,-121.78016,Vegetation,Rural,< 0.25 Acres,Unknown,,101514540,,21000,Conductor,Overhead,Yes,8/14/15,15:09,Contact From Object,N.A.,Vegetation
+PG&E,08/14/15,17:44,37.88943,-120.49334,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"ENTRANCE TO 14650 HWY 108, JAMESTOWN",,17000,Conductor,Overhead,Yes,8/14/15,17:44,Contact From Object,N.A.,Vegetation
+PG&E,08/15/15,12:26,36.83442,-121.66135,Vegetation,Rural,< 3 meters,Customer,,101713223,Pacific Bell,12000,Conductor,Overhead,Yes,8/15/15,12:26,Contact From Object,N.A.,Vegetation
+PG&E,08/15/15,13:41,37.96072,-122.57094,Vegetation,Urban,< 0.25 Acres,Fire Agency,COUNTY FIRE,,,12000,Conductor,Overhead,Yes,8/15/15,13:41,Equipment/ Facility Failure,Pole,N.A.
+PG&E,08/16/15,7:35,35.45724,-120.65674,Vegetation,Rural,< 3 meters,Utility: PG&E,,"8932 SAN GABRIEL RD. SW C/O OF LOT, Atascadero",None,0 - 750,Conductor,Overhead,Yes,8/16/15,7:35,Contact From Object,N.A.,Animal
+PG&E,08/16/15,12:04,37.59395,-122.00663,Vegetation,Urban,< 0.25 Acres,Fire Agency,ALCO FIRE/UNION CITY,,,12000,Conductor,Overhead,Yes,8/16/15,12:04,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,08/16/15,20:59,38.59631,-121.52662,Vegetation,Urban,< 3 meters,Fire Agency,west sacramento FD,101606084,Pacific Bell,12000,Conductor,Overhead,Yes,8/16/15,20:59,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,08/17/15,8:37,37.07567,-122.02303,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101800237,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,08/17/15,14:29,36.7216,-119.83147,Vegetation,Rural,< 3 meters,Fire Agency,FRESNO FD,,,12000,Conductor,Overhead,Yes,8/17/15,14:29,Contact From Object,N.A.,Animal
+PG&E,08/17/15,17:33,38.83366,-123.55335,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,14 spans load side 2345,,12000,Conductor,Overhead,Yes,8/17/15,17:33,Contact From Object,N.A.,Vegetation
+PG&E,08/17/15,20:57,36.68672,-119.06123,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,46371 ORCHARD DRIVE,,12000,Conductor,Overhead,Yes,8/17/15,20:57,Contact From Object,N.A.,Vegetation
+PG&E,08/18/15,8:03,39.08673,-122.9236,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,at base of pole across from 3838 Hill rd Lakeport,,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,08/18/15,20:36,39.20201,-121.07844,Vegetation,Rural,< 0.25 Acres,Fire Agency,CO. & CDF,3 LOC HIDDEN VALLEY  ; OLD AUBURN RD 1,,12000,Conductor,Overhead,Yes,8/18/15,20:36,Contact From Object,N.A.,Vehicle
+PG&E,08/19/15,0:07,38.88616,-121.07449,Vegetation,Urban,< 0.25 Acres,Unknown,,,,12000,Capacitor Bank,Overhead,Yes,8/19/15,0:07,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,08/19/15,2:10,39.38484,-122.55136,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,STONYFORD FIRE DEPT,@ MTR # 1008056130,,12000,Conductor,Overhead,Yes,8/19/15,2:10,Contact From Object,N.A.,Vegetation
+PG&E,08/19/15,6:20,39.28313,-123.29312,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,MTR#50001225,None,12000,Conductor,Overhead,Yes,8/19/15,6:20,Contact From Object,N.A.,Vegetation
+PG&E,08/19/15,13:42,37.79257,-120.77483,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Stanislaus Consolidated fire .,102334306,Pacific Bell,17000,Conductor,Overhead,Yes,8/19/15,13:42,Contact From Object,N.A.,Vehicle
+PG&E,08/20/15,14:08,36.89894,-119.52129,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100725569,None,12000,Conductor,Overhead,Yes,8/20/15,14:08,Contact From Object,N.A.,Vegetation
+PG&E,08/21/15,13:54,37.42948,-121.91416,Vegetation,Urban,< 3 meters,Customer,,BACK YARD OF 296 ABBOTT,,21000,Conductor,Overhead,Yes,8/21/15,13:54,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,08/22/15,20:38,38.77476,-120.85635,Vegetation,Rural,< 3 meters,Self Extinguished,,at base of co pole 21721 - 720 Woodridge Rd.,Pacific Bell,12000,Conductor,Overhead,Yes,8/22/15,20:38,Contact From Object,N.A.,Vegetation
+PG&E,08/23/15,14:04,38.93344,-122.61999,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CL fire dept,7200 so. center dr,Pacific Bell,12000,Conductor,Overhead,Yes,8/23/15,14:04,Contact From Object,N.A.,Vegetation
+PG&E,08/23/15,14:15,37.3394,-120.43778,Vegetation,Rural,< 0.25 Acres,Utility: PG&E,,AT INTERSECTION OF HARBOR & DUNN,,12000,Lightning Arrestor,Overhead,Yes,8/23/15,14:15,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,08/24/15,22:48,37.89605,-122.6011,Vegetation,Rural,< 3 meters,Fire Agency,marin county fire,200' east of pan toll rd 50' north of panoramic hwy,,12000,Unknown,Overhead,Yes,8/24/15,22:48,Unknown,N.A.,N.A.
+PG&E,08/25/15,9:12,38.33511,-123.04487,Vegetation,Rural,< 0.25 Acres,Fire Agency,Bodega bay fire dept,101974695,Pacific Bell,12000,Conductor,Overhead,Yes,8/25/15,9:12,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,08/25/15,14:01,39.1491,-121.59715,Vegetation,Urban,< 0.25 Acres,Customer,,101338374,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,08/26/15,12:04,37.96382,-122.52432,Vegetation,Urban,< 0.25 Acres,Fire Agency,srfd,102242504,Pacific Bell,12000,Conductor,Overhead,Yes,8/26/15,12:04,Unknown,N.A.,N.A.
+PG&E,08/26/15,15:36,36.6245,-121.52891,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,MONTEREY COUNTY FIRE DEPT.,101770699,Pacific Bell,12000,Conductor,Overhead,Yes,8/26/15,15:36,Contact From Object,N.A.,Vehicle
+PG&E,08/26/15,23:49,36.38972,-121.36528,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,101756678,None,21000,Conductor,Overhead,Yes,8/26/15,23:49,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,08/27/15,3:30,37.8448,-122.19922,Vegetation,Urban,< 0.25 Acres,Unknown,,100487196,Pacific Bell,12000,Conductor,Overhead,Yes,8/27/15,3:30,Contact From Object,N.A.,Vegetation
+PG&E,08/27/15,18:00,37.40304,-121.90557,Vegetation,Urban,< 3 meters,Fire Agency,Milpitas F.D,switches 1238 and 1114,,21000,Switch,Overhead,Yes,8/27/15,18:00,Equipment/ Facility Failure,Switch,N.A.
+PG&E,08/28/15,3:14,36.6067,-119.8807,Vegetation,Rural,< 3 meters,Fire Agency,COUNTY FIRE,100710466,,12000,Conductor,Overhead,Yes,8/28/15,3:14,Contact From Object,N.A.,Vehicle
+PG&E,08/28/15,7:08,38.88394,-121.30302,Vegetation,Urban,< 0.25 Acres,Fire Agency,lincoln fire,100068928,Pacific Bell,12000,Conductor,Overhead,Yes,8/28/15,7:08,Contact From Object,N.A.,Animal
+PG&E,08/28/15,11:48,38.8513,-121.14687,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100055373,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,08/28/15,12:02,37.90471,-122.20584,Vegetation,Rural,< 0.25 Acres,Fire Agency,EB MUD,103623279,,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,08/28/15,21:45,38.01982,-122.06136,Vegetation,Rural,< 0.25 Acres,Fire Agency,CONTRA COSTA   FIRE,HWY 4   PORT CHICAGO   WILLOW PASS,,21000,Conductor,Overhead,Yes,8/28/15,21:45,Vandalism/Theft,N.A.,N.A.
+PG&E,08/28/15,22:05,37.80391,-121.20762,Vegetation,Urban,< 0.25 Acres,Fire Agency,Manteca Fire,102084916,Verizon,17000,Conductor,Overhead,Yes,8/28/15,22:05,Contact From Object,N.A.,Vehicle
+PG&E,08/29/15,3:30,38.63019,-122.8327,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,"Dirt road across from 3204 Rio Lindo Rd, Healdsburg",,12000,Conductor,Overhead,Yes,8/29/15,3:30,Contact From Object,N.A.,Vegetation
+PG&E,08/30/15,17:05,38.4039,-120.5559,Vegetation,Rural,< 0.25 Acres,Fire Agency,,centennial mine rd,,12000,Conductor,Overhead,Yes,8/30/15,17:05,Contact From Object,N.A.,Vegetation
+PG&E,08/31/15,14:28,36.53251,-121.1462,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,29401 Hwy 25,,21000,Conductor,Overhead,Yes,8/31/15,14:28,Contact From Object,N.A.,Vegetation
+PG&E,08/31/15,16:06,40.49147,-122.28348,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,101467437,Pacific Bell,12000,Conductor,Overhead,Yes,8/31/15,16:06,Contact From Object,N.A.,Vegetation
+PG&E,08/31/15,20:19,37.98851,-122.57776,Vegetation,Urban,< 0.25 Acres,Fire Agency,marin county fire,102222106,Pacific Bell,12000,Conductor,Overhead,Yes,8/31/15,20:19,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,09/01/15,1:29,38.15941,-121.61279,Other,Rural,Structure Only,Fire Agency,ISELTON FIRE DEPT,16393 JACKSON BL  ISLETON,,21000,Conductor,Overhead,Yes,9/1/15,1:29,Contact From Object,N.A.,Balloons
+PG&E,09/01/15,10:34,39.40544,-122.00113,Vegetation,Rural,< 0.25 Acres,Fire Agency,BUTTE CITY,101638382,,0 - 750,Conductor,Overhead,Yes,9/1/15,10:34,Vandalism/Theft,N.A.,N.A.
+PG&E,09/01/15,18:48,35.38207,-118.93012,Other,Urban,Structure Only,Fire Agency,KCFD,100120045,,0 - 750,Conductor,Overhead,Yes,9/1/15,18:48,Contact From Object,N.A.,Vehicle
+PG&E,09/01/15,22:15,35.64434,-120.70667,Vegetation,Rural,< 3 meters,Utility: PG&E,,101939126,Pacific Bell,12000,Conductor,Overhead,Yes,9/1/15,22:15,Contact From Object,N.A.,Vehicle
+PG&E,09/02/15,19:07,39.72505,-122.08708,Vegetation,Rural,< 3 meters,Fire Agency,ORLAND FIRE DEPT,,,0 - 750,Conductor,Overhead,No,,,Vandalism/Theft,N.A.,N.A.
+PG&E,09/03/15,19:51,37.6022,-122.03947,Vegetation,Urban,< 3 meters,Unknown,,,,12000,Conductor,Overhead,Yes,9/3/15,19:51,Contact From Object,N.A.,Animal
+PG&E,09/04/15,7:49,40.23182,-122.36428,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,E/O FRONTIER RD & N/O WAGON WAY,,12000,Conductor,Overhead,Yes,9/4/15,7:49,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,09/04/15,8:47,36.79246,-121.66288,Vegetation,Rural,< 0.25 Acres,Fire Agency,FIRE DEPT,101722853,Pacific Bell,12000,Conductor,Overhead,Yes,9/4/15,8:47,Contact From Object,N.A.,Vegetation
+PG&E,09/05/15,5:36,39.92755,-122.19149,Building,Urban,Structure Only,Fire Agency,city fire,101533501,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,09/05/15,16:47,37.69106,-122.0578,Vegetation,Urban,< 0.25 Acres,Fire Agency,CASTRO VALLEY,100914170,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Balloons
+PG&E,09/06/15,13:37,40.16925,-122.25692,Vegetation,Urban,< 3 meters,Fire Agency,Red Bluff fire dept,at switch 3571,,0 - 750,Conductor,Overhead,Yes,9/6/15,13:37,Contact From Object,N.A.,Balloons
+PG&E,09/06/15,19:27,34.61954,-120.25339,Vegetation,Rural,< 0.25 Acres,Fire Agency,Santa Barbara County Fire,meter# 1008400678,Verizon,12000,Conductor,Overhead,Yes,9/6/15,19:27,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,09/06/15,19:40,37.5133,-121.94693,Vegetation,Urban,< 3 meters,Customer,,100943889,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,09/07/15,0:05,37.69131,-122.13884,Vegetation,Urban,< 0.25 Acres,Fire Agency,SAN LEANDRO,,,12000,Conductor,Overhead,Yes,9/7/15,0:05,Contact From Object,N.A.,Vehicle
+PG&E,09/08/15,8:19,37.41316,-121.88199,Vegetation,Urban,< 3 meters,Fire Agency,MILPITAS FD,100561024,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,09/09/15,6:44,38.82695,-123.01578,Vegetation,Rural,< 3 meters,Fire Agency,CLOVERDALE FIRE,102039036,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,09/09/15,10:47,37.10405,-121.88526,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,100520291,,12000,Conductor,Overhead,Yes,9/9/15,10:47,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,09/10/15,5:42,37.46093,-121.84342,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,100619766,None,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,09/10/15,16:24,38.50487,-122.35346,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,103159970,Pacific Bell,21000,Conductor,Overhead,Yes,9/10/15,16:24,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,09/10/15,18:39,40.75692,-123.79577,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,Pole 096/004,,115000,Conductor,Overhead,Yes,9/10/15,18:39,Contact From Object,N.A.,Animal
+PG&E,09/11/15,6:38,37.52319,-122.26541,Other,Urban,Structure Only,Fire Agency,sc,,,12000,Conductor,Overhead,Yes,9/11/15,6:38,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,09/11/15,8:15,38.10938,-122.86999,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,102293992,Pacific Bell,12000,Conductor,Overhead,Yes,9/11/15,8:15,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,09/11/15,17:28,37.79722,-121.27472,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,MANTECA/LATHROP  FIRE DEPT,102105463,Verizon,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,09/12/15,9:51,39.11644,-121.0693,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,"TOP OF AVALON PLACE, GRASS VALLEY  TOWER NUMBER 19/152  40689729",,115000,Conductor,Overhead,Yes,9/12/15,9:51,Contact From Object,N.A.,Animal
+PG&E,09/12/15,11:09,38.60304,-120.67409,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101394996,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,09/12/15,11:36,35.35576,-119.04595,Vegetation,Urban,< 3 meters,Fire Agency,Bakersfield FD,100194486,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,09/13/15,8:48,37.72455,-121.32594,Vegetation,Rural,< 3 meters,Fire Agency,TRACY FIRE DEPT,CRNR OF KASSON AND LORENZEN,,12000,Conductor,Overhead,Yes,9/13/15,8:48,Contact From Object,N.A.,Animal
+PG&E,09/13/15,18:24,39.26731,-121.88308,Vegetation,Rural,< 0.25 Acres,Customer,,,None,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,09/15/15,22:05,36.58739,-119.56865,Vegetation,Rural,< 0.25 Acres,Fire Agency,COUNTY FIRE,100878350,Pacific Bell,0 - 750,Conductor,Overhead,Yes,9/15/15,22:05,Contact From Object,N.A.,Vegetation
+PG&E,09/16/15,0:18,37.9914,-121.66822,Vegetation,Rural,< 3 meters,Fire Agency,EAST COUNTY FIRE,100457468,,21000,Conductor,Overhead,Yes,9/16/15,0:18,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,09/18/15,16:23,37.86909,-121.20633,Vegetation,Rural,< 0.25 Acres,Fire Agency,FRENCH CAMP FIRE,IN CANAL AT 5027 FRENCH CAMP RD,,12000,Conductor,Overhead,Yes,9/18/15,16:23,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,09/18/15,17:05,37.8992,-120.45508,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,101019893,,17000,Conductor,Overhead,Yes,9/18/15,17:05,Contact From Object,N.A.,Vehicle
+PG&E,09/19/15,9:51,38.4755,-122.90691,Vegetation,Rural,< 0.25 Acres,Fire Agency,FORESTVILLE,103334444,,12000,Conductor,Overhead,Yes,9/19/15,9:51,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,09/20/15,18:53,39.86379,-121.65991,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,,,12000,Conductor,Overhead,Yes,9/20/15,18:53,Contact From Object,N.A.,Vegetation
+PG&E,09/21/15,4:06,38.65867,-121.04035,Vegetation,Urban,< 0.25 Acres,Fire Agency,CAL FIRE,1of3@13833,,21000,Conductor,Overhead,Yes,9/21/15,4:06,Wire-Wire Contact,N.A.,N.A.
+PG&E,09/21/15,14:23,40.47863,-123.77105,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"mile marker 29.1, e of hairpin turn",,12000,Conductor,Overhead,Yes,9/21/15,14:23,Contact From Object,N.A.,Vegetation
+PG&E,09/21/15,16:33,38.24517,-122.04115,Vegetation,Urban,< 0.25 Acres,Fire Agency,FAIRFIELD FIRE DEPT,REAR OF 900 TAFT,,12000,Conductor,Overhead,Yes,9/21/15,16:33,Contact From Object,N.A.,Balloons
+PG&E,09/22/15,0:44,39.0078,-122.89376,Vegetation,Rural,< 0.25 Acres,Fire Agency,LAKEPORT FIRE,102159765,,12000,Conductor,Overhead,Yes,9/22/15,0:44,Contact From Object,N.A.,Vehicle
+PG&E,09/22/15,15:55,39.12244,-121.63922,Vegetation,Urban,< 0.25 Acres,Fire Agency,YUBA CITY,101300036,Pacific Bell,12000,Conductor,Overhead,Yes,9/22/15,15:55,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,09/22/15,20:07,38.47786,-121.98948,Vegetation,Rural,< 0.25 Acres,Fire Agency,WINTERS?,101577611,Pacific Bell,12000,Conductor,Overhead,Yes,9/22/15,20:07,Contact From Object,N.A.,Vegetation
+PG&E,09/24/15,1:40,37.99362,-122.33375,Vegetation,Urban,< 0.25 Acres,Unknown,,101426065,Pacific Bell,12000,Conductor,Overhead,Yes,9/24/15,1:40,Contact From Object,N.A.,Vehicle
+PG&E,09/24/15,3:58,39.92032,-122.38591,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,103132877,,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,09/24/15,4:30,38.6769,-123.31398,Vegetation,Rural,< 0.25 Acres,Unknown,,Str. 041/007,,60000,Conductor,Overhead,Yes,9/24/15,4:30,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,09/24/15,13:56,39.35078,-121.24544,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,9692 Rices-Texas Hill rd.,Pacific Bell,12000,Conductor,Overhead,Yes,9/24/15,13:56,Contact From Object,N.A.,Vehicle
+PG&E,09/25/15,13:31,37.261,-120.73109,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,2 POLES EAST OF MTR#1009626581,,12000,Conductor,Overhead,Yes,9/25/15,13:31,Vandalism/Theft,N.A.,N.A.
+PG&E,09/25/15,17:28,38.71686,-120.76934,Vegetation,Rural,< 0.25 Acres,Fire Agency,el dorado F D,101405928,Pacific Bell,12000,Conductor,Overhead,Yes,9/25/15,17:28,Contact From Object,N.A.,Vegetation
+PG&E,09/26/15,14:24,37.98601,-121.23012,Vegetation,Rural,< 0.25 Acres,Fire Agency,waterloo/morada,102135315,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,09/28/15,4:42,38.78772,-121.20832,Vegetation,Urban,< 3 meters,Fire Agency,n/a,100058887,Pacific Bell,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,09/28/15,9:42,37.96233,-122.17651,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,100458692,Pacific Bell,12000,Conductor,Overhead,Yes,9/28/15,9:42,Contact From Object,N.A.,Balloons
+PG&E,09/28/15,18:10,38.13502,-122.47704,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,1 mile north of 37 on lakeville,,12000,Conductor,Overhead,Yes,9/28/15,18:10,Contact From Object,N.A.,Vehicle
+PG&E,09/29/15,2:52,38.337,-121.86009,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,VACAVILLE FD,FRY RD @ CLARK,,21000,Conductor,Overhead,Yes,9/29/15,2:52,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,09/29/15,19:05,35.41976,-118.94989,Vegetation,Urban,< 0.25 Acres,Fire Agency,KERN COUNTY FIRE DEPARTMENT,100193545,,12000,Conductor,Overhead,Yes,9/29/15,19:05,Vandalism/Theft,N.A.,N.A.
+PG&E,09/29/15,19:46,37.97786,-121.71949,Vegetation,Urban,< 0.25 Acres,Fire Agency,OAKLEY FIRE DEPARTMENT,100470700,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,09/30/15,16:41,37.35421,-122.15916,Vegetation,Rural,< 3 meters,Utility: PG&E,,100520776,Pacific Bell,12000,Conductor,Overhead,Yes,9/30/15,16:41,Contact From Object,N.A.,Vegetation
+PG&E,09/30/15,17:25,38.57469,-120.68203,Vegetation,Rural,< 0.25 Acres,Fire Agency,el dorado county,7901 shenandoah ln,,21000,Conductor,Overhead,Yes,9/30/15,17:25,Contact From Object,N.A.,Vegetation
+PG&E,09/30/15,19:38,39.21883,-122.24643,Vegetation,Rural,< 0.25 Acres,Fire Agency,willams fire demp,101641855,None,12000,Conductor,Overhead,Yes,9/30/15,19:38,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/01/15,2:43,39.66657,-121.77421,Vegetation,Rural,< 3 meters,Fire Agency,NOT KNOWN-GONE ON ARRIVAL,100345398,Pacific Bell,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,10/01/15,11:28,37.5088,-120.34464,Vegetation,Rural,< 0.25 Acres,Unknown,,Pole 019/007,,70000,Conductor,Overhead,Yes,10/1/15,11:28,Contamination,N.A.,N.A.
+PG&E,10/01/15,13:13,37.62911,-122.11534,Vegetation,Rural,< 0.25 Acres,Fire Agency,HAYWARD,X ST FROM 25920 EDEN LANDING RD,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/02/15,19:16,36.94544,-119.8302,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,101121403,None,21000,Conductor,Overhead,Yes,10/2/15,19:16,Contact From Object,N.A.,Other
+PG&E,10/03/15,7:27,39.06326,-122.62369,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,2323 new long valley rd,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,10/03/15,21:11,39.73584,-121.68554,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,honey run rd at cutouts 16015,,12000,Conductor,Overhead,Yes,10/3/15,21:11,Contact From Object,N.A.,Vegetation
+PG&E,10/03/15,22:51,39.11578,-122.88785,Vegetation,Rural,< 0.25 Acres,Fire Agency,"north shore fire department,",102164828,Pacific Bell,12000,Conductor,Overhead,Yes,10/3/15,22:51,Contact From Object,N.A.,Vegetation
+PG&E,10/04/15,1:03,39.79228,-121.58029,Vegetation,Urban,< 3 meters,Fire Agency,CAL FIRE,,,12000,Conductor,Overhead,Yes,10/4/15,1:03,Contact From Object,N.A.,Vegetation
+PG&E,10/04/15,1:32,39.22788,-121.37735,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,in field at 6275 sandstonel ln,,12000,Conductor,Overhead,Yes,10/4/15,1:32,Contact From Object,N.A.,Vegetation
+PG&E,10/04/15,8:26,38.81272,-121.2046,Vegetation,Urban,< 3 meters,Fire Agency,LOOMIS FIRE,C-126 TAYLOR RD AND SIERRA COLLEGE,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,10/04/15,14:35,39.47043,-121.68873,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"NORTH SIDE OF HWY 162, 1500' EAST OF RICETON HWY",,12000,Lightning Arrestor,Overhead,Yes,10/4/15,14:35,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,10/04/15,17:42,39.11654,-122.89514,Vegetation,Rural,10 - 99 Acres,Fire Agency,CAL FIRE,robin hll,,12000,Conductor,Overhead,Yes,10/4/15,17:42,Contact From Object,N.A.,Vegetation
+PG&E,10/06/15,18:48,40.51057,-122.22413,Vegetation,Rural,.26 - 9.99 Acres,Unknown,,101468974,Frontier,12000,Conductor,Overhead,Yes,10/6/15,18:48,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/07/15,15:03,35.30789,-120.83281,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101924901,Pacific Bell,12000,Conductor,Overhead,Yes,10/7/15,15:03,Contact From Object,N.A.,Vehicle
+PG&E,10/08/15,13:47,35.5473,-120.7701,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,DEERFIELD RD S/O HIDDEN VALEY RD.,,21000,Conductor,Overhead,Yes,10/8/15,13:47,Contact From Object,N.A.,Vegetation
+PG&E,10/09/15,6:32,38.36399,-122.91729,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"320 Freestone St, Frestone",Pacific Bell,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/09/15,19:03,38.38555,-122.53028,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,101988271,Pacific Bell,12000,Conductor,Overhead,Yes,10/9/15,19:03,Contact From Object,N.A.,Vegetation
+PG&E,10/09/15,22:16,37.59083,-122.35023,Vegetation,Urban,< 3 meters,Fire Agency,"central county fire, engine 34",at base of pole c0708,,0 - 750,Transformer,Overhead,No,,,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,10/10/15,0:20,40.8862,-124.08834,Building,Urban,Structure Only,Fire Agency,CAL FIRE,100966524,Pacific Bell,0 - 750,Conductor,Overhead,Yes,10/10/15,0:20,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/12/15,9:13,38.2919,-122.27061,Vegetation,Urban,< 3 meters,Customer,,"1111 Terrace Drive, Napa",,0 - 750,Conductor,Overhead,Yes,10/12/15,9:13,Contact From Object,N.A.,Animal
+PG&E,10/12/15,15:16,38.90206,-121.30109,Vegetation,Urban,.26 - 9.99 Acres,Fire Agency,CAL FIRE,1800 HWY 65 LINCOLN,None,21000,Conductor,Overhead,Yes,10/12/15,15:16,Contact From Object,N.A.,Vehicle
+PG&E,10/12/15,17:25,36.7074,-121.32824,Vegetation,Rural,300 - 999 Acres,Fire Agency,CAL FIRE,"Cienega Road X Limekiln Road, San Benito Co.",,21000,Conductor,Overhead,Yes,10/12/15,17:25,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,10/13/15,14:38,37.7935,-120.92841,Vegetation,Rural,< 0.25 Acres,Fire Agency,Escalon Fire,102335307,None,17000,Conductor,Overhead,Yes,10/13/15,14:38,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,10/13/15,18:32,37.74209,-121.94394,Building,Urban,Structure Only,Fire Agency,SAN RAMON FD,100902269,None,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/14/15,14:17,37.33299,-120.50565,Vegetation,Urban,.26 - 9.99 Acres,Fire Agency,CAL FIRE,3537 N HWY 59 MERCED,,0 - 750,Conductor,Overhead,Yes,10/14/15,14:17,Contact From Object,N.A.,Animal
+PG&E,10/15/15,18:51,36.50818,-119.79081,Building,Rural,Structure Only,Fire Agency,FRESNO COUNTY,100803812,,12000,Conductor,Overhead,Yes,10/15/15,18:51,Contact From Object,N.A.,Other
+PG&E,10/16/15,9:43,39.18704,-123.20151,Vegetation,Rural,< 3 meters,Unknown,,102196855,,12000,Conductor,Overhead,Yes,10/16/15,9:43,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/17/15,7:04,37.65736,-121.61965,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,CAL FIRE,13900 TESLA RD LIVERMORE,,12000,Conductor,Overhead,Yes,10/17/15,7:04,Equipment/ Facility Failure,Other,N.A.
+PG&E,10/18/15,20:06,37.55143,-122.29279,Vegetation,Urban,< 3 meters,Fire Agency,SAN MATEO,,,12000,Conductor,Overhead,Yes,10/18/15,20:06,Equipment/ Facility Failure,Other,N.A.
+PG&E,10/20/15,5:59,38.75713,-121.20793,Vegetation,Rural,< 0.25 Acres,Fire Agency,South Placer fire dist,5062 Whisper Way,,12000,Conductor,Overhead,Yes,10/20/15,5:59,Equipment/ Facility Failure,Other,N.A.
+PG&E,10/25/15,5:50,37.78434,-121.76833,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,cutouts 9504,,21000,Conductor,Overhead,Yes,10/25/15,5:50,Contact From Object,N.A.,Animal
+PG&E,10/27/15,16:15,38.61545,-121.0586,Vegetation,Rural,.26 - 9.99 Acres,Fire Agency,Cal FIRE,101375211,Pacific Bell,0 - 750,Transformer,Overhead,Yes,10/27/15,16:15,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,10/27/15,19:27,39.07294,-121.68991,Vegetation,Rural,< 3 meters,Fire Agency,sutter county,101329222,,0 - 750,Conductor,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,10/28/15,1:05,37.6398,-122.11553,Vegetation,Urban,< 3 meters,Fire Agency,Hayward Fire Dept,100928934,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/30/15,4:29,39.50594,-123.76719,Vegetation,Rural,< 3 meters,Fire Agency,local fire,in field next to hwy / 1 span SS of Fuse 4617,,12000,Conductor,Overhead,Yes,10/30/15,4:29,Contact From Object,N.A.,Vehicle
+PG&E,10/30/15,17:13,38.31661,-120.72265,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,"7600 HWY 49, Jackson",None,0 - 750,Transformer,Overhead,No,,,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,10/31/15,7:45,38.11567,-120.89308,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal FIRE,103763040,,12000,Conductor,Overhead,Yes,10/31/15,7:45,Contact From Object,N.A.,Vehicle
+PG&E,10/31/15,19:11,37.36976,-120.72342,Vegetation,Urban,< 3 meters,Fire Agency,CAL FIRE,5686 LINCOLN BLVD LIVINGSTON,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,11/01/15,4:22,40.43909,-122.39769,Vegetation,Rural,< 0.25 Acres,Fire Agency,"HAPPY VALLEY FIRE FIRST RESPONDER,",101490990,TDS HAPPY VALL,12000,Conductor,Overhead,Yes,11/1/15,4:22,Contact From Object,N.A.,Vehicle
+PG&E,11/02/15,9:53,36.77784,-119.93119,Building,Rural,Structure Only,Fire Agency,FRESNO COUNTY FIRE,7777 W SHIELDS,,12000,Conductor,Overhead,Yes,11/2/15,9:53,Equipment/ Facility Failure,Other,N.A.
+PG&E,11/04/15,17:30,36.82152,-120.50807,Vegetation,Rural,< 0.25 Acres,Fire Agency,FRESNO COUNTY FD,SMART METER RELAY # 16704,,0 - 750,Transformer,Overhead,No,,,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,11/04/15,19:21,37.55244,-122.33039,Vegetation,Urban,< 3 meters,Fire Agency,smfd,103376789,,4000,Conductor,Overhead,Yes,11/4/15,19:21,Contact From Object,N.A.,Vegetation
+PG&E,11/05/15,10:39,36.4092,-119.79702,Vegetation,Rural,< 0.25 Acres,Fire Agency,FRESNO COUNTY,100871818,,12000,Conductor,Overhead,Yes,11/5/15,10:39,Contact From Object,N.A.,Vehicle
+PG&E,11/05/15,12:11,35.37549,-118.94629,Vegetation,Urban,< 3 meters,Fire Agency,CITY,100254768,Pacific Bell,0 - 750,Conductor,Overhead,Yes,11/5/15,12:11,Contact From Object,N.A.,Animal
+PG&E,11/07/15,1:15,37.71531,-122.0647,Vegetation,Urban,< 3 meters,Customer,,100909751,Pacific Bell,0 - 750,Conductor,Overhead,No,,,Wire-Wire Contact,N.A.,N.A.
+PG&E,11/07/15,10:16,39.10539,-121.56071,Vegetation,Rural,< 0.25 Acres,Fire Agency,OLIVEHURST,101319679,,12000,Conductor,Overhead,Yes,11/7/15,10:16,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,11/09/15,5:55,34.99841,-120.3634,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,,,12000,Conductor,Overhead,Yes,11/9/15,5:55,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,11/13/15,12:03,40.59231,-124.14003,Vegetation,Urban,< 3 meters,Fire Agency,CITY,100993131,Pacific Bell,12000,Conductor,Overhead,Yes,11/13/15,12:03,Contact From Object,N.A.,Vehicle
+PG&E,11/15/15,13:47,37.2494,-121.91338,Other,Urban,Structure Only,Fire Agency,,"4879 Harwood Road, San Jose",None,12000,Conductor,Overhead,Yes,11/15/15,13:47,Contact From Object,N.A.,Animal
+PG&E,11/15/15,16:30,37.00075,-121.88503,Vegetation,Rural,< 3 meters,Customer,,101691004,Pacific Bell,21000,Conductor,Overhead,Yes,11/15/15,16:30,Contact From Object,N.A.,Vegetation
+PG&E,11/21/15,10:36,38.06789,-120.18719,Vegetation,Rural,< 3 meters,Fire Agency,CAL FIRE,101045952,Pacific Bell,17000,Conductor,Overhead,Yes,11/21/15,10:36,Contact From Object,N.A.,Vegetation
+PG&E,11/26/15,15:32,38.48758,-122.0021,Vegetation,Rural,< 3 meters,Customer,,101648676,Pacific Bell,12000,Conductor,Overhead,Yes,11/26/15,15:32,Contact From Object,N.A.,Animal
+PG&E,12/01/15,9:26,39.63148,-121.93025,Vegetation,Rural,< 0.25 Acres,Fire Agency,CAL FIRE,ORD FERRY RD WEST OF 126147,,12000,Conductor,Overhead,Yes,12/1/15,9:26,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,12/01/15,12:03,35.67436,-120.99322,Vegetation,Rural,< 0.25 Acres,Fire Agency,Cal FIRE,101860660,,21000,Conductor,Overhead,Yes,12/1/15,12:03,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,12/02/15,9:40,39.1743,-122.16029,Vegetation,Rural,< 0.25 Acres,Unknown,,Lr 30332,,12000,Conductor,Overhead,Yes,12/2/15,9:40,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,12/03/15,9:12,37.30438,-122.02024,Vegetation,Urban,Structure Only,Fire Agency,san jose fire dept,100522714,Pacific Bell,0 - 750,Conductor,Overhead,Yes,12/3/15,9:12,Contact From Object,N.A.,Vegetation
+PG&E,12/03/15,12:10,40.02767,-120.96522,Vegetation,Rural,< 0.25 Acres,Fire Agency,usfs,spanish creek campground,,12000,Conductor,Overhead,Yes,12/3/15,12:10,Contact From Object,N.A.,Vegetation
+PG&E,12/08/15,12:41,38.24886,-120.52284,Other,Rural,Structure Only,Unknown,,"7026 Railroad Flat Road, Mountain Ranch",,12000,Conductor,Overhead,Yes,12/8/15,12:41,Contact From Object,N.A.,Other
+PG&E,12/10/15,11:19,36.21833,-119.99511,Other,Rural,Structure Only,Fire Agency,CAL FIRE,100694631,,12000,Conductor,Overhead,Yes,12/10/15,11:19,Contact From Object,N.A.,Vehicle
+PG&E,12/11/15,7:27,34.87881,-120.33081,Vegetation,Rural,< 3 meters,Customer,,4 POLES LOAD SIDE OF SW 7807,,12000,Conductor,Overhead,Yes,12/11/15,7:27,Contact From Object,N.A.,Vegetation
+PG&E,12/22/15,2:44,38.27675,-122.50364,Building,Rural,Structure Only,Fire Agency,sonoma,102005111,Pacific Bell,12000,Conductor,Overhead,Yes,12/22/15,2:44,Contact From Object,N.A.,Vegetation
+PG&E,12/28/15,19:29,34.96793,-120.45289,Vegetation,Urban,< 3 meters,Fire Agency,SANTA MARIA FIRE DEPT.,103158996,,12000,Conductor,Overhead,Yes,12/28/15,19:29,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,12/31/15,19:12,37.15678,-121.98682,Vegetation,Rural,< 0.25 Acres,Fire Agency,LOS GATOS MONTE SERENO SARATOGA,100518215,Verizon,21000,Conductor,Overhead,Yes,12/31/15,19:12,Equipment/ Facility Failure,Other,N.A.
+PG&E,1/21/16,21:32,40.553,-124.11158,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,100994021,PACIFIC BELL,12000,Conductor,Overhead,Yes,1/21/16,21:32,Contact From Object,N.A.,Vegetation
+PG&E,1/23/16,15:41,39.9486,-122.37281,Vegetation,RURAL,< 0.25 Acres,Self Extinguished,N.A.,101524077,,12000,Conductor,Overhead,Yes,1/23/16,15:41,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,2/2/16,6:01,37.77553,-122.44109,Building,URBAN,Structure Only,Fire Agency,SFFD,101817610,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,2/2/16,6:01,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,2/5/16,20:50,40.01564,-122.4333,Vegetation,RURAL,< 0.25 Acres,Fire Agency,TEHAMA COUNTY & LOCAL VOLUNTEER,101529688,None,12000,Conductor,Overhead,Yes,2/5/16,20:50,Contact From Object,N.A.,Vehicle
+PG&E,2/8/16,3:55,39.7852,-121.5056,Vegetation,RURAL,< 0.25 Acres,Fire Agency,CAL FIRE/BUTTE COUNTY FIRE DEPT.,100337507,,12000,Conductor,Overhead,Yes,2/8/16,3:55,Contact From Object,N.A.,Vegetation
+PG&E,2/17/16,21:16,40.6677,-124.22734,Building,RURAL,Structure Only,Fire Agency,Cal Fire,101002728,,0 - 750,Conductor,Overhead,Yes,2/17/16,21:16,Contact From Object,N.A.,Other
+PG&E,2/26/16,15:40,36.83961,-119.79748,Building,URBAN,Structure Only,Self Extinguished,N.A.,100640781,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,2/26/16,15:40,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,3/28/16,12:16,39.74275,-121.82024,Vegetation,URBAN,< 3 meters,Fire Agency,Chico FD,100338028,PACIFIC BELL,12000,Conductor,Overhead,Yes,3/28/16,12:16,Contact From Object,N.A.,Vegetation
+PG&E,4/1/16,4:25,35.01641,-118.89213,Vegetation,RURAL,< 3 meters,Fire Agency,Kern County FD,100194594,None,12000,Other,Overhead,Yes,4/1/16,4:25,Equipment/ Facility Failure,Other,N.A.
+PG&E,4/2/16,3:48,35.37034,-118.97521,Vegetation,URBAN,< 0.25 Acres,Fire Agency,KCFD,100244829,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,4/2/16,7:06,35.03071,-120.52785,Vegetation,RURAL,< 3 meters,Fire Agency,SAN LUIS CO FIRE,101892796,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,4/2/16,7:06,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,4/3/16,6:54,40.41751,-122.21092,Other,RURAL,Structure Only,Fire Agency,COTTONWOOD FIRE DEPT,101488627,PACIFIC BELL,12000,Conductor,Overhead,Yes,4/3/16,6:54,Contact From Object,N.A.,Vehicle
+PG&E,4/3/16,12:01,38.68044,-123.12496,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101968191,,12000,Conductor,Overhead,Yes,4/3/16,12:01,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,4/4/16,0:08,37.75674,-121.41933,Vegetation,URBAN,< 3 meters,Fire Agency,Tracy FD,102119421,PACIFIC BELL,12000,Conductor,Overhead,Yes,4/4/16,0:08,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,4/7/16,17:07,35.34199,-119.01752,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Bakersfield FD,100245953,,0 - 750,Conductor,Overhead,Yes,4/7/16,17:07,Contact From Object,N.A.,Vegetation
+PG&E,4/8/16,13:14,39.04293,-121.1002,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100086751,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,4/8/16,13:14,Contact From Object,N.A.,Vehicle
+PG&E,4/13/16,19:28,40.49535,-124.12191,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,103659313,,12000,Conductor,Overhead,Yes,4/13/16,19:28,Contact From Object,N.A.,Vegetation
+PG&E,4/14/16,14:16,36.15837,-119.56502,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Kings County FD,100766367,,12000,Other,Overhead,Yes,4/14/16,14:16,Equipment/ Facility Failure,Other,N.A.
+PG&E,4/18/16,18:14,37.79381,-120.98419,Vegetation,URBAN,< 3 meters,Fire Agency,Escalon Fire,102332958,None,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,4/20/16,16:39,39.40237,-122.01414,Vegetation,RURAL,< 3 meters,Unknown,Unknown,101641171,,12000,Conductor,Overhead,Yes,4/20/16,16:39,Equipment/ Facility Failure,Other,N.A.
+PG&E,4/21/16,3:20,38.19073,-122.24723,Vegetation,URBAN,< 0.25 Acres,Fire Agency,American Canyon FD,102295263,PACIFIC BELL,12000,Conductor,Overhead,Yes,4/21/16,3:20,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,4/21/16,9:25,39.29298,-123.76901,Vegetation,RURAL,< 3 meters,Customer,N.A.,103312287,,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,4/22/16,17:10,37.8875,-121.69648,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Brentwood FD,100506567,None,0 - 750,Transformer,Overhead,No,,,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,4/22/16,22:02,35.34916,-119.05375,Vegetation,URBAN,< 3 meters,Customer,N.A.,100156969,Yes,0 - 750,Conductor,Overhead,Yes,4/22/16,22:02,Contact From Object,N.A.,Vegetation
+PG&E,4/23/16,18:32,36.49064,-119.62925,Vegetation,RURAL,< 0.25 Acres,Fire Agency,city of selma,100818205,,12000,Conductor,Overhead,Yes,4/23/16,18:32,Contact From Object,N.A.,Balloons
+PG&E,4/24/16,11:10,34.70896,-120.46117,Vegetation,URBAN,.26 - 9.99 Acres,Fire Agency,Santa Barbara County FD,101898989,,12000,Conductor,Overhead,Yes,4/24/16,11:10,Contact From Object,N.A.,Vegetation
+PG&E,4/25/16,12:34,36.47607,-119.79041,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100875278,,12000,Conductor,Overhead,Yes,4/25/16,12:34,Equipment/ Facility Failure,Pole,N.A.
+PG&E,4/25/16,14:50,35.54445,-119.08687,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Kern County FD,100207184,None,12000,Conductor,Overhead,Yes,4/25/16,14:50,Other,N.A.,N.A.
+PG&E,4/27/16,14:02,36.51612,-119.25966,Vegetation,RURAL,< 3 meters,Unknown,Unknown,100755216,Pacific Bell,12000,Conductor,Overhead,Yes,4/27/16,14:02,Contact From Object,N.A.,Other
+PG&E,4/30/16,17:59,38.3142,-120.90148,Vegetation,RURAL,< 3 meters,Fire Agency,Kern County FD,,,12000,Conductor,Overhead,Yes,4/30/16,17:59,Contact From Object,N.A.,Vegetation
+PG&E,4/30/16,16:40,37.00665,-120.63785,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Merced County FD,103083239,,12000,Conductor,Overhead,Yes,4/30/16,16:40,Unknown,N.A.,N.A.
+PG&E,4/30/16,13:41,38.25879,-122.02549,Vegetation,URBAN,< 3 meters,Fire Agency,Fairfield FD,101560133,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,4/30/16,13:41,Contact From Object,N.A.,Vegetation
+PG&E,5/2/16,10:05,37.91481,-120.61782,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101283625,CALAVERAS TELE,17000,Conductor,Overhead,Yes,5/2/16,10:05,Contact From Object,N.A.,Other
+PG&E,5/9/16,17:05,35.98605,-119.42935,Vegetation,RURAL,< 3 meters,Unknown,Unknown,100663426,,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,5/11/16,12:15,37.67808,-122.47884,Vegetation,URBAN,< 3 meters,Fire Agency,DALY CITY,103565907,,0 - 750,Conductor,Overhead,Yes,5/11/16,12:15,Contact From Object,N.A.,Balloons
+PG&E,5/12/16,10:47,35.30243,-120.71591,Vegetation,RURAL,< 3 meters,Self Extinguished,N.A.,101937429,,12000,Conductor,Overhead,Yes,5/12/16,10:47,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,5/12/16,13:35,40.45382,-124.04774,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101006413,,12000,Conductor,Overhead,Yes,5/12/16,13:35,Contact From Object,N.A.,Vegetation
+PG&E,5/12/16,20:15,35.19217,-120.45631,Vegetation,RURAL,< 3 meters,Self Extinguished,N.A.,101857280,,12000,Conductor,Overhead,Yes,5/12/16,20:15,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,5/14/16,15:06,37.96876,-121.67042,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,100472239,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,5/14/16,15:06,Contact From Object,N.A.,Animal
+PG&E,5/14/16,22:06,39.1636,-121.56126,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Marysville FD,101312807,,12000,Switch,Overhead,Yes,5/14/16,22:06,Equipment/ Facility Failure,Switch,N.A.
+PG&E,5/15/16,15:54,36.79479,-119.39659,Vegetation,RURAL,100 - 299 Acres,Fire Agency,Cal Fire,100729685,None,12000,Conductor,Overhead,Yes,5/15/16,15:54,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,5/16/16,8:59,37.92826,-121.21642,Vegetation,RURAL,< 3 meters,Fire Agency,Unknown,102130215,PACIFIC BELL,12000,Conductor,Overhead,Yes,5/16/16,8:59,Contact From Object,N.A.,Vehicle
+PG&E,5/16/16,11:34,38.77343,-121.46921,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,103323287,,12000,Conductor,Overhead,Yes,5/16/16,11:34,Contact From Object,N.A.,Vehicle
+PG&E,5/17/16,10:01,35.23788,-118.9639,Vegetation,RURAL,< 3 meters,Fire Agency,KCFD,100135809,,0 - 750,Transformer,Overhead,Yes,5/17/16,10:01,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,5/17/16,16:03,35.38565,-119.00746,Vegetation,URBAN,< 3 meters,Fire Agency,Bakersfield FD,100246655,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,5/17/16,16:03,Contact From Object,N.A.,Vegetation
+PG&E,5/18/16,18:24,39.73815,-123.15874,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,,,12000,Conductor,Overhead,Yes,5/18/16,18:24,Contact From Object,N.A.,Vegetation
+PG&E,5/18/16,15:45,35.55502,-120.68032,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Atascadero FD,101901773,,21000,Conductor,Overhead,Yes,5/18/16,15:45,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,5/18/16,20:04,40.47788,-122.40312,Vegetation,RURAL,< 3 meters,Fire Agency,County,102307139,PACIFIC BELL,12000,Conductor,Overhead,Yes,5/18/16,20:04,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,5/19/16,1:42,34.6645,-120.39999,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Santa Barbara County FD,101916587,VERIZON CALIFO,12000,Conductor,Overhead,Yes,5/19/16,1:42,Contact From Object,N.A.,Vehicle
+PG&E,5/19/16,18:33,37.74005,-120.80338,Vegetation,RURAL,< 3 meters,Fire Agency,OAKDALE F.D.,102342932,,17000,Conductor,Overhead,Yes,5/19/16,18:33,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,5/19/16,18:54,38.81683,-123.58429,Vegetation,RURAL,< 3 meters,Fire Agency,Gualala Firw,102183917,PACIFIC BELL,12000,Conductor,Overhead,Yes,5/19/16,18:54,Contact From Object,N.A.,Vegetation
+PG&E,5/20/16,15:01,39.05589,-123.45813,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,102198323,,12000,Conductor,Overhead,Yes,5/20/16,15:01,Contact From Object,N.A.,Vegetation
+PG&E,5/20/16,18:54,37.30348,-121.83985,Vegetation,URBAN,.26 - 9.99 Acres,Fire Agency,San Jose FD,103457021,,21000,Unknown,Overhead,Yes,5/20/16,18:54,Unknown,N.A.,N.A.
+PG&E,5/20/16,20:43,35.49647,-120.68064,Vegetation,URBAN,.26 - 9.99 Acres,Fire Agency,Atascadero FD,101897769,PACIFIC BELL,0 - 750,Unknown,Overhead,No,,,Other,N.A.,N.A.
+PG&E,5/21/16,17:44,37.36898,-120.67718,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101162897,,12000,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,5/23/16,12:52,38.5529,-121.629,Vegetation,RURAL,< 3 meters,Utility: PG&E,N.A.,101593014,,12000,Conductor,Overhead,Yes,5/23/16,12:52,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,5/23/16,16:08,37.95368,-121.65932,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Contra Costa County FD,100472785,PACIFIC BELL,12000,Conductor,Overhead,Yes,5/23/16,16:08,Contact From Object,N.A.,Balloons
+PG&E,5/24/16,12:36,38.08114,-120.66798,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,101278239,,12000,Conductor,Overhead,Yes,5/24/16,12:36,Contact From Object,N.A.,Vehicle
+PG&E,5/26/16,17:42,35.54674,-119.09352,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,BCFD/KCFD,100207252,,12000,Conductor,Overhead,Yes,5/26/16,17:42,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,5/27/16,3:01,38.09345,-122.23443,Vegetation,URBAN,< 3 meters,Fire Agency,Vallejo FD,102217012,PACIFIC BELL,12000,Conductor,Overhead,Yes,5/27/16,3:01,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,5/28/16,15:53,36.7202,-119.71336,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Fresno FD,103297542,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,5/29/16,14:19,40.5795,-122.4694,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,103156596,Yes,12000,Conductor,Overhead,Yes,5/29/16,14:19,Contact From Object,N.A.,Vegetation
+PG&E,5/29/16,18:28,36.79502,-119.77159,Vegetation,URBAN,< 3 meters,Customer,N.A.,100839020,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,5/29/16,18:28,Equipment/ Facility Failure,Other,N.A.
+PG&E,5/30/16,20:37,35.45617,-118.93272,Vegetation,RURAL,< 0.25 Acres,Fire Agency,County,100118357,,0 - 750,Conductor,Overhead,Yes,5/30/16,20:37,Equipment/ Facility Failure,Pole,N.A.
+PG&E,5/31/16,4:02,35.79837,-120.97432,Vegetation,RURAL,< 0.25 Acres,Utility: PG&E,N.A.,101863413,,12000,Conductor,Overhead,Yes,5/31/16,4:02,Contact From Object,N.A.,Animal
+PG&E,5/31/16,8:24,35.73079,-119.89721,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,100170377,,12000,Conductor,Overhead,Yes,5/31/16,8:24,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,5/31/16,9:51,35.73138,-119.86766,Vegetation,RURAL,< 0.25 Acres,Self Extinguished,N.A.,100168140,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,5/31/16,10:20,39.19388,-122.09737,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Williams FD,101642880,,12000,Conductor,Overhead,Yes,5/31/16,10:20,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/1/16,14:00,36.79769,-121.73159,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,cal fire and north county,101712734,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/1/16,14:00,Contact From Object,N.A.,Other
+PG&E,6/1/16,22:31,37.92808,-120.75384,Vegetation,RURAL,.26 - 9.99 Acres,Unknown,Unknown,102343418,,115000,Conductor,Overhead,Yes,6/1/16,22:31,Contact From Object,N.A.,Animal
+PG&E,6/2/16,14:23,38.59011,-121.80422,Vegetation,RURAL,< 3 meters,Unknown,Unknown,101557874,,12000,Transformer,Overhead,Yes,6/2/16,14:23,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,6/2/16,14:57,37.0652,-121.56536,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,100607860,VERIZON CALIFO,0 - 750,Conductor,Overhead,Yes,6/2/16,14:57,Contact From Object,N.A.,Vegetation
+PG&E,6/2/16,15:15,34.58868,-120.10655,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Santa Barbara County FD,101918537,,12000,Conductor,Overhead,Yes,6/2/16,15:15,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,6/2/16,16:58,36.58572,-121.60518,Vegetation,RURAL,< 0.25 Acres,Fire Agency,County,101746812,,0 - 750,Conductor,Overhead,Yes,6/2/16,16:58,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,6/3/16,12:16,38.64354,-120.69588,Vegetation,RURAL,10 - 99 Acres,Fire Agency,cal-fire and usfs,103119737,,21000,Conductor,Overhead,Yes,6/3/16,12:16,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/3/16,16:45,35.40461,-119.03141,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Kern County FD,100242571,PACIFIC BELL,0 - 750,Transformer,Overhead,No,,,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,6/3/16,18:43,39.7482,-121.82316,Vegetation,URBAN,< 3 meters,Fire Agency,Chico FD,100344305,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/3/16,18:43,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/3/16,20:53,37.43457,-121.87724,Vegetation,URBAN,< 3 meters,Fire Agency,Milpitas FD,100559460,PACIFIC BELL,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,6/4/16,22:15,38.5117,-122.93727,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,,,12000,Conductor,Overhead,Yes,6/4/16,22:15,Contact From Object,N.A.,Vegetation
+PG&E,6/4/16,15:11,36.80489,-119.78712,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Fresno County FD,100828880,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/4/16,15:11,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,6/4/16,15:51,38.309,-121.76049,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Dixon FD,101568694,,21000,Conductor,Overhead,Yes,6/4/16,15:51,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/4/16,20:38,37.43457,-121.87724,Vegetation,URBAN,< 3 meters,Fire Agency,Milpitas FD,100559460,PACIFIC BELL,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,6/5/16,16:57,36.58681,-119.61136,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,,,12000,Conductor,Overhead,Yes,6/5/16,16:57,Contact From Object,N.A.,Vegetation
+PG&E,6/5/16,10:06,36.75041,-119.66863,Vegetation,RURAL,< 0.25 Acres,Utility: PG&E,N.A.,100780354,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/5/16,10:06,Contact From Object,N.A.,Animal
+PG&E,6/5/16,15:44,40.34409,-123.70996,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101009790,,60000,Conductor,Overhead,Yes,6/5/16,15:44,Contact From Object,N.A.,Animal
+PG&E,6/6/16,19:48,38.91285,-121.11925,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire/placer fire,100050264,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/6/16,19:48,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/7/16,13:55,36.93151,-119.86578,Vegetation,RURAL,< 3 meters,Utility: PG&E,N.A.,101215609,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/7/16,13:55,Contact From Object,N.A.,Vegetation
+PG&E,6/7/16,18:19,36.98869,-120.63768,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Cal Fire,103214859,,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,6/7/16,19:40,35.5852,-120.58295,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,101943517,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,6/7/16,0:45,37.28555,-120.45169,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Cal Fire,103333060,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/7/16,0:45,Contact From Object,N.A.,Vehicle
+PG&E,6/7/16,9:12,39.36294,-121.77233,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100378551,None,12000,Conductor,Overhead,Yes,6/7/16,9:12,Contact From Object,N.A.,Animal
+PG&E,6/8/16,11:20,39.30325,-121.52073,Vegetation,RURAL,< 3 meters,Customer,N.A.,101331693,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/8/16,11:20,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/8/16,0:21,36.75666,-119.79698,Vegetation,URBAN,Structure Only,Fire Agency,Fresno FD,100864822,,12000,Conductor,Overhead,Yes,6/8/16,0:21,Contact From Object,N.A.,Vegetation
+PG&E,6/8/16,16:50,35.67162,-120.59802,Building,RURAL,Structure Only,Fire Agency,Cal Fire,101867293,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/8/16,16:50,Contact From Object,N.A.,Vehicle
+PG&E,6/9/16,14:26,38.70031,-120.84704,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101390214,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/9/16,14:26,Contact From Object,N.A.,Animal
+PG&E,6/9/16,10:52,36.80579,-119.71026,Vegetation,URBAN,< 3 meters,Unknown,Unknown,100794383,,21000,Conductor,Overhead,Yes,6/9/16,10:52,Contact From Object,N.A.,Balloons
+PG&E,6/9/16,23:39,39.01479,-122.85698,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,102143661,,12000,Conductor,Overhead,Yes,6/9/16,23:39,Contact From Object,N.A.,Vehicle
+PG&E,6/10/16,8:25,36.72962,-119.69974,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Fresno FD,102309139,,12000,Conductor,Overhead,Yes,6/10/16,8:25,Contact From Object,N.A.,Animal
+PG&E,6/10/16,15:51,39.99335,-123.78829,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100992291,,12000,Conductor,Overhead,Yes,6/10/16,15:51,Contact From Object,N.A.,Vegetation
+PG&E,6/10/16,15:57,38.17922,-120.66569,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,103809655,,12000,Conductor,Overhead,Yes,6/10/16,15:57,Contact From Object,N.A.,Vehicle
+PG&E,6/11/16,19:45,39.32654,-121.39213,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101292512,,0 - 750,Transformer,Overhead,Yes,6/11/16,19:45,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,6/12/16,8:01,36.59356,-119.98875,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,100668862,,12000,Conductor,Overhead,Yes,6/12/16,8:01,Equipment/ Facility Failure,Other,N.A.
+PG&E,6/12/16,10:22,38.04911,-120.39761,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101042514,,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,6/12/16,11:52,39.67992,-122.32165,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire/ORLAND,100405660,,21000,Conductor,Overhead,Yes,6/12/16,11:52,Contact From Object,N.A.,Vegetation
+PG&E,6/12/16,13:10,38.25347,-122.06276,Vegetation,URBAN,< 3 meters,Fire Agency,Fairfield FD,101557178,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/12/16,13:10,Contact From Object,N.A.,Balloons
+PG&E,6/12/16,13:14,37.5096,-120.04623,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101083986,,0 - 750,Conductor,Overhead,Yes,6/12/16,13:14,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/12/16,1:45,37.4643,-122.3459,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Unknown,100265854,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/12/16,1:45,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/12/16,19:19,39.15914,-121.58861,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Marysville FD,101312163,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/12/16,19:19,Contact From Object,N.A.,Vehicle
+PG&E,6/12/16,20:00,37.26941,-121.78935,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,San Jose FD,103434547,None,115000,Conductor,Overhead,Yes,6/12/16,20:00,Contact From Object,N.A.,Balloons
+PG&E,6/13/16,5:51,39.46406,-121.88581,Vegetation,RURAL,< 3 meters,Fire Agency,COLUSA GLENN FIRE,101617882,,12000,Transformer,Overhead,Yes,6/13/16,5:51,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,6/15/16,14:40,38.30793,-122.6553,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,,,0 - 750,Conductor,Overhead,Yes,6/15/16,14:40,Contact From Object,N.A.,Vegetation
+PG&E,6/15/16,13:09,38.4433,-120.75676,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,103169620,,12000,Conductor,Overhead,Yes,6/15/16,13:09,Contact From Object,N.A.,Vegetation
+PG&E,6/15/16,13:44,38.43752,-122.67706,Vegetation,URBAN,< 3 meters,Customer,N.A.,102024321,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/15/16,13:44,Contact From Object,N.A.,Vegetation
+PG&E,6/16/16,17:41,37.34057,-121.78229,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,San Jose FD,100576793,PACIFIC BELL,21000,Conductor,Overhead,Yes,6/16/16,17:41,Contact From Object,N.A.,Vegetation
+PG&E,6/16/16,7:22,37.86781,-121.63822,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Contra Costa County FD,100497743,PACIFIC BELL,21000,Conductor,Overhead,Yes,6/16/16,7:22,Contact From Object,N.A.,Vehicle
+PG&E,6/16/16,13:07,39.0681,-121.66052,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Yuba City FD,101329181,,12000,Lightning Arrestor,Overhead,Yes,6/16/16,13:07,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,6/17/16,11:17,36.73252,-120.40494,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,102312507,,0 - 750,Capacitor Bank,Overhead,Yes,6/17/16,11:17,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,6/19/16,12:07,39.38113,-123.7737,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,102187888,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/19/16,12:07,Contact From Object,N.A.,Vegetation
+PG&E,6/19/16,17:19,38.45078,-122.35458,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,cal fire--napa fire,102256859,PACIFIC BELL,21000,Conductor,Overhead,Yes,6/19/16,17:19,Contact From Object,N.A.,Animal
+PG&E,6/19/16,15:50,38.24252,-121.85355,Vegetation,RURAL,< 0.25 Acres,Fire Agency,RIO VISTA MONTEZHUMA FIRE,101582754,,21000,Conductor,Overhead,Yes,6/19/16,15:50,Contact From Object,N.A.,Vehicle
+PG&E,6/20/16,13:57,36.53565,-119.37897,Vegetation,URBAN,< 3 meters,Customer,N.A.,103238848,,0 - 750,Conductor,Overhead,Yes,6/20/16,13:57,Contact From Object,N.A.,Vegetation
+PG&E,6/20/16,16:45,41.06971,-123.67893,Vegetation,RURAL,< 3 meters,Fire Agency,Hoopa FD,101011420,VERIZON CALIFO,12000,Conductor,Overhead,Yes,6/20/16,16:45,Contact From Object,N.A.,Vegetation
+PG&E,6/21/16,20:49,35.53525,-120.84574,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101900832,,12000,Conductor,Overhead,Yes,6/21/16,20:49,Contact From Object,N.A.,Vegetation
+PG&E,6/21/16,10:09,39.02942,-121.29275,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100024816,PACIFIC BELL,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Balloons
+PG&E,6/21/16,16:53,38.42328,-122.54477,Vegetation,RURAL,< 0.25 Acres,Fire Agency,KENWOOD FIRE XST,102036904,Yes,0 - 750,Conductor,Overhead,Yes,6/21/16,16:53,Contact From Object,N.A.,Vegetation
+PG&E,6/21/16,18:01,39.28517,-123.2053,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire/Redwood Valley FD,102176908,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/21/16,18:01,Contact From Object,N.A.,Vegetation
+PG&E,6/22/16,19:13,36.38751,-119.83496,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Kings County FD,100848643,,0 - 750,Conductor,Overhead,Yes,6/22/16,19:13,Contact From Object,N.A.,Vegetation
+PG&E,6/23/16,10:10,36.72434,-120.05834,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Fresno FD,100637712,KERMAN TELEPH,0 - 750,Conductor,Overhead,Yes,6/23/16,10:10,Contact From Object,N.A.,Vegetation
+PG&E,6/23/16,19:19,35.62119,-120.35616,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,101937184,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/23/16,19:19,Contact From Object,N.A.,Animal
+PG&E,6/23/16,21:33,38.12063,-121.9545,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Suisun Fire Protection District.,101558702,,0 - 750,Conductor,Overhead,Yes,6/23/16,21:33,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/24/16,3:07,38.71917,-121.0546,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire/EDH FIRE DEPT,101376553,,21000,Conductor,Overhead,Yes,6/24/16,3:07,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/24/16,14:38,40.22003,-122.28299,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101526647,PACIFIC BELL,0 - 750,Unknown,Overhead,Yes,6/24/16,14:38,Unknown,N.A.,N.A.
+PG&E,6/25/16,17:07,39.76026,-121.61876,Vegetation,URBAN,< 3 meters,Fire Agency,CAL FIRE/ PARADISE,100327279,,12000,Conductor,Overhead,Yes,6/25/16,17:07,Contact From Object,N.A.,Vehicle
+PG&E,6/26/16,16:38,39.50417,-121.44753,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100375810,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/26/16,16:38,Wire-Wire Contact,N.A.,N.A.
+PG&E,6/26/16,16:50,35.67721,-120.68396,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,County,101869974,None,0 - 750,Conductor,Overhead,No,,,Vandalism/Theft,N.A.,N.A.
+PG&E,6/26/16,17:59,38.8087,-121.51591,Vegetation,RURAL,< 0.25 Acres,Fire Agency,PLEASANT GROVE FD - SUTTER COUNTY,101340542,,12000,Conductor,Overhead,Yes,6/26/16,17:59,Contact From Object,N.A.,Animal
+PG&E,6/26/16,11:06,40.4832,-122.0466,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101483777,FRONTIER,12000,Conductor,Overhead,Yes,6/26/16,11:06,Contact From Object,N.A.,Vegetation
+PG&E,6/27/16,11:12,36.90888,-119.52242,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100726035,None,12000,Lightning Arrestor,Overhead,Yes,6/27/16,11:12,Equipment/ Facility Failure,Lightning Arrestor,N.A.
+PG&E,6/28/16,11:40,37.29978,-121.9766,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Unknown,100593023,PACIFIC BELL,12000,Conductor,Overhead,Yes,6/28/16,11:40,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/28/16,13:36,38.09613,-122.23043,Building,URBAN,Structure Only,Fire Agency,vall fire,102278744,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,6/28/16,13:36,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,6/28/16,9:11,37.10045,-120.22491,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Chowchilla FD,103810794,None,12000,Conductor,Overhead,Yes,6/28/16,9:11,Contact From Object,N.A.,Vegetation
+PG&E,6/29/16,12:55,36.50044,-121.4347,Vegetation,URBAN,< 0.25 Acres,Customer,N.A.,101754504,,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,6/30/16,0:03,39.8157,-121.5994,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,,,12000,Conductor,Overhead,Yes,6/30/16,0:03,Contact From Object,N.A.,Vegetation
+PG&E,6/30/16,17:14,40.0353,-122.56939,Vegetation,RURAL,300 - 999 Acres,Fire Agency,Cal Fire,101528146,,12000,Conductor,Overhead,Yes,6/30/16,17:14,Contact From Object,N.A.,Vegetation
+PG&E,6/30/16,14:20,37.99268,-120.39962,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Cal Fire,102327111,PACIFIC BELL,17000,Conductor,Overhead,Yes,6/30/16,14:20,Contact From Object,N.A.,Vegetation
+PG&E,7/1/16,22:03,37.92729,-122.31814,Vegetation,URBAN,.26 - 9.99 Acres,Fire Agency,CITY OF RICHMOND,101444612,PACIFIC BELL,4000,Conductor,Overhead,Yes,7/1/16,22:03,Contact From Object,N.A.,Balloons
+PG&E,7/2/16,4:05,37.78048,-121.49741,Vegetation,RURAL,< 3 meters,Utility: PG&E,N.A.,102094598,,12000,Conductor,Overhead,Yes,7/2/16,4:05,Contact From Object,N.A.,Vehicle
+PG&E,7/3/16,15:00,38.03483,-120.38088,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,101050507,,17000,Conductor,Overhead,Yes,7/3/16,15:00,Contact From Object,N.A.,Vegetation
+PG&E,7/4/16,7:43,38.76231,-121.21425,Vegetation,RURAL,< 0.25 Acres,Fire Agency,South Placer FD,103810320,,12000,Conductor,Overhead,Yes,7/4/16,7:43,Contact From Object,N.A.,Vegetation
+PG&E,7/5/16,8:35,36.239,-120.30154,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,100743822,,12000,Conductor,Overhead,Yes,7/5/16,8:35,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/5/16,10:36,36.28269,-120.26173,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Fresno County FD,100747232,,0 - 750,Conductor,Overhead,Yes,7/5/16,10:36,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/7/16,10:56,39.29658,-121.82628,Vegetation,RURAL,< 0.25 Acres,Fire Agency,LIVE OAK,101315522,,12000,Fuse,Overhead,Yes,7/7/16,10:56,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,7/8/16,10:49,38.33731,-122.12112,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,102291118,PACIFIC BELL,12000,Conductor,Overhead,Yes,7/8/16,10:49,Contact From Object,N.A.,Vegetation
+PG&E,7/8/16,15:13,33.61428,-117.11102,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Unknown,103070565,None,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,7/9/16,10:05,35.13105,-120.60687,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Unknown,101924844,,12000,Conductor,Overhead,Yes,7/9/16,10:05,Contact From Object,N.A.,Animal
+PG&E,7/9/16,14:57,38.50353,-121.78264,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Dixon FD,101599862,None,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/9/16,15:42,38.89276,-121.97476,Vegetation,RURAL,< 0.25 Acres,Fire Agency,DUGGAGAN FIRE,101602162,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,7/9/16,15:42,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/9/16,19:22,37.31108,-121.83127,Vegetation,URBAN,< 3 meters,Fire Agency,San Jose FD,100592926,PACIFIC BELL,0 - 750,Unknown,Overhead,Yes,7/9/16,19:22,Unknown,N.A.,N.A.
+PG&E,7/12/16,14:18,35.3471,-120.3813,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101879190,,21000,Conductor,Overhead,Yes,7/12/16,14:18,Contact From Object,N.A.,Vegetation
+PG&E,7/13/16,10:20,37.32768,-122.07194,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire/scfd,103510668,,115000,Conductor,Overhead,Yes,7/13/16,10:20,Contact From Object,N.A.,Animal
+PG&E,7/14/16,13:44,35.38333,-118.92324,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Kern County FD,100119861,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,7/15/16,5:19,35.1839,-120.5018,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,101846594,,12000,Conductor,Overhead,Yes,7/15/16,5:19,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,7/15/16,14:09,38.69651,-120.85983,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101412774,PACIFIC BELL,12000,Conductor,Overhead,Yes,7/15/16,14:09,Contact From Object,N.A.,Vegetation
+PG&E,7/15/16,14:26,38.13658,-122.70919,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,NOVATO FIRE AND OTHERS,102013570,PACIFIC BELL,12000,Conductor,Overhead,Yes,7/15/16,14:26,Contact From Object,N.A.,Vehicle
+PG&E,7/15/16,17:09,35.35853,-119.04094,Vegetation,URBAN,< 3 meters,Fire Agency,CITY,100194332,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,7/15/16,17:09,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/16/16,0:58,36.4379,-121.91983,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101669758,,12000,Other,Overhead,Yes,7/16/16,0:58,Equipment/ Facility Failure,Voltage Regulator,N.A.
+PG&E,7/16/16,8:19,37.48278,-119.86999,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101079104,None,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,7/16/16,20:26,38.49443,-122.49443,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Cal Fire,102265740,None,12000,Conductor,Overhead,Yes,7/16/16,20:26,Contact From Object,N.A.,Vegetation
+PG&E,7/18/16,7:39,36.7572,-119.78072,Vegetation,URBAN,< 3 meters,Self Extinguished,N.A.,100869066,PACIFIC BELL,0 - 750,Capacitor Bank,Overhead,Yes,7/18/16,7:39,Contact From Object,N.A.,Animal
+PG&E,7/18/16,9:11,36.99768,-119.98296,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,101017131,PACIFIC BELL,12000,Conductor,Overhead,Yes,7/18/16,9:11,Contact From Object,N.A.,Animal
+PG&E,7/18/16,15:56,37.32207,-121.80553,Vegetation,URBAN,.26 - 9.99 Acres,Fire Agency,San Jose FD,100579940,,21000,Conductor,Overhead,Yes,7/18/16,15:56,Equipment/ Facility Failure,Other,N.A.
+PG&E,7/18/16,17:14,36.91198,-121.79134,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101699685,PACIFIC BELL,21000,Switch,Overhead,Yes,7/18/16,17:14,Equipment/ Facility Failure,Sectionalizer,N.A.
+PG&E,7/19/16,1:53,38.07568,-122.53964,Vegetation,RURAL,< 3 meters,Fire Agency,NOVATO FIRE DEPT,102305231,,12000,Other,Overhead,Yes,7/19/16,1:53,Equipment/ Facility Failure,Recloser,N.A.
+PG&E,7/19/16,14:41,38.25346,-122.06278,Vegetation,URBAN,< 3 meters,Fire Agency,Fairfield FD,101557178,PACIFIC BELL,12000,Conductor,Overhead,Yes,7/19/16,14:41,Contact From Object,N.A.,Balloons
+PG&E,7/20/16,6:25,34.89329,-120.35134,Vegetation,RURAL,< 3 meters,Fire Agency,Santa Barbara County FD,101861585,VERIZON CALIFO,12000,Conductor,Overhead,Yes,7/20/16,6:25,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,7/20/16,19:15,37.77121,-121.81041,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100898986,PACIFIC BELL,21000,Conductor,Overhead,Yes,7/20/16,19:15,Contact From Object,N.A.,Vehicle
+PG&E,7/21/16,13:10,39.49649,-121.68858,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100416773,,12000,Conductor,Overhead,Yes,7/21/16,13:10,Contact From Object,N.A.,Vehicle
+PG&E,7/21/16,13:30,39.16788,-121.71653,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,101302589,PACIFIC BELL,12000,Capacitor Bank,Overhead,Yes,7/21/16,13:30,Contact From Object,N.A.,Animal
+PG&E,7/21/16,17:38,38.4941,-121.7874,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Dixon FD,101599745,PACIFIC BELL,12000,Conductor,Overhead,Yes,7/21/16,17:38,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,7/21/16,18:20,35.59224,-120.64739,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,103390807,,21000,Other,Overhead,Yes,7/21/16,18:20,Equipment/ Facility Failure,Recloser,N.A.
+PG&E,7/21/16,21:45,40.85656,-122.33873,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101455670,PACIFIC BELL,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,7/22/16,4:46,37.34653,-120.93287,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Merced County FD,101207784,,12000,Conductor,Overhead,Yes,7/22/16,4:46,Unknown,N.A.,N.A.
+PG&E,7/22/16,14:11,39.71213,-121.81363,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,100346440,,12000,Conductor,Overhead,Yes,7/22/16,14:11,Contact From Object,N.A.,Vehicle
+PG&E,7/23/16,12:45,38.01926,-121.90209,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Contra Costa County FD,102345455,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,7/23/16,16:12,35.3431,-119.04305,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Bakersfield FD,100256351,Yes,0 - 750,Conductor,Overhead,Yes,7/23/16,16:12,Contact From Object,N.A.,Vegetation
+PG&E,7/23/16,19:12,36.74092,-119.7273,Vegetation,URBAN,< 3 meters,Customer,N.A.,100820603,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,7/23/16,19:12,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,7/24/16,16:24,38.01047,-122.19414,Vegetation,RURAL,10 - 99 Acres,Fire Agency,CCD,103049639,,115000,Conductor,Overhead,Yes,7/24/16,16:24,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/25/16,10:14,37.476,-120.574,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,CAL FIRE MERCED,101195552,,21000,Conductor,Overhead,Yes,7/25/16,10:14,Contact From Object,N.A.,Vegetation
+PG&E,7/25/16,15:32,38.3522,-120.71065,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101263632,PACIFIC BELL,12000,Conductor,Overhead,Yes,7/25/16,15:32,Contact From Object,N.A.,Vegetation
+PG&E,7/27/16,15:29,38.83078,-122.1899,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,,,21000,Conductor,Overhead,Yes,7/27/16,15:29,Contact From Object,N.A.,Vegetation
+PG&E,7/27/16,11:53,37.86492,-120.51339,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101041792,,17000,Conductor,Overhead,Yes,7/27/16,11:53,Contact From Object,N.A.,Vegetation
+PG&E,7/27/16,15:04,40.82067,-124.1825,Vegetation,RURAL,< 3 meters,Fire Agency,SAMOA PENNISUL;A FIRE DEPT,100968543,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,7/27/16,17:05,38.53916,-122.76559,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,102029945,,60000,Conductor,Overhead,Yes,7/27/16,17:05,Contact From Object,N.A.,Animal
+PG&E,7/28/16,2:41,35.3674,-120.3977,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101849904,,21000,Conductor,Overhead,Yes,7/28/16,2:41,Contact From Object,N.A.,Vegetation
+PG&E,7/28/16,8:12,37.8207,-120.1388,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101037043,,0 - 750,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,7/28/16,12:58,37.23706,-119.81572,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,103323932,,21000,Conductor,Overhead,Yes,7/28/16,12:58,Contact From Object,N.A.,Vegetation
+PG&E,7/28/16,13:19,39.71267,-123.49731,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,102195566,,12000,Conductor,Overhead,Yes,7/28/16,13:19,Equipment/ Facility Failure,Pole,N.A.
+PG&E,7/28/16,14:07,39.68718,-121.71852,Vegetation,RURAL,10 - 99 Acres,Fire Agency,Cal Fire,103653216,,60000,Conductor,Overhead,Yes,7/28/16,14:07,Contact From Object,N.A.,Animal
+PG&E,7/28/16,14:24,37.82318,-120.13562,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101037045,,17000,Other,Overhead,No,,,Equipment/ Facility Failure,Guy/Span Wire,N.A.
+PG&E,7/28/16,16:16,36.74999,-119.72965,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Fresno FD,100818516,PACIFIC BELL,0 - 750,Other,Overhead,Yes,7/28/16,16:16,Equipment/ Facility Failure,Other,N.A.
+PG&E,7/29/16,18:16,38.57695,-122.61868,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Selma Fire Department,,,12000,Conductor,Overhead,Yes,7/29/16,18:16,Contact From Object,N.A.,Vegetation
+PG&E,7/29/16,1:31,41.03964,-123.67403,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Hoopa FD,100962351,,12000,Conductor,Overhead,Yes,7/29/16,1:31,Contact From Object,N.A.,Vegetation
+PG&E,7/29/16,15:47,39.04972,-121.51531,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101334767,,0 - 750,Unknown,Overhead,Yes,7/29/16,15:47,Unknown,N.A.,N.A.
+PG&E,7/29/16,18:50,38.02042,-122.06195,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Contra Costa County FD,100446986,,21000,Conductor,Overhead,Yes,7/29/16,18:50,Contact From Object,N.A.,Animal
+PG&E,7/30/16,11:04,35.19413,-118.91307,Vegetation,RURAL,< 0.25 Acres,Utility: PG&E,N.A.,100150295,,12000,Conductor,Overhead,Yes,7/30/16,11:04,Equipment/ Facility Failure,Insulator,N.A.
+PG&E,7/31/16,12:11,38.78271,-120.91682,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101417359,,21000,Conductor,Overhead,Yes,7/31/16,12:11,Contact From Object,N.A.,Balloons
+PG&E,8/1/16,12:50,38.90443,-121.12742,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,100078299,PACIFIC BELL,12000,Conductor,Overhead,Yes,8/1/16,12:50,Contact From Object,N.A.,Vegetation
+PG&E,8/1/16,16:47,38.93192,-121.46936,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Unknown,101292397,,0 - 750,Transformer,Overhead,Yes,8/1/16,16:47,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,8/1/16,18:29,38.69563,-120.92832,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101412720,PACIFIC BELL,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,8/2/16,6:52,38.19697,-122.2757,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Napa/American Canyon FD,103154739,,12000,Conductor,Overhead,Yes,8/2/16,6:52,Contact From Object,N.A.,Animal
+PG&E,8/2/16,16:15,37.03124,-119.43955,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Fresno County FD,100675986,,12000,Conductor,Overhead,Yes,8/2/16,16:15,Contact From Object,N.A.,Vehicle
+PG&E,8/3/16,4:38,38.84738,-120.81196,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,cal fire garden valley fire,103809676,,21000,Conductor,Overhead,Yes,8/3/16,4:38,Contact From Object,N.A.,Vegetation
+PG&E,8/3/16,12:41,39.32695,-120.60328,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,100001032,,12000,Conductor,Overhead,Yes,8/3/16,12:41,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/3/16,19:41,40.38679,-122.28216,Building,URBAN,Structure Only,Fire Agency,COTTONWOOD FIRE DEPT,101492556,Pacific Bell,12000,Conductor,Overhead,Yes,8/3/16,19:41,Contact From Object,N.A.,Vegetation
+PG&E,8/4/16,12:19,35.94249,-119.38442,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Tulare County Fire Dept.,103074837,,12000,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,8/5/16,12:40,38.34067,-122.25777,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,102284869,PACIFIC BELL,12000,Conductor,Overhead,Yes,8/5/16,12:40,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/5/16,12:42,38.40478,-120.52924,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,101244628,,12000,Conductor,Overhead,Yes,8/5/16,12:42,Contact From Object,N.A.,Vegetation
+PG&E,8/5/16,14:46,40.47975,-123.7803,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,103572261,,12000,Conductor,Overhead,Yes,8/5/16,14:46,Contact From Object,N.A.,Vegetation
+PG&E,8/5/16,20:44,39.02486,-122.66724,Vegetation,RURAL,< 0.25 Acres,Customer,N.A.,102154138,PACIFIC BELL,12000,Conductor,Overhead,Yes,8/5/16,20:44,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/6/16,18:53,38.28187,-122.30194,Vegetation,RURAL,< 3 meters,Unknown,Unknown,102277853,PACIFIC BELL,0 - 750,Fuse,Overhead,No,,,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,8/7/16,14:20,37.23157,-122.15518,Vegetation,RURAL,< 0.25 Acres,Fire Agency,cal fire/woodside fire,103413747,,12000,Conductor,Overhead,Yes,8/7/16,14:20,Contact From Object,N.A.,Vegetation
+PG&E,8/7/16,21:42,39.75295,-123.23615,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,102183401,None,12000,Conductor,Overhead,Yes,8/7/16,21:42,Contact From Object,N.A.,Vegetation
+PG&E,8/8/16,15:44,37.1382,-121.96723,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,100519919,,0 - 750,Unknown,Overhead,No,,,Unknown,N.A.,N.A.
+PG&E,8/9/16,10:18,37.05748,-119.97751,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101107871,,0 - 750,Conductor,Overhead,Yes,8/9/16,10:18,Contact From Object,N.A.,Animal
+PG&E,8/9/16,14:06,37.33984,-122.01107,Vegetation,URBAN,< 0.25 Acres,Fire Agency,sunnyvale fd,100555160,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,8/9/16,14:06,Contact From Object,N.A.,Vegetation
+PG&E,8/9/16,19:21,38.91867,-120.95246,Vegetation,RURAL,< 0.25 Acres,Fire Agency,El Dorado County FD,100038028,PACIFIC BELL,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,8/10/16,17:59,37.08564,-121.0131,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Merced County FD,103203955,,12000,Conductor,Overhead,Yes,8/10/16,17:59,Contact From Object,N.A.,Animal
+PG&E,8/10/16,8:36,37.05749,-121.95557,Vegetation,RURAL,< 3 meters,Customer,N.A.,101680487,PACIFIC BELL,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Animal
+PG&E,8/10/16,15:26,36.80463,-119.76873,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Fresno County FD,100840914,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,8/10/16,15:26,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/11/16,4:10,38.98027,-121.41466,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,100021159,,12000,Conductor,Overhead,Yes,8/11/16,4:10,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/11/16,19:58,36.73703,-119.4482,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Fresno County FD,100774692,VERIZON CALIFO,12000,Conductor,Overhead,Yes,8/11/16,19:58,Contact From Object,N.A.,Vegetation
+PG&E,8/11/16,21:55,39.71747,-123.33687,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,102180749,VERIZON CALIFO,12000,Conductor,Overhead,Yes,8/11/16,21:55,Contact From Object,N.A.,Vegetation
+PG&E,8/12/16,10:08,38.87507,-122.42228,Vegetation,RURAL,10 - 99 Acres,Fire Agency,Cal Fire,102168360,,12000,Conductor,Overhead,Yes,8/12/16,10:08,Contact From Object,N.A.,Animal
+PG&E,8/13/16,14:31,37.46421,-119.85889,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,,,21000,Conductor,Overhead,Yes,8/13/16,14:31,Contact From Object,N.A.,Vegetation
+PG&E,8/13/16,14:00,39.20092,-121.213,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100011376,PACIFIC BELL,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,8/14/16,22:50,37.49772,-122.37011,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100307761,,12000,Conductor,Overhead,Yes,8/14/16,22:50,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/15/16,0:11,38.19738,-121.13376,Vegetation,RURAL,< 0.25 Acres,Fire Agency,clements fire dept,102075968,,21000,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,8/15/16,11:29,37.27735,-121.80903,Vegetation,URBAN,< 0.25 Acres,Fire Agency,San Jose FD,100588534,PACIFIC BELL,21000,Other,Overhead,Yes,8/15/16,11:29,Equipment/ Facility Failure,Recloser,N.A.
+PG&E,8/15/16,15:43,37.87843,-120.44884,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101020079,,17000,Conductor,Overhead,Yes,8/15/16,15:43,Contact From Object,N.A.,Vehicle
+PG&E,8/16/16,13:18,40.34169,-123.88029,Vegetation,RURAL,< 0.25 Acres,Fire Agency,"miranda/fruitland vol, calfire",100990019,None,12000,Conductor,Overhead,Yes,8/16/16,13:18,Contact From Object,N.A.,Vegetation
+PG&E,8/16/16,22:17,36.78699,-119.69569,Vegetation,URBAN,< 3 meters,Fire Agency,CLOVIS FIRE DEPT,100887618,,12000,Conductor,Overhead,Yes,8/16/16,22:17,Contact From Object,N.A.,Animal
+PG&E,8/17/16,9:41,35.37087,-118.96842,Building,URBAN,Structure Only,Fire Agency,Kern County FD,100162417,,21000,Transformer,Overhead,Yes,8/17/16,9:41,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,8/17/16,12:23,41.24946,-123.76707,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,103315791,,12000,Conductor,Overhead,Yes,8/17/16,12:23,Contact From Object,N.A.,Vegetation
+PG&E,8/17/16,14:02,39.6361,-121.74794,Vegetation,RURAL,< 3 meters,Customer,N.A.,100437069,,60000,Conductor,Overhead,Yes,8/17/16,14:02,Contact From Object,N.A.,Vehicle
+PG&E,8/17/16,18:37,37.30779,-119.65105,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101020932,,21000,Conductor,Overhead,Yes,8/17/16,18:37,Contact From Object,N.A.,Vehicle
+PG&E,8/18/16,15:22,36.61874,-119.44391,Vegetation,RURAL,< 3 meters,Self Extinguished,N.A.,100826791,VERIZON CALIFO,0 - 750,Conductor,Overhead,Yes,8/18/16,15:22,Contact From Object,N.A.,Animal
+PG&E,8/18/16,18:12,37.5956,-122.08648,Vegetation,URBAN,< 3 meters,Fire Agency,union city fd,100935109,PACIFIC BELL,0 - 750,Fuse,Overhead,No,,,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,8/18/16,18:36,36.97014,-121.54598,Vegetation,RURAL,< 3 meters,Fire Agency,Santa Clara county fire,103553473,,0 - 750,Capacitor Bank,Overhead,No,,,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,8/19/16,16:23,39.22351,-123.755,Vegetation,RURAL,< 3 meters,Fire Agency,Albion-Little River FD,102206661,,12000,Conductor,Overhead,Yes,8/19/16,16:23,Contact From Object,N.A.,Vehicle
+PG&E,8/20/16,18:51,36.45801,-119.34722,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Merced County FD,100729153,PACIFIC BELL,12000,Conductor,Overhead,Yes,8/20/16,18:51,Contact From Object,N.A.,Vehicle
+PG&E,8/21/16,13:02,38.44445,-122.24955,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,102291451,PACIFIC BELL,12000,Conductor,Overhead,Yes,8/21/16,13:02,Contact From Object,N.A.,Vegetation
+PG&E,8/22/16,16:10,37.96656,-120.2395,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Toulumne City FD,101043683,,17000,Conductor,Overhead,Yes,8/22/16,16:10,Contact From Object,N.A.,Vegetation
+PG&E,8/23/16,16:03,36.87411,-119.68648,Vegetation,RURAL,< 3 meters,Customer,N.A.,100731257,None,0 - 750,Conductor,Overhead,Yes,8/23/16,16:03,Contact From Object,N.A.,Vegetation
+PG&E,8/24/16,12:11,36.46335,-121.71202,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101750810,PACIFIC BELL,12000,Conductor,Overhead,Yes,8/24/16,12:11,Contact From Object,N.A.,Vehicle
+PG&E,8/24/16,14:19,36.84572,-119.87926,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Fresno FD,103277500,,21000,Conductor,Overhead,Yes,8/24/16,14:19,Contact From Object,N.A.,Animal
+PG&E,8/25/16,12:04,36.97263,-119.38162,Vegetation,RURAL,< 3 meters,Utility: PG&E,N.A.,100651318,PONDEROSA,0 - 750,Conductor,Overhead,No,,,Contact From Object,N.A.,Vegetation
+PG&E,8/25/16,11:31,37.37341,-122.08696,Vegetation,URBAN,< 3 meters,Self Extinguished,N.A.,100516445,PACIFIC BELL,12000,Conductor,Overhead,Yes,8/25/16,11:31,Contact From Object,N.A.,Balloons
+PG&E,8/27/16,5:37,36.04388,-120.11166,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Kings County FD,103246130,,70000,Conductor,Overhead,Yes,8/27/16,5:37,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/27/16,19:33,36.96458,-122.05289,Vegetation,URBAN,< 0.25 Acres,Fire Agency,SC FIRE DEPT & CDF,101677596,PACIFIC BELL,21000,Conductor,Overhead,Yes,8/27/16,19:33,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,8/28/16,16:49,36.56186,-119.7186,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,100683911,,12000,Conductor,Overhead,Yes,8/28/16,16:49,Contact From Object,N.A.,Vehicle
+PG&E,8/29/16,16:25,38.26928,-121.60294,Vegetation,RURAL,< 0.25 Acres,Fire Agency,SAC FIRE,101583637,FRONTIER,21000,Conductor,Overhead,Yes,8/29/16,16:25,Contact From Object,N.A.,Vehicle
+PG&E,8/30/16,16:01,36.59413,-121.9212,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Unknown,101734977,,21000,Conductor,Overhead,Yes,8/30/16,16:01,Contact From Object,N.A.,Vegetation
+PG&E,8/30/16,16:14,38.05755,-122.1639,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Benicia FD,102264159,PACIFIC BELL,21000,Conductor,Overhead,Yes,8/30/16,16:14,Contact From Object,N.A.,Vegetation
+PG&E,8/30/16,19:27,39.9288,-122.12765,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,103165395,Yes,12000,Conductor,Overhead,Yes,8/30/16,19:27,Equipment/ Facility Failure,Other,N.A.
+PG&E,8/31/16,11:17,37.37206,-120.45039,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Merced County FD,101147802,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,8/31/16,11:17,Contact From Object,N.A.,Vegetation
+PG&E,8/31/16,14:52,35.1918,-120.46971,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101942860,,12000,Conductor,Overhead,Yes,8/31/16,14:52,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,8/31/16,19:43,38.151,-121.68037,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,ISLETON,101665829,FRONTIER,21000,Conductor,Overhead,Yes,8/31/16,19:43,Contact From Object,N.A.,Animal
+PG&E,9/1/16,9:30,37.28144,-121.8603,Vegetation,URBAN,< 3 meters,Customer,N.A.,100617565,None,21000,Conductor,Overhead,Yes,9/1/16,9:30,Contact from Object,N.A.,Balloons
+PG&E,9/1/16,13:08,38.46327,-122.81616,Vegetation,RURAL,< 3 meters,Fire Agency,WINDSOR AND SANTA ROSA FIRE,101956270,PACIFIC BELL,12000,Conductor,Overhead,Yes,9/1/16,13:08,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/2/16,12:42,38.3868,-122.75553,Vegetation,RURAL,< 3 meters,Fire Agency,Santa Rosa FD,101969369,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/2/16,12:42,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/2/16,13:50,37.66811,-121.76805,Vegetation,URBAN,< 0.25 Acres,Fire Agency,LPFD,100954399,,21000,Conductor,Overhead,Yes,9/2/16,13:50,Contact From Object,N.A.,Balloons
+PG&E,9/3/16,20:12,39.3223,-121.9849,Vegetation,RURAL,< 3 meters,Unknown,Unknown,101614478,,12000,Conductor,Overhead,Yes,9/3/16,20:12,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/3/16,20:58,36.80805,-119.62789,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Unknown,103269240,,12000,Conductor,Overhead,Yes,9/3/16,20:58,Contact From Object,N.A.,Vehicle
+PG&E,9/5/16,8:26,39.52329,-122.14619,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,100430821,,21000,Conductor,Overhead,Yes,9/5/16,8:26,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,9/7/16,19:37,37.99206,-122.54447,Vegetation,URBAN,< 3 meters,Fire Agency,San Rafael FD,102249944,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/7/16,19:37,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/7/16,9:56,39.55281,-121.64163,Vegetation,RURAL,.26 - 9.99 Acres,Unknown,Unknown,103653028,,60000,Conductor,Overhead,Yes,9/7/16,9:56,Contact From Object,N.A.,Animal
+PG&E,9/8/16,14:39,38.00133,-122.32902,Vegetation,URBAN,< 0.25 Acres,Fire Agency,PINOLE FIRE DEPT,101426911,,12000,Conductor,Overhead,Yes,9/8/16,14:39,Equipment/ Facility Failure,Other,N.A.
+PG&E,9/8/16,22:04,37.29175,-121.87109,Vegetation,URBAN,< 0.25 Acres,Fire Agency,San Jose FD,100598024,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/8/16,22:04,Contact From Object,N.A.,Animal
+PG&E,9/9/16,10:57,36.85174,-119.62254,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Fresno County FD,100746408,PACIFIC BELL,12000,Conductor,Overhead,Yes,9/9/16,10:57,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/9/16,13:22,37.28367,-120.47405,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Cal Fire,101018780,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/9/16,13:22,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,9/9/16,15:25,38.9202,-121.08588,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Cal Fire,100036304,PACIFIC BELL,12000,Capacitor Bank,Overhead,Yes,9/9/16,15:25,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,9/10/16,2:09,37.18617,-120.67754,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Merced County FD,101072400,,12000,Conductor,Overhead,Yes,9/10/16,2:09,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/11/16,21:24,36.95261,-119.72629,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Unknown,100652942,,21000,Unknown,Overhead,Yes,9/11/16,21:24,Unknown,N.A.,N.A.
+PG&E,9/12/16,4:24,36.3999,-121.90201,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire Hwy 1 Carmel Hill,101669614,,12000,Conductor,Overhead,Yes,9/12/16,4:24,Contact From Object,N.A.,Vegetation
+PG&E,9/12/16,12:38,38.78323,-120.6006,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101421708,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/12/16,12:38,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/12/16,18:47,36.5303,-119.3056,Vegetation,RURAL,< 0.25 Acres,Fire Agency,CUTLER FIRE,100807630,None,12000,Conductor,Overhead,Yes,9/12/16,18:47,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/12/16,20:42,37.355,-121.9355,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Santa Clara county fire,100608192,,12000,Conductor,Overhead,Yes,9/12/16,20:42,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,9/12/16,15:08,39.52556,-123.7655,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,102185070,,12000,Conductor,Overhead,Yes,9/12/16,15:08,Contact From Object,N.A.,Vegetation
+PG&E,9/13/16,10:26,39.19131,-121.18186,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,100082849,PACIFIC BELL,21000,Conductor,Overhead,Yes,9/13/16,10:26,Unknown,N.A.,N.A.
+PG&E,9/13/16,10:45,40.29579,-122.13182,Vegetation,RURAL,300 - 999 Acres,Fire Agency,Cal Fire,103702175,,60000,Conductor,Overhead,Yes,9/13/16,10:45,Contact From Object,N.A.,Animal
+PG&E,9/14/16,21:16,37.34475,-121.07646,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,STANISLUAS COUNTY,101228545,None,12000,Conductor,Overhead,Yes,9/14/16,21:16,Vandalism/Theft,N.A.,N.A.
+PG&E,9/14/16,23:25,39.47962,-121.85754,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,101618097,,12000,Conductor,Overhead,Yes,9/14/16,23:25,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/15/16,15:56,37.11024,-121.95092,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100520198,VERIZON CALIFO,12000,Conductor,Overhead,Yes,9/15/16,15:56,Contact From Object,N.A.,Vegetation
+PG&E,9/16/16,20:56,39.83874,-121.70232,Vegetation,RURAL,10 - 99 Acres,Fire Agency,Cal Fire,100441760,PACIFIC BELL,12000,Conductor,Overhead,Yes,9/16/16,20:56,Contact From Object,N.A.,Vegetation
+PG&E,9/17/16,10:03,38.04945,-121.0143,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Unknown,102123492,,12000,Fuse,Overhead,Yes,9/17/16,10:03,Equipment/ Facility Failure,Fuse,N.A.
+PG&E,9/17/16,17:47,37.10117,-120.12887,Vegetation,RURAL,< 3 meters,Fire Agency,Unknown,101062487,,12000,Conductor,Overhead,Yes,9/17/16,17:47,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/18/16,14:33,37.16185,-122.1347,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire & Boulder Creek Fire Dept.,103410909,Yes,12000,Conductor,Overhead,Yes,9/18/16,14:33,Equipment/ Facility Failure,Splice/Clamp/Connector,N.A.
+PG&E,9/19/16,14:09,37.94585,-122.37201,Vegetation,RURAL,< 3 meters,Fire Agency,Unknown,101433385,PACIFIC BELL,12000,Conductor,Overhead,Yes,9/19/16,14:09,Unknown,N.A.,N.A.
+PG&E,9/19/16,22:10,37.9653,-121.25794,Vegetation,URBAN,< 3 meters,Fire Agency,STOCKTON FIRE,102057961,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/19/16,22:10,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/19/16,8:51,35.44586,-119.09188,Vegetation,RURAL,< 0.25 Acres,Self Extinguished,N.A.,103239256,,115000,Conductor,Overhead,Yes,9/19/16,8:51,Contact From Object,N.A.,Animal
+PG&E,9/20/16,8:25,40.00442,-123.78712,Vegetation,RURAL,< 3 meters,Self Extinguished,N.A.,100992643,VERIZON CALIFO,12000,Conductor,Overhead,Yes,9/20/16,8:25,Contact From Object,N.A.,Vegetation
+PG&E,9/21/16,10:01,39.11732,-121.07105,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100014315,PACIFIC BELL,115000,Conductor,Overhead,Yes,9/21/16,10:01,Contact From Object,N.A.,Animal
+PG&E,9/21/16,19:11,38.78719,-123.55769,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire Point Arena  & Gualala Fir,103325552,,12000,Conductor,Overhead,Yes,9/21/16,19:11,Contact From Object,N.A.,Vegetation
+PG&E,9/21/16,21:00,38.82341,-122.20453,Vegetation,RURAL,< 3 meters,Customer,N.A.,101591523,,0 - 750,Conductor,Overhead,No,,,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/21/16,6:36,38.23127,-122.06355,Vegetation,RURAL,< 0.25 Acres,Unknown,Unknown,101563903,PACIFIC BELL,12000,Other,Overhead,No,,,Equipment/ Facility Failure,Other,N.A.
+PG&E,9/22/16,8:27,38.94979,-121.08174,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,100036441,,0 - 750,Capacitor Bank,Overhead,Yes,9/22/16,8:27,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,9/22/16,13:53,40.22402,-122.34174,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101539450,None,12000,Conductor,Overhead,Yes,9/22/16,13:53,Contact From Object,N.A.,Animal
+PG&E,9/22/16,11:06,38.63529,-122.85093,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,103142538,,12000,Conductor,Overhead,Yes,9/22/16,11:06,Contact From Object,N.A.,Vegetation
+PG&E,9/23/16,15:13,36.84982,-119.86126,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Fresno FD,100633830,None,12000,Conductor,Overhead,Yes,9/23/16,15:13,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/23/16,15:23,39.37836,-121.09225,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100091491,None,12000,Conductor,Overhead,Yes,9/23/16,15:23,Contact From Object,N.A.,Vegetation
+PG&E,9/24/16,14:32,36.91153,-121.36683,Vegetation,RURAL,< 3 meters,Fire Agency,Hollister Fire,101703542,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/24/16,14:32,Contact From Object,N.A.,Animal
+PG&E,9/25/16,12:13,39.34,-121.9144,Vegetation,RURAL,< 0.25 Acres,Fire Agency,GLENN COLUSA FIRE,101640793,,12000,Conductor,Overhead,Yes,9/25/16,12:13,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/25/16,16:29,36.72315,-119.71842,Vegetation,URBAN,< 0.25 Acres,Fire Agency,FFD #8,100815478,PACIFIC BELL,12000,Conductor,Overhead,Yes,9/25/16,16:29,Contact From Object,N.A.,Vehicle
+PG&E,9/25/16,19:19,37.09928,-122.11553,Vegetation,RURAL,< 0.25 Acres,Fire Agency,cal fire ben lomond fire,101670837,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/25/16,19:19,Contact From Object,N.A.,Vegetation
+PG&E,9/25/16,10:35,38.80186,-122.81755,Vegetation,RURAL,1000 - 4999 Acres,Fire Agency,Cal Fire,103613996,,115000,Other,Overhead,Yes,9/25/16,10:35,Equipment/ Facility Failure,Other,N.A.
+PG&E,9/26/16,10:40,38.01573,-122.68885,Vegetation,RURAL,< 0.25 Acres,Fire Agency,marin county fire,102252082,PACIFIC BELL,12000,Conductor,Overhead,Yes,9/26/16,10:40,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,9/27/16,12:28,37.87643,-122.5264,Vegetation,URBAN,< 3 meters,Fire Agency,Sounth Marin,102277447,,12000,Conductor,Overhead,Yes,9/27/16,12:28,Contact From Object,N.A.,Vegetation
+PG&E,9/28/16,5:30,38.09725,-121.31785,Vegetation,RURAL,< 3 meters,Fire Agency,LODI FIRE,102107151,,0 - 750,Capacitor Bank,Overhead,Yes,9/28/16,5:30,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,9/28/16,14:00,35.2145,-118.5625,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,,,0 - 750,Conductor,Overhead,Yes,9/28/16,14:00,Contact From Object,N.A.,Vegetation
+PG&E,9/28/16,16:21,37.14654,-121.66735,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Cal Fire,100601627,,21000,Conductor,Overhead,Yes,9/28/16,16:21,Contact From Object,N.A.,Vehicle
+PG&E,9/29/16,11:17,38.01782,-121.64836,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Contra Costa County FD,100457240,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,9/29/16,11:17,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/1/16,15:19,39.43838,-120.81597,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,State goverment forestry,100112411,,12000,Conductor,Overhead,Yes,10/1/16,15:19,Contact From Object,N.A.,Vegetation
+PG&E,10/2/16,15:51,38.21314,-122.1338,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Fairfield FD,101563172,PACIFIC BELL,12000,Other,Overhead,Yes,10/2/16,15:51,Contamination,N.A.,N.A.
+PG&E,10/2/16,16:41,39.88877,-121.66482,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,103358082,,12000,Other,Overhead,Yes,10/2/16,16:41,Other,N.A.,N.A.
+PG&E,10/3/16,18:23,34.59666,-120.09212,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Santa Barbara County FD,101895043,,12000,Conductor,Overhead,Yes,10/3/16,18:23,Contact From Object,N.A.,Vegetation
+PG&E,10/4/16,2:04,38.06652,-122.19613,Vegetation,URBAN,.26 - 9.99 Acres,Unknown,Unknown,103773890,,21000,Conductor,Overhead,Yes,10/4/16,2:04,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/4/16,12:50,35.20894,-119.23516,Vegetation,RURAL,< 3 meters,Fire Agency,County,103261612,,12000,Conductor,Overhead,Yes,10/4/16,12:50,Contact From Object,N.A.,Vehicle
+PG&E,10/5/16,16:23,35.2964,-118.77647,Vegetation,RURAL,10 - 99 Acres,Fire Agency,Kern County FD,100187871,,12000,Conductor,Overhead,Yes,10/5/16,16:23,Contact From Object,N.A.,Vegetation
+PG&E,10/6/16,22:06,35.4378,-119.6873,Vegetation,RURAL,< 0.25 Acres,Utility: PG&E,N.A.,100162148,,21000,Conductor,Overhead,Yes,10/6/16,22:06,Contact From Object,N.A.,Animal
+PG&E,10/7/16,8:17,37.98914,-121.04496,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Linden- Peters Fire Department,102119967,,0 - 750,Transformer,Overhead,Yes,10/7/16,8:17,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,10/8/16,6:52,39.57172,-121.72955,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,100396647,,12000,Conductor,Overhead,Yes,10/8/16,6:52,Equipment/ Facility Failure,Pole,N.A.
+PG&E,10/8/16,15:04,38.66859,-120.90911,Vegetation,RURAL,< 0.25 Acres,Customer,N.A.,101380856,,0 - 750,Capacitor Bank,Overhead,Yes,10/8/16,15:04,Equipment/ Facility Failure,Capacitor Bank,N.A.
+PG&E,10/8/16,16:31,39.0099,-122.61448,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,102152342,,0 - 750,Transformer,Overhead,Yes,10/8/16,16:31,Equipment/ Facility Failure,Transformer,N.A.
+PG&E,10/9/16,7:43,37.53617,-120.46687,Vegetation,RURAL,< 3 meters,Customer,N.A.,101197077,,0 - 750,Conductor,Overhead,Yes,10/9/16,7:43,Contact From Object,N.A.,Animal
+PG&E,10/9/16,18:52,38.65602,-120.97252,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101376768,,12000,Conductor,Overhead,Yes,10/9/16,18:52,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/9/16,22:47,38.2059,-121.8889,Vegetation,RURAL,< 0.25 Acres,Fire Agency,MONTEZUMA FIRE DISTRICT,101662848,,21000,Conductor,Overhead,Yes,10/9/16,22:47,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/10/16,10:06,38.4756,-122.9079,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,103002919,,12000,Conductor,Overhead,Yes,10/10/16,10:06,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/11/16,11:30,36.80244,-119.81017,Vegetation,URBAN,< 3 meters,Fire Agency,Unknown,100857712,PACIFIC BELL,21000,Conductor,Overhead,Yes,10/11/16,11:30,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/11/16,23:16,39.02008,-120.82943,Vegetation,RURAL,< 0.25 Acres,Fire Agency,cal fire.foresthill fire,100025501,,60000,Conductor,Overhead,Yes,10/11/16,23:16,Vandalism/Theft,N.A.,N.A.
+PG&E,10/13/16,23:14,40.49015,-122.37286,Vegetation,RURAL,< 0.25 Acres,Fire Agency,SHASTA COUNTY FIRE,101502366,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,10/13/16,23:14,Contact From Object,N.A.,Vegetation
+PG&E,10/13/16,23:52,39.75448,-122.20083,Building,URBAN,Structure Only,Fire Agency,CITY OF ORLAND,100361735,PACIFIC BELL,12000,Conductor,Overhead,Yes,10/13/16,23:52,Wire-Wire Contact,N.A.,N.A.
+PG&E,10/14/16,1:32,40.50068,-121.9162,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101489328,,12000,Conductor,Overhead,Yes,10/14/16,1:32,Contact From Object,N.A.,Vegetation
+PG&E,10/14/16,4:32,40.52282,-121.68134,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,101513661,,12000,Conductor,Overhead,Yes,10/14/16,4:32,Contact From Object,N.A.,Vegetation
+PG&E,10/14/16,10:24,37.74494,-121.93685,Vegetation,URBAN,< 0.25 Acres,Fire Agency,Contra Costa County FD,100902256,,21000,Other,Overhead,Yes,10/14/16,10:24,Contamination,N.A.,N.A.
+PG&E,10/14/16,10:36,37.7438,-121.934,Vegetation,URBAN,.26 - 9.99 Acres,Fire Agency,Cal Fire,100902265,,0 - 750,Conductor,Overhead,Yes,10/14/16,10:36,Equipment/ Facility Failure,Crossarm,N.A.
+PG&E,10/14/16,11:00,38.89625,-121.58915,Vegetation,RURAL,< 0.25 Acres,Fire Agency,placer,101334896,PACIFIC BELL,12000,Other,Overhead,Yes,10/14/16,11:00,Contamination,N.A.,N.A.
+PG&E,10/14/16,19:44,39.62446,-121.53822,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,100435570,,0 - 750,Conductor,Overhead,Yes,10/14/16,19:44,Contact From Object,N.A.,Vegetation
+PG&E,10/15/16,15:34,37.32547,-120.31099,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101142010,PACIFIC BELL,12000,Conductor,Overhead,Yes,10/15/16,15:34,Contact From Object,N.A.,Vegetation
+PG&E,10/18/16,10:50,37.29993,-120.72945,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Unknown,101166039,,12000,Conductor,Overhead,Yes,10/18/16,10:50,Contact From Object,N.A.,Animal
+PG&E,10/18/16,16:20,38.47124,-122.65687,Vegetation,URBAN,< 3 meters,Fire Agency,CITY OF SANTA ROSA,101966406,,0 - 750,Conductor,Overhead,Yes,10/18/16,16:20,Contact From Object,N.A.,Balloons
+PG&E,10/19/16,10:42,38.50979,-122.44996,Vegetation,RURAL,< 0.25 Acres,Fire Agency,st helena,102242552,PACIFIC BELL,21000,Conductor,Overhead,Yes,10/19/16,10:42,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/23/16,10:54,35.55451,-120.6708,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Cal Fire,101901785,,21000,Conductor,Overhead,Yes,10/23/16,10:54,Contact From Object,N.A.,Animal
+PG&E,10/23/16,14:16,38.2271,-121.04948,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,102074335,VERIZON CALIFO,21000,Conductor,Overhead,Yes,10/23/16,14:16,Contact From Object,N.A.,Vehicle
+PG&E,10/23/16,18:10,38.02104,-120.5991,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,101272943,,115000,Conductor,Overhead,Yes,10/23/16,18:10,Equipment/ Facility Failure,Conductor,N.A.
+PG&E,10/26/16,10:16,37.11994,-120.31132,Vegetation,RURAL,< 3 meters,Fire Agency,Chowchilla FD,101129171,,12000,Conductor,Overhead,Yes,10/26/16,10:16,Contact From Object,N.A.,Animal
+PG&E,10/31/16,17:04,36.66385,-119.74626,Vegetation,RURAL,.26 - 9.99 Acres,Fire Agency,Fresno County FD,100808306,,12000,Conductor,Overhead,Yes,10/31/16,17:04,Contact From Object,N.A.,Vegetation
+PG&E,11/9/16,9:06,37.45316,-119.64132,Vegetation,RURAL,< 0.25 Acres,Fire Agency,US FOREST SERVICE,101017062,,12000,Conductor,Overhead,Yes,11/9/16,9:06,Contact From Object,N.A.,Vegetation
+PG&E,11/14/16,3:25,35.43969,-120.89022,Vegetation,URBAN,< 3 meters,Fire Agency,Cayucos fire,101853338,PACIFIC BELL,0 - 750,Conductor,Overhead,Yes,11/14/16,3:25,Equipment/ Facility Failure,Other,N.A.
+PG&E,11/14/16,13:15,35.45772,-120.46186,Vegetation,RURAL,< 0.25 Acres,Fire Agency,Cal Fire,101895511,,21000,Conductor,Overhead,Yes,11/14/16,13:15,Equipment/ Facility Failure,Pole,N.A.
+PG&E,11/15/16,17:27,39.72747,-121.65571,Vegetation,RURAL,< 0.25 Acres,Fire Agency,CAL FIRE/BUTTE COUNTY FIRE DEPT.,100327525,PACIFIC BELL,12000,Conductor,Overhead,Yes,11/15/16,17:27,Contact From Object,N.A.,Vehicle
+PG&E,11/20/16,11:04,39.63262,-123.78228,Vegetation,RURAL,< 3 meters,Fire Agency,Cal Fire,102200173,,12000,Conductor,Overhead,Yes,11/20/16,11:04,Contact From Object,N.A.,Vegetation
+PG&E,11/26/16,12:10,35.32208,-118.7808,Vegetation,RURAL,< 0.25 Acres,Utility: PG&E,N.A.,102300399,,12000,Conductor,Overhead,Yes,11/26/16,12:10,Equipment/ Facility Failure,Insulator,N.A.
