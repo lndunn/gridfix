@@ -1,0 +1,6 @@
+﻿mean(log(x)),1.623
+var(log(x)),0.509
+mean(alpha),0.2
+var(alpha),1.00E-06
+mean(beta),63.8
+var(beta),0.342
