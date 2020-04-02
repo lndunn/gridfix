@@ -1,6 +1,12 @@
 numpy
+<<<<<<< HEAD
 pandas
 matplotlib
 scipy
 pymc3
 sklearn
+=======
+matplotlib
+scipy
+pandas
+>>>>>>> 3a41fe952ac97fbfd052f8376ead07e50d2c1e40
